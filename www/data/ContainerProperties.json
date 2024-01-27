@@ -1,0 +1,92 @@
+{
+    "Scene_Menu": {
+        "WindowLayer": {
+            "2,Window_MenuStatus": {
+                "x": 48,
+                "y": 0,
+                "width": 816,
+                "height": 444,
+                "opacity": 0,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            },
+            "0,Window_MenuCommand": {
+                "x": 0,
+                "y": 516,
+                "width": 816,
+                "height": 108,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            },
+            "1,Window_Gold": {
+                "x": 576,
+                "y": 444,
+                "width": 240,
+                "height": 72,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            },
+            "3,Window_MenuLabel": {
+                "x": 336,
+                "y": 444,
+                "width": 240,
+                "height": 72,
+                "opacity": 255,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            }
+        },
+        "Scene_Menu": {
+            "1,Sprite": {
+                "x": -48,
+                "y": 0
+            }
+        }
+    },
+    "Scene_Title": {
+        "Scene_Title": {
+            "0,Sprite": {
+                "x": 408,
+                "y": 312
+            }
+        },
+        "WindowLayer": {
+            "0,Window_TitleCommand": {
+                "x": 576,
+                "y": 480,
+                "width": 240,
+                "height": 144,
+                "opacity": 0,
+                "hidden": false,
+                "_customFontSize": 28,
+                "_customPadding": 18,
+                "_customLineHeight": 36,
+                "_customBackOpacity": 192,
+                "_customBackFileName": "",
+                "_customFontFace": ""
+            }
+        }
+    }
+}

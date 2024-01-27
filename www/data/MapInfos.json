@@ -1,0 +1,585 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "OP",
+        "order": 5,
+        "parentId": 13,
+        "scrollX": 1092,
+        "scrollY": 694.6666666666666
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "フレア部屋",
+        "order": 10,
+        "parentId": 20,
+        "scrollX": 1092,
+        "scrollY": 694.6666666666666
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "司令室部屋",
+        "order": 11,
+        "parentId": 20,
+        "scrollX": 1225.5,
+        "scrollY": 684.75
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "Debug",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 1638,
+        "scrollY": 922
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "ダンジョン(27,15)",
+        "order": 14,
+        "parentId": 0,
+        "scrollX": 1638,
+        "scrollY": 922
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "廃坑　入口",
+        "order": 15,
+        "parentId": 5,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "廃坑　1F",
+        "order": 16,
+        "parentId": 6,
+        "scrollX": 1225.5,
+        "scrollY": 684.75
+    },
+    {
+        "id": 8,
+        "expanded": false,
+        "name": "廃坑　B2F",
+        "order": 18,
+        "parentId": 6,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 633.3333333333334
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "廃坑　B1",
+        "order": 17,
+        "parentId": 6,
+        "scrollX": 1234.5,
+        "scrollY": 1512.75
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "回想部屋",
+        "order": 2,
+        "parentId": 4,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 11,
+        "expanded": true,
+        "name": "商店街",
+        "order": 12,
+        "parentId": 20,
+        "scrollX": 1634,
+        "scrollY": 913
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "ケンジ部屋",
+        "order": 13,
+        "parentId": 20,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "前半",
+        "order": 4,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 694.6666666666666
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "午前",
+        "order": 6,
+        "parentId": 13,
+        "scrollX": 1092,
+        "scrollY": 694.6666666666666
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "司令室部屋(午前)",
+        "order": 8,
+        "parentId": 14,
+        "scrollX": 1092,
+        "scrollY": 694.6666666666666
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "森　入口",
+        "order": 19,
+        "parentId": 5,
+        "scrollX": 1225.5,
+        "scrollY": 684.75
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "登山道　山頂",
+        "order": 33,
+        "parentId": 68,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 18,
+        "expanded": true,
+        "name": "市街地",
+        "order": 34,
+        "parentId": 5,
+        "scrollX": 1213.5,
+        "scrollY": 767.25
+    },
+    {
+        "id": 19,
+        "expanded": true,
+        "name": "BB団本拠地-中枢-",
+        "order": 44,
+        "parentId": 29,
+        "scrollX": 1213.5,
+        "scrollY": 899.25
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "午後",
+        "order": 9,
+        "parentId": 13,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "BB団本拠地-最深部-",
+        "order": 45,
+        "parentId": 29,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 713.3333333333334
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "森　エリア2",
+        "order": 21,
+        "parentId": 16,
+        "scrollX": 1213.5,
+        "scrollY": 923.25
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "森　エリア1",
+        "order": 20,
+        "parentId": 16,
+        "scrollX": 1426.5,
+        "scrollY": 923.25
+    },
+    {
+        "id": 24,
+        "expanded": false,
+        "name": "森　最深部",
+        "order": 22,
+        "parentId": 16,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 25,
+        "expanded": true,
+        "name": "公園",
+        "order": 35,
+        "parentId": 18,
+        "scrollX": 1378.5,
+        "scrollY": 863.25
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "住宅街",
+        "order": 36,
+        "parentId": 18,
+        "scrollX": 1378.6666666666667,
+        "scrollY": 1055.3333333333333
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "商店街",
+        "order": 37,
+        "parentId": 18,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 28,
+        "expanded": true,
+        "name": "司令室部屋(午前)（敗北ルート）",
+        "order": 58,
+        "parentId": 59,
+        "scrollX": 1225.5,
+        "scrollY": 684.75
+    },
+    {
+        "id": 29,
+        "expanded": true,
+        "name": "BB団本拠地1",
+        "order": 38,
+        "parentId": 5,
+        "scrollX": 1078.6666666666667,
+        "scrollY": 755.3333333333334
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "BB団本拠地2",
+        "order": 39,
+        "parentId": 29,
+        "scrollX": 720.8888888888889,
+        "scrollY": 922.2222222222222
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "BB団本拠地5",
+        "order": 42,
+        "parentId": 29,
+        "scrollX": 1213.5,
+        "scrollY": 912.75
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "水の洞窟　エリア1",
+        "order": 26,
+        "parentId": 5,
+        "scrollX": 1213.5,
+        "scrollY": 1091.25
+    },
+    {
+        "id": 33,
+        "expanded": false,
+        "name": "水の洞窟　エリア2",
+        "order": 27,
+        "parentId": 32,
+        "scrollX": 1213.5,
+        "scrollY": 1230.75
+    },
+    {
+        "id": 34,
+        "expanded": false,
+        "name": "水の洞窟　エリア3",
+        "order": 28,
+        "parentId": 32,
+        "scrollX": 1213.5,
+        "scrollY": 912.75
+    },
+    {
+        "id": 35,
+        "expanded": false,
+        "name": "水の洞窟　エリア4",
+        "order": 29,
+        "parentId": 32,
+        "scrollX": 1126.6666666666667,
+        "scrollY": 604
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "地下水路　B1",
+        "order": 23,
+        "parentId": 5,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 608.6666666666666
+    },
+    {
+        "id": 37,
+        "expanded": false,
+        "name": "地下水路　B2",
+        "order": 24,
+        "parentId": 36,
+        "scrollX": 2161.5,
+        "scrollY": 897.75
+    },
+    {
+        "id": 38,
+        "expanded": false,
+        "name": "地下水路　最深部",
+        "order": 25,
+        "parentId": 36,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 608.6666666666666
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "ギドウ部屋（敗北ルート）",
+        "order": 64,
+        "parentId": 60,
+        "scrollX": 1404,
+        "scrollY": 790.2857142857142
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "開発室",
+        "order": 3,
+        "parentId": 4,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    null,
+    null,
+    null,
+    {
+        "id": 44,
+        "expanded": true,
+        "name": "BB団本拠地-中間地点-",
+        "order": 41,
+        "parentId": 29,
+        "scrollX": 1078.6666666666667,
+        "scrollY": 975.3333333333334
+    },
+    null,
+    null,
+    null,
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "午前フレア部屋(敗北後)",
+        "order": 7,
+        "parentId": 14,
+        "scrollX": 1092,
+        "scrollY": 694.6666666666666
+    },
+    {
+        "id": 49,
+        "expanded": true,
+        "name": "後半(勝利)",
+        "order": 46,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "午前",
+        "order": 47,
+        "parentId": 49,
+        "scrollX": 1638,
+        "scrollY": 922
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "午前フレア部屋勝利",
+        "order": 48,
+        "parentId": 50,
+        "scrollX": 1092,
+        "scrollY": 694.6666666666666
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "司令室部屋(午前)勝利",
+        "order": 49,
+        "parentId": 50,
+        "scrollX": 1092,
+        "scrollY": 694.6666666666666
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "午後",
+        "order": 50,
+        "parentId": 49,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "フレア部屋（勝利ルート）",
+        "order": 51,
+        "parentId": 53,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "司令室部屋（勝利ルート）",
+        "order": 52,
+        "parentId": 53,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 608.6666666666666
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "商店街（勝利ルート）",
+        "order": 53,
+        "parentId": 53,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 608.6666666666666
+    },
+    {
+        "id": 57,
+        "expanded": true,
+        "name": "ケンジ部屋（勝利ルート）",
+        "order": 54,
+        "parentId": 53,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "後半(敗北)",
+        "order": 55,
+        "parentId": 0,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "午前",
+        "order": 56,
+        "parentId": 58,
+        "scrollX": 1225.5,
+        "scrollY": 684.75
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "午後",
+        "order": 59,
+        "parentId": 58,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "午前フレア部屋（敗北ルート）",
+        "order": 57,
+        "parentId": 59,
+        "scrollX": 1225.5,
+        "scrollY": 684.75
+    },
+    {
+        "id": 62,
+        "expanded": true,
+        "name": "BB団本拠地3",
+        "order": 40,
+        "parentId": 29,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 608.6666666666666
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "フレア部屋（敗北ルート）",
+        "order": 60,
+        "parentId": 60,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "司令室部屋（敗北ルート）",
+        "order": 61,
+        "parentId": 60,
+        "scrollX": 1092,
+        "scrollY": 614.6666666666666
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "商店街（敗北ルート）",
+        "order": 62,
+        "parentId": 60,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 608.6666666666666
+    },
+    {
+        "id": 66,
+        "expanded": true,
+        "name": "ケンジ部屋（敗北ルート）",
+        "order": 63,
+        "parentId": 60,
+        "scrollX": 1089.3333333333333,
+        "scrollY": 608.6666666666666
+    },
+    {
+        "id": 67,
+        "expanded": false,
+        "name": "BB団本拠地6",
+        "order": 43,
+        "parentId": 29,
+        "scrollX": 1213.5,
+        "scrollY": 912.75
+    },
+    {
+        "id": 68,
+        "expanded": true,
+        "name": "登山道1",
+        "order": 30,
+        "parentId": 5,
+        "scrollX": 1213.5,
+        "scrollY": 1656.75
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "登山道2",
+        "order": 31,
+        "parentId": 68,
+        "scrollX": 1570.5,
+        "scrollY": 1656.75
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "登山道3",
+        "order": 32,
+        "parentId": 68,
+        "scrollX": 1225.5,
+        "scrollY": 684.75
+    }
+]
