@@ -583,14 +583,14 @@ var $plugins = [
       "BGM Pan": "0",
       "---Battle Results---": "",
       "Cheer Wait": "90",
-      "Battle Results Text": "バトル結果",
-      "Battle Drops Text": "入手アイテム",
+      "Battle Results Text": "Battle Results",
+      "Battle Drops Text": "Obtained Items",
       "---EXP Window---": "",
       "Font Size": "28",
       "Level Up Text": "LEVEL UP!",
       "Max Level Text": "MAX LEVEL",
       "Show Skills Learned": "false",
-      "Gained EXP Text": "獲得経験値",
+      "Gained EXP Text": "Gained EXP",
       "Gained EXP Format": "+%1",
       "EXP Gauge Color 1": "30",
       "EXP Gauge Color 2": "31",
@@ -930,15 +930,15 @@ var $plugins = [
       "Command Window Rows": "4",
       "Command Alignment": "center",
       "---General---": "",
-      "General Command": "人物",
-      "Parameters Text": "パラメーター",
-      "Experience Text": "経験値",
-      "Total Format": "合計 %1 と次の %2",
+      "General Command": "Partner",
+      "Parameters Text": "Parameters",
+      "Experience Text": "EXP",
+      "Total Format": "Total %1 Next %2",
       "EXP Gauge Color 1": "30",
       "EXP Gauge Color 2": "31",
       "---Parameters---": "",
-      "Parameters Command": "ステータス",
-      "Graph Text": "ステータス",
+      "Parameters Command": "Status",
+      "Graph Text": "Status",
       "ATK Color": "#ed1c24 #f26c4f",
       "DEF Color": "#f7941d #fdc689",
       "MAT Color": "#605ca8 #bd8cbf",
@@ -957,14 +957,14 @@ var $plugins = [
       "Exactly 0%": "31",
       "Below 0%": "27",
       "---Elements---": "",
-      "Elements Command": "属性",
+      "Elements Command": "Attributes",
       "Elements Decimal": "2",
       "Element Column 1": "1",
       "Element Column 2": "2 3 4 5 6 7 8 9",
       "Element Column 3": "",
       "Element Column 4": "",
       "---States---": "",
-      "States Command": "状態異常",
+      "States Command": "States",
       "States Decimal": "2",
       "States Column 1": "1 4 5 6",
       "States Column 2": "7 8 9 10",
@@ -1128,7 +1128,7 @@ var $plugins = [
     description: "メニュー画面のサブコマンドプラグイン",
     parameters: {
       サブコマンド:
-        '["{\\"CommandId\\":\\"0\\",\\"Name\\":\\"null\\",\\"ParentName\\":\\"Hステータス\\",\\"HiddenSwitchId\\":\\"0\\",\\"DisableSwitchId\\":\\"0\\",\\"Script\\":\\"SceneManager.callCustomMenu(\'Scene_HStatus\');\\",\\"ReturnMap\\":\\"false\\",\\"MapId\\":\\"0\\",\\"SelectMember\\":\\"false\\"}","{\\"CommandId\\":\\"0\\",\\"Name\\":\\"null\\",\\"ParentName\\":\\"子宮内描写\\",\\"HiddenSwitchId\\":\\"0\\",\\"DisableSwitchId\\":\\"0\\",\\"Script\\":\\"SceneManager.callCustomMenu(\'Scene_HStatus2\');\\",\\"ReturnMap\\":\\"false\\",\\"MapId\\":\\"0\\",\\"SelectMember\\":\\"false\\"}"]',
+        '["{\\"CommandId\\":\\"0\\",\\"Name\\":\\"null\\",\\"ParentName\\":\\"H-Status\\",\\"HiddenSwitchId\\":\\"0\\",\\"DisableSwitchId\\":\\"0\\",\\"Script\\":\\"SceneManager.callCustomMenu(\'Scene_HStatus\');\\",\\"ReturnMap\\":\\"false\\",\\"MapId\\":\\"0\\",\\"SelectMember\\":\\"false\\"}","{\\"CommandId\\":\\"0\\",\\"Name\\":\\"null\\",\\"ParentName\\":\\"Womb\\",\\"HiddenSwitchId\\":\\"0\\",\\"DisableSwitchId\\":\\"0\\",\\"Script\\":\\"SceneManager.callCustomMenu(\'Scene_HStatus2\');\\",\\"ReturnMap\\":\\"false\\",\\"MapId\\":\\"0\\",\\"SelectMember\\":\\"false\\"}"]',
       コマンド追加位置: "0",
       サブメニュー横幅: "0",
       選択アクターID変数: "0",
@@ -1355,7 +1355,7 @@ var $plugins = [
     name: "MasterVolumeOption",
     status: true,
     description: "マスターボリューム設定プラグイン",
-    parameters: { 項目名称: "全体 音量", 初期値: "100", 音量の増減量: "5" },
+    parameters: { 項目名称: "Master Volume", 初期値: "100", 音量の増減量: "5" },
   },
   {
     name: "CommonPopupCore",
@@ -1400,44 +1400,44 @@ var $plugins = [
       "Menu Info Log Name": "",
       "Battle Show List": "item,gold,exp,skill,params,level,abp,classLevel",
       "Get Gold Text":
-        "「\\I[_icon]_num\\C[14]\\G\\C[0]」 を\\C[24]手に入れた！",
+        "Obtained \\C[24]'\\I[_icon]_num\\C[14]\\G\\C[0]'!",
       "Lost Gold Text":
-        "「\\I[_icon]_num\\C[14]\\G\\C[0]」 を\\C[2]失った・・・",
+        "Lost \\C[2]'\\I[_icon]_num\\C[14]\\G\\C[0]'...",
       "Get Item Text":
-        "「\\I[_icon]_name」 を\\C[24]手に入れた！\\n\\C[6]_desc1",
+        "Obtained \\C[24]'\\I[_icon]_name'!\\n\\C[6]_desc1",
       "Lost Item Text":
-        "「\\I[_icon]_name」 を\\C[2]失った・・・\\n\\C[6]_desc1",
+        "Lost \\C[2]'\\I[_icon]_name'...\\n\\C[6]_desc1",
       "Get Item Text Num":
-        "「\\I[_icon]_name」 を\\C[14]_num個\\C[24]手に入れた！\\n\\C[6]_desc1",
+        "Obtained \\C[24]'\\I[_icon]_name' x\\C[14]_num!\\n\\C[6]_desc1",
       "Lost Item Text Num":
-        "「\\I[_icon]_name」を\\C[14]_num個\\C[2]失った・・・\\n\\C[6]_desc1",
+        "Lost \\C[2]'\\I[_icon]_name' x\\C[14]_num...\\n\\C[6]_desc1",
       "Get Skill Text":
-        "_actorは「\\I[_icon]_name」 を\\C[24]覚えた！\\n\\C[6]_desc1",
+        "_actor learned \\C[24]'\\I[_icon]_name'!\\n\\C[6]_desc1",
       "Lost Skill Text":
-        "_actorは「\\I[_icon]_name」を \\C[2]忘れてしまった・・・\\n\\C[6]_desc1",
+        "_actor forgot \\C[2]'\\I[_icon]_name'...\\n\\C[6]_desc1",
       "Exp Up Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[24]得た！",
+        "_actor gained \\C[24]\\C[14]_num points\\C[0] of \\C[4]_name\\C[0]!",
       "Exp Down Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[2]失った・・・",
+        "_actor lost \\C[2]\\C[14]_num points\\C[0] of \\C[4]_name\\C[0]...",
       "Lv Up Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actor's \\C[4]_name\\C[0] increased by \\C[14]_num points\\C[24]!",
       "Lv Down Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actor's \\C[4]_name\\C[0] decreased by \\C[14]_num points\\C[2]...",
       "Param Up Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actor's \\C[4]_name\\C[0] increased by \\C[14]_num points\\C[24]!",
       "Param Down Text":
-        "_actorは\\C[4]_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actor's \\C[4]_name\\C[0] decreased by \\C[14]_num points\\C[2]...",
       "Abp Up Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[24]得た！",
+        "_actor gained \\C[24]\\C[14]_num points\\C[0] of \\C[4]_name\\C[0]!",
       "Abp Down Text":
-        "_actorは\\C[14]_numポイント\\C[0]の\\C[4]_name\\C[0]を\\C[2]失った・・・",
+        "_actor lost \\C[2]\\C[14]_num points\\C[0] of \\C[4]_name\\C[0]...",
       "Class Lv Up Text":
-        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
+        "_actor's \\C[4]_class\\C[0]_name increased by \\C[14]_num points\\C[24]!",
       "Class Lv Down Text":
-        "_actorは\\C[4]_classの_name\\C[0]が\\C[14]_numポイント\\C[2]下がった・・・",
+        "_actor's \\C[4]_class\\C[0]_name decreased by \\C[14]_num points\\C[2]...",
       "Formation Lv Up Text":
-        "\\C[4]_nameの熟練度\\C[0]が\\C[14]_numポイント\\C[24]上がった！",
-      "Formation Lv Max Text": "\\C[4]_name\\C[0]を\\C[14]マスターした！",
+        "Proficiency of \\C[4]_name\\C[0] increased by \\C[14]_num points\\C[24]!",
+      "Formation Lv Max Text": "Mastered \\C[14]\\C[4]_name\\C[0]!",
     },
   },
   {
@@ -1597,7 +1597,7 @@ var $plugins = [
       数値項目: "",
       文字項目: "",
       スイッチ項目:
-        '["{\\"Name\\":\\"ムービースキップ\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"407\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\",\\"PaddingTop\\":\\"0\\"}"]',
+        '["{\\"Name\\":\\"Skip Movie\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"407\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\",\\"PaddingTop\\":\\"0\\"}"]',
       音量項目: "",
     },
   },

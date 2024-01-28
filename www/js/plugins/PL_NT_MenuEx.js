@@ -510,58 +510,58 @@ var HStatusTextA = function () {
 
   txt += "\\fs[26]";
 
-  txt += "初めての相手：";
+  txt += "First Partner: ";
   txt += $gameActors.actor(103).name();
   txt += "\n";
-  txt += "エッチ回数：";
+  txt += "Sex: ";
   txt += $gameVariables.value(345);
-  txt += "回\n";
+  txt += "x\n";
 
   txt += "\n";
 
-  txt += "現在の膣内の精液：";
+  txt += "Semen in Pussy: ";
   txt += $gameVariables.value(347);
-  txt += "ml\n";
-  txt += "膣内出し総精液：";
+  txt += " ml\n";
+  txt += "Ejaculate in Pussy: ";
   txt += $gameVariables.value(348);
-  txt += "ml\n";
+  txt += " ml\n";
 
   txt += "\n";
 
   /*
-	txt += "受精回数：";
+	txt += "Number of Fertilizations: ";
 	txt += $gameVariables.value(350);
-	txt += "回\n";
+	txt += " times\n";
 	*/
-  txt += "妊娠回数：";
+  txt += "Pregnancies: ";
   txt += $gameVariables.value(351);
-  txt += "回\n";
-  txt += "出産回数：";
+  txt += " times\n";
+  txt += "Births: ";
   txt += $gameVariables.value(352);
-  txt += "回\n";
+  txt += " times\n";
 
   txt += "\n";
 
-  txt += "膣経験値：";
+  txt += "Vaginal EXP: ";
   txt += $gameVariables.value(354);
   txt += "\n";
-  txt += "胸経験値：";
+  txt += "Breast EXP: ";
   txt += $gameVariables.value(355);
   txt += "\n";
-  txt += "口経験値：";
+  txt += "Oral EXP: ";
   txt += $gameVariables.value(356);
   txt += "\n";
-  txt += "アナル経験値：";
+  txt += "Anal EXP: ";
   txt += $gameVariables.value(357);
   txt += "\n";
 
   txt += "\n";
 
-  txt += "体調：";
+  txt += "Condition: ";
   txt += $gameActors.actor(104).name();
   txt += "\n";
   if ($gameVariables.value(232) > 0) {
-    txt += "ギドウ依存度：";
+    txt += "Dependency: ";
     txt += $gameVariables.value(232);
     txt += "%\n";
   }
@@ -572,12 +572,12 @@ var HStatusTextA = function () {
 var HStatus2TextA = function () {
   var txt = "";
 
-  txt += "卵子の状態：";
+  txt += "Egg: ";
   txt += $gameActors.actor(105).name();
 
   txt += "\n";
 
-  txt += "父親：";
+  txt += "Father: ";
   txt += $gameActors.actor(106).name();
   txt += "\n";
 
@@ -587,41 +587,41 @@ var HStatus2TextA = function () {
 var HStatus2TextB = function () {
   var txt = "";
 
-  txt += "膣内精子数";
+  txt += "Sperm Cells in Pussy";
 
   txt += "\n";
   txt += "\n";
 
   if ($gameVariables.value(368) > 0) {
-    txt += "ザコーズ：";
+    txt += "Cores: ";
     txt += $gameVariables.value(368);
-    txt += "億匹\n";
+    txt += " 100 million\n";
   }
 
   if ($gameVariables.value(369) > 0) {
-    txt += "ゴブリン：";
+    txt += "Goblin: ";
     txt += $gameVariables.value(369);
-    txt += "億匹\n";
+    txt += " 100 million\n";
   }
   if ($gameVariables.value(370) > 0) {
-    txt += "スライム：";
+    txt += "Slime: ";
     txt += $gameVariables.value(370);
-    txt += "億匹\n";
+    txt += " 100 million\n";
   }
   if ($gameVariables.value(371) > 0) {
-    txt += "触手：";
+    txt += "Tentacles: ";
     txt += $gameVariables.value(371);
-    txt += "億匹\n";
+    txt += " 100 million\n";
   }
   if ($gameVariables.value(372) > 0) {
-    txt += "ウルフ：";
+    txt += "Wolf: ";
     txt += $gameVariables.value(372);
-    txt += "億匹\n";
+    txt += " 100 million\n";
   }
   if ($gameVariables.value(373) > 0) {
-    txt += "一般人：";
+    txt += "Commoner: ";
     txt += $gameVariables.value(373);
-    txt += "億匹\n";
+    txt += " 100 million\n";
   }
 
   return txt;

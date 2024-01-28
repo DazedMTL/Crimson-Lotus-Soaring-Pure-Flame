@@ -9948,7 +9948,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[F]\\AA[FF]\\F[1010Furea_0000]ガチャガチャ（The sound of turning a doorknob）"
+                                "\\FX[F]\\AA[FF]\\F[1010Furea_0000]Cha-Clink!"
                             ]
                         },
                         {
@@ -11359,7 +11359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FX[F]\\FX[FF]\\AA[FFFFF]\\F[1000Kenji_0009]\\FF[1010Furea_0001]\\FFFFF[1020Eriza_0003]\\N<Eliza>...So, as of today, after yesterday, you should have\naccumulated enough 'Lovey'."
+                                "\\FX[F]\\FX[FF]\\AA[FFFFF]\\F[1000Kenji_0009]\\FF[1010Furea_0001]\\FFFFF[1020Eriza_0003]\\N<Eliza>...So, as of today, after yesterday, you should have\naccumulated enough 'LLavi'."
                             ]
                         },
                         {
@@ -11651,7 +11651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FX[F]\\FX[FFF]\\AA[FFFFF]\\F[1000Kenji_0000]\\FFF[1012Furea_0004]\\FFFFF[1020Eriza_0003]\\N<Eliza>That's right, that's right. That's the sensation when\n'Lovey' is fully charged. Remember this feeling well♪"
+                                "\\FX[F]\\FX[FFF]\\AA[FFFFF]\\F[1000Kenji_0000]\\FFF[1012Furea_0004]\\FFFFF[1020Eriza_0003]\\N<Eliza>That's right, that's right. That's the sensation when\n'Lavi' is fully charged. Remember this feeling well♪"
                             ]
                         },
                         {
@@ -12059,7 +12059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FX[F]\\FX[F]\\FX[FFF]\\AA[FFFFF]\\F[1000Kenji_0002]\\FF[1010Furea_0010]\\FFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]\\N<Supreme Commander>I see. Take good care of Flare-kun. Not for the sake of\n'Lovey', but as a girl, cherish Flare-kun."
+                                "\\FX[F]\\FX[F]\\FX[FFF]\\AA[FFFFF]\\F[1000Kenji_0002]\\FF[1010Furea_0010]\\FFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]\\N<Supreme Commander>I see. Take good care of Flare-kun. Not for the sake of\n'Lavi', but as a girl, cherish Flare-kun."
                             ]
                         },
                         {
@@ -12481,7 +12481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FX[F]\\FX[F]\\FX[FFF]\\AA[FFFFF]\\F[1010Furea_0011]\\FF[1000Kenji_0012]\\FFF[1020Eriza_0000]\\FFFF[1090Ogi_0000]\\FFFFF[1080Gidou_0001]\\N<Guido>Boyfriend...? So he's Lovey's... heh~..."
+                                "\\FX[F]\\FX[F]\\FX[FFF]\\AA[FFFFF]\\F[1010Furea_0011]\\FF[1000Kenji_0012]\\FFF[1020Eriza_0000]\\FFFF[1090Ogi_0000]\\FFFFF[1080Gidou_0001]\\N<Guido>Boyfriend...? So he's Lavi's... heh~..."
                             ]
                         },
                         {

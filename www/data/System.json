@@ -108,15 +108,15 @@
     "editMapId": 10,
     "elements": [
         "",
-        "物理",
-        "炎",
-        "氷",
-        "雷",
-        "水",
-        "土",
-        "風",
-        "光",
-        "闇"
+        "Physical",
+        "Fire",
+        "Ice",
+        "Thunder",
+        "Water",
+        "Earth",
+        "Wind",
+        "Light",
+        "Darkness"
     ],
     "equipTypes": [
         "",
