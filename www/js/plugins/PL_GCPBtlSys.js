@@ -1087,7 +1087,7 @@ Game_Screen.prototype.visibleOv = function (visible) {
   // ジャンケン勝利時の音声（PL_GCP_Win_ActorID{アクターID}）
   var PL_GCP_WIN_ACTOR = "PL_GCP_Win_ActorID";
 
-  var WIN_MESSAGE = "じゃんけん属性で勝利！追撃発生！";
+  var WIN_MESSAGE = "Victory with Rock-Paper-Scissors attribute! Follow-up attack occurs!";
   var WIN_ANIME_ID_WAIT = 0; // 旧作のアニメ処理では必要だった。
 
   var _Scene_Battle_start = Scene_Battle.prototype.start;

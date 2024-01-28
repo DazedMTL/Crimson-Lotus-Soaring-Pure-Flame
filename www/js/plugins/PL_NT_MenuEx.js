@@ -519,10 +519,10 @@ var HStatusTextA = function () {
 
   txt += "\n";
 
-  txt += "Semen in Pussy: ";
+  txt += "Current Semen: ";
   txt += $gameVariables.value(347);
   txt += " ml\n";
-  txt += "Ejaculate in Pussy: ";
+  txt += "Total Semen: ";
   txt += $gameVariables.value(348);
   txt += " ml\n";
 
@@ -535,10 +535,10 @@ var HStatusTextA = function () {
 	*/
   txt += "Pregnancies: ";
   txt += $gameVariables.value(351);
-  txt += " times\n";
+  txt += "x\n";
   txt += "Births: ";
   txt += $gameVariables.value(352);
-  txt += " times\n";
+  txt += "x\n";
 
   txt += "\n";
 

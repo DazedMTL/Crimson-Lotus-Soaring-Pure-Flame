@@ -39,20 +39,20 @@ var $plugins = [
       MaxItem: "4",
       Item0: "1",
       Item0Length: "300",
-      Item1title: "プレイ時間",
+      Item1title: "Playtime",
       Item1: "2",
-      Item2title: "現在地",
+      Item2title: "Location",
       Item2: "3",
-      Item3title: "所持金",
+      Item3title: "Money",
       Item3: "4",
-      Item4title: "敗北数",
+      Item4title: "Defeats",
       Item4: "6",
       Item5: "",
       ItemValue1: "6",
       ItemValue2: "2",
       ItemValue3: "3",
       ItemValue4: "4",
-      ItemValue1unit: "回",
+      ItemValue1unit: "x",
       ItemValue2unit: "",
       ItemValue3unit: "",
       ItemValue4unit: "",
@@ -378,7 +378,7 @@ var $plugins = [
     parameters: {
       "Special Shop Switch": "405",
       "Default Currency Item": "0",
-      "Currency Item Unit": "ラヴィ",
+      "Currency Item Unit": "Lavi",
       "Currency Variable": "230",
     },
   },
@@ -1400,21 +1400,21 @@ var $plugins = [
       "Menu Info Log Name": "",
       "Battle Show List": "item,gold,exp,skill,params,level,abp,classLevel",
       "Get Gold Text":
-        "Obtained \\C[24]'\\I[_icon]_num\\C[14]\\G\\C[0]'!",
+        "Obtained \\C[24]'\\I[_icon]_num\\C[14] \\G\\C[0]'!",
       "Lost Gold Text":
-        "Lost \\C[2]'\\I[_icon]_num\\C[14]\\G\\C[0]'...",
+        "Lost \\C[2]'\\I[_icon]_num\\C[14] \\G\\C[0]'...",
       "Get Item Text":
-        "Obtained \\C[24]'\\I[_icon]_name'!\\n\\C[6]_desc1",
+        "Obtained \\C[24]'\\I[_icon]_name'!\\n \\C[6]_desc1",
       "Lost Item Text":
-        "Lost \\C[2]'\\I[_icon]_name'...\\n\\C[6]_desc1",
+        "Lost \\C[2]'\\I[_icon]_name'...\\n \\C[6]_desc1",
       "Get Item Text Num":
-        "Obtained \\C[24]'\\I[_icon]_name' x\\C[14]_num!\\n\\C[6]_desc1",
+        "Obtained \\C[24]'\\I[_icon]_name' x\\C[14]_num!\\n \\C[6]_desc1",
       "Lost Item Text Num":
-        "Lost \\C[2]'\\I[_icon]_name' x\\C[14]_num...\\n\\C[6]_desc1",
+        "Lost \\C[2]'\\I[_icon]_name' x\\C[14]_num...\\n \\C[6]_desc1",
       "Get Skill Text":
-        "_actor learned \\C[24]'\\I[_icon]_name'!\\n\\C[6]_desc1",
+        "_actor learned \\C[24]'\\I[_icon]_name'!\\n \\C[6]_desc1",
       "Lost Skill Text":
-        "_actor forgot \\C[2]'\\I[_icon]_name'...\\n\\C[6]_desc1",
+        "_actor forgot \\C[2]'\\I[_icon]_name'...\\n \\C[6]_desc1",
       "Exp Up Text":
         "_actor gained \\C[24]\\C[14]_num points\\C[0] of \\C[4]_name\\C[0]!",
       "Exp Down Text":
