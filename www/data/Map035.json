@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "水の洞窟　エリア4",
+    "displayName": "Water Cave Area 4",
     "encounterList": [],
     "encounterStep": 30,
     "height": 42,
@@ -11692,15 +11692,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\FX[FFFFF]\\AA[F]\\F[1012Furea_0005]\\FFFFF[2020PureDark_0000]ピュアフレイム、参上!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あなたの悪事、燃やし尽くしますっ!!"
+                                "\\FX[F]\\FX[FFFFF]\\AA[F]\\F[1012Furea_0005]\\FFFFF[2020PureDark_0000]\\N<Pure Flame>Pure Flame, arriving!! I will burn down your evil deeds!!"
                             ]
                         },
                         {
@@ -11732,23 +11724,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFFF]\\F[1012Furea_0005]\\FFFFF[2020PureDark_0001]くすくす、来たね、ピュアフレイム。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "この前はジャスティスナイツの拠点で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "罠にハマっちゃったけど、今回はそうはいかないよ♡"
+                                "\\FX[F]\\AA[FFFFF]\\F[1012Furea_0005]\\FFFFF[2020PureDark_0001]\\N<Pure Dark>Hehe, you came, Pure Flame. Last time at the Justice\nKnights' base, you fell into a trap, but this time it won't\ngo your way♡"
                             ]
                         },
                         {
@@ -11767,15 +11743,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0018]\\FFFFF[2020PureDark_0001]あなた方のせいで、ケンジ様は怪我をしたのですわっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "絶対に許しませんっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0018]\\FFFFF[2020PureDark_0001]\\N<Pure Flame>Because of you, Lord Kenji was injured!! I will never\nforgive you!!"
                             ]
                         },
                         {
@@ -11794,31 +11762,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFFF]\\F[1012Furea_0018]\\FFFFF[2020PureDark_0001]あぁー……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ブラックちゃんの攻撃に割って入ってきたあのおにーさんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "くすくす、ピュアフレイムにとって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あのおにーさんは特別な人なの？彼氏さんとか？(笑)"
+                                "\\FX[F]\\AA[FFFFF]\\F[1012Furea_0018]\\FFFFF[2020PureDark_0001]\\N<Pure Dark>Ahh... The guy who intervened in Black-chan's attack. Hehe,\nis that guy someone special to you, Pure Flame? Like a\nboyfriend? (laughs)"
                             ]
                         },
                         {
@@ -11837,15 +11781,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0001]なっ!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "なんでそのことを知っているのですか……っ!?"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0001]\\N<Pure Flame>What!? How do you know about that...!?"
                             ]
                         },
                         {
@@ -11864,15 +11800,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFFF]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0004]くすくす、おねーさんわかりやすすぎぃ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ってことはあのおにーさんとラヴィの補給をしてるんだぁ？"
+                                "\\FX[F]\\AA[FFFFF]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0004]\\N<Pure Dark>Hehe, Onee-san, you're too easy to read♡ So, are you and\nthat guy replenishing love?"
                             ]
                         },
                         {
@@ -11891,15 +11819,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0017]\\FFFFF[2020PureDark_0004]そ、そんなこと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あなたには関係ありませんわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0017]\\FFFFF[2020PureDark_0004]\\N<Pure Flame>Th-that's none of your business!!"
                             ]
                         },
                         {
@@ -11918,31 +11838,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFFF]\\F[1012Furea_0017]\\FFFFF[2020PureDark_0005]ふぅ～ん……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ボク、略奪愛とかも興味あるんだよね……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ここでおねーさんをやっつけて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "その彼氏さん、ボクがもらっちゃおっかなぁ～♡"
+                                "\\FX[F]\\AA[FFFFF]\\F[1012Furea_0017]\\FFFFF[2020PureDark_0005]\\N<Pure Dark>Hmm...♡ I'm interested in love theft too...♡ How about I\ndefeat you here and then take your boyfriend for myself~♡"
                             ]
                         },
                         {
@@ -11961,7 +11857,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0005]なぁっ!?"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0005]\\N<Pure Flame>Wha!?"
                             ]
                         },
                         {
@@ -11980,15 +11876,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0010]\\FFFFF[2020PureDark_0005]そそそ、そんなことさせませんわっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "絶対に、絶対にさせませんわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0010]\\FFFFF[2020PureDark_0005]\\N<Pure Flame>I-I won't let you do such a thing!! Absolutely, absolutely\nnot!!"
                             ]
                         },
                         {
@@ -12007,15 +11895,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0013]\\FFFFF[2020PureDark_0005]いまだかつて無いほどに負けられない戦いになりそうですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ピュアフレイム、参りますっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0013]\\FFFFF[2020PureDark_0005]\\N<Pure Flame>This seems to be a battle I cannot afford to lose more than\never before... Pure Flame, here I come!!"
                             ]
                         },
                         {
@@ -12068,7 +11948,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0005]\\FFFF[2020PureDark_0003]勝負あり、ですわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0005]\\FFFF[2020PureDark_0003]\\N<Pure Flame>The match is decided!!"
                             ]
                         },
                         {
@@ -12087,15 +11967,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFF]\\F[1012Furea_0005]\\FFFF[2020PureDark_0006]くっ……!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "まさか、こんなに強くなっているなんて……っ!!"
+                                "\\FX[F]\\AA[FFFF]\\F[1012Furea_0005]\\FFFF[2020PureDark_0006]\\N<Pure Dark>Gah...!! To think you've become this strong...!!"
                             ]
                         },
                         {
@@ -12114,15 +11986,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0009]\\FFFF[2020PureDark_0006]命までは取りませんわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "大人しく降参してくださいませっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0009]\\FFFF[2020PureDark_0006]\\N<Pure Flame>I won't take your life. Please surrender quietly!!"
                             ]
                         },
                         {
@@ -12141,23 +12005,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFF]\\F[1012Furea_0009]\\FFFF[2020PureDark_0000]くすくす……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "おねーさん、甘いね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "そんなことを言ってると、そのうち足元をすくわれるよ。"
+                                "\\FX[F]\\AA[FFFF]\\F[1012Furea_0009]\\FFFF[2020PureDark_0000]\\N<Pure Dark>Hehe... Onee-san, you're too kind... Saying such things, you\nmight get tripped up one day."
                             ]
                         },
                         {
@@ -12184,7 +12032,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFF]\\F[1012Furea_0009]\\FFFF[2020PureDark_0001]それに、おねーさん忘れてることがあるよ。"
+                                "\\FX[F]\\AA[FFFF]\\F[1012Furea_0009]\\FFFF[2020PureDark_0001]\\N<Pure Dark>Besides, Onee-san, you're forgetting something."
                             ]
                         },
                         {
@@ -12203,7 +12051,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0005]\\FFFF[2020PureDark_0001]忘れていること……？"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0005]\\FFFF[2020PureDark_0001]\\N<Pure Flame>Forgetting something...?"
                             ]
                         },
                         {
@@ -12235,15 +12083,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFF]\\F[1012Furea_0003]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]ボクは、逃げるのが得意なんだってこと♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ディメンズドア!!"
+                                "\\FX[F]\\AA[FFFF]\\F[1012Furea_0003]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]\\N<Pure Dark>I'm good at escaping♡ Dimension Door!!"
                             ]
                         },
                         {
@@ -12262,15 +12102,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[F]\\AA[FF]\\F[1012Furea_0003]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]そういうと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ピュアダークの後ろの空間が歪む。"
+                                "\\FX[F]\\AA[FF]\\F[1012Furea_0003]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]As she says that, the space behind Pure Dark distorts."
                             ]
                         },
                         {
@@ -12289,15 +12121,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]しまったっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "待っ……!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]\\N<Pure Flame>Darn it!! Wait...!!"
                             ]
                         },
                         {
@@ -12316,15 +12140,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFF]\\MMMM[FadeR]\\F[1012Furea_0012]\\FFFF[2020PureDark_0001]\\FFFFF[9940Door_0000]待たないよ～だ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "くすくす、おねーさん、ばいばぁ～い♡"
+                                "\\FX[F]\\AA[FFFF]\\MMMM[FadeR]\\F[1012Furea_0012]\\FFFF[2020PureDark_0001]\\FFFFF[9940Door_0000]\\N<Pure Dark>I won't wait~♡ Hehe, Onee-san, bye-bye♡"
                             ]
                         },
                         {
@@ -12351,7 +12167,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[FFF]\\AA[FFF]\\MMM[InR]\\FFF[1012Furea_0013]……っ!!"
+                                "\\FX[FFF]\\AA[FFF]\\MMM[InR]\\FFF[1012Furea_0013]\\N<Pure Flame>...!!"
                             ]
                         },
                         {
@@ -12383,15 +12199,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0013]……はぁ、逃げられてしまいましたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "しかし、良かったのかもしれません。"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0013]\\N<Pure Flame>...sigh, she got away. But maybe it's for the best."
                             ]
                         },
                         {
@@ -12410,7 +12218,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0013]そういうとピュアフレイムはその場に片足をついた。"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0013]As she says that, Pure Flame kneels on one knee."
                             ]
                         },
                         {
@@ -12429,23 +12237,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0016]なんとか、勝てましたが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "もう、余分な力は残っていませんわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "少し休んでから戻りましょう。"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0016]\\N<Pure Flame>Somehow, we won... but I have no extra strength left...\nLet's rest a bit before returning."
                             ]
                         },
                         {
@@ -12472,7 +12264,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0016]隠してピュアフレイムは一息ついてから帰路へつくのであった。"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0016]Concealing her fatigue, Pure Flame took a deep breath before\nheading back."
                             ]
                         },
                         {
@@ -12518,7 +12310,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -12537,7 +12329,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -12556,7 +12348,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -13764,14 +13556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]この先からすごく嫌な感じがしますわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備は……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]\\N<Flare>I have a really bad feeling about what's ahead. Are we\nprepared..."
                             ]
                         },
                         {
@@ -13779,8 +13564,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "出来ている",
-                                    "まだ……"
+                                    "I'm ready",
+                                    "Not yet"
                                 ],
                                 1,
                                 0,
@@ -13944,15 +13729,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\FX[FFFFF]\\AA[F]\\F[1012Furea_0005]\\FFFFF[2020PureDark_0000]ピュアフレイム、参上!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あなたの悪事、燃やし尽くしますっ!!"
+                                "\\FX[F]\\FX[FFFFF]\\AA[F]\\F[1012Furea_0005]\\FFFFF[2020PureDark_0000]\\N<Pure Flame>Pure Flame, arriving!! I will burn your evil deeds to\nashes!!"
                             ]
                         },
                         {
@@ -13984,23 +13761,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFFF]\\F[1012Furea_0005]\\FFFFF[2020PureDark_0001]くすくす、来たね、ピュアフレイム。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "この前はジャスティスナイツの拠点で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "罠にハマっちゃったけど、今回はそうはいかないよ♡"
+                                "\\FX[F]\\AA[FFFFF]\\F[1012Furea_0005]\\FFFFF[2020PureDark_0001]\\N<Pure Dark>Hehe, you came, Pure Flame. Last time at the Justice\nKnights' base, you fell into a trap, but this time it won't\ngo like that♡"
                             ]
                         },
                         {
@@ -14019,15 +13780,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0018]\\FFFFF[2020PureDark_0001]あなた方のせいで、ケンジ様は怪我をしたのですわっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "絶対に許しませんっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0018]\\FFFFF[2020PureDark_0001]\\N<Pure Flame>Because of you, Lord Kenji was injured!! I will never\nforgive you!!"
                             ]
                         },
                         {
@@ -14046,31 +13799,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFFF]\\F[1012Furea_0018]\\FFFFF[2020PureDark_0001]あぁー……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ブラックちゃんの攻撃に割って入ってきたあのおにーさんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "くすくす、ピュアフレイムにとって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あのおにーさんは特別な人なの？彼氏さんとか？(笑)"
+                                "\\FX[F]\\AA[FFFFF]\\F[1012Furea_0018]\\FFFFF[2020PureDark_0001]\\N<Pure Dark>Ahh... You mean the guy who stepped in during Black-chan's\nattack. Hehe, to Pure Flame, is that guy someone special?\nLike a boyfriend? (laughs)"
                             ]
                         },
                         {
@@ -14089,15 +13818,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0001]なっ!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "なんでそのことを知っているのですか……っ!?"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0001]\\N<Pure Flame>What!? How do you know about that...!?"
                             ]
                         },
                         {
@@ -14116,15 +13837,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFFF]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0004]くすくす、おねーさんわかりやすすぎぃ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ってことはあのおにーさんとラヴィの補給をしてるんだぁ？"
+                                "\\FX[F]\\AA[FFFFF]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0004]\\N<Pure Dark>Hehe, Onee-san, you're too easy to read♡ So, are you and\nthat guy replenishing love?"
                             ]
                         },
                         {
@@ -14143,15 +13856,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0017]\\FFFFF[2020PureDark_0004]そ、そんなこと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あなたには関係ありませんわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0017]\\FFFFF[2020PureDark_0004]\\N<Pure Flame>Th-that's none of your business!!"
                             ]
                         },
                         {
@@ -14170,31 +13875,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFFF]\\F[1012Furea_0017]\\FFFFF[2020PureDark_0005]ふぅ～ん……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ボク、略奪愛とかも興味あるんだよね……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ここでおねーさんをやっつけて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "その彼氏さん、ボクがもらっちゃおっかなぁ～♡"
+                                "\\FX[F]\\AA[FFFFF]\\F[1012Furea_0017]\\FFFFF[2020PureDark_0005]\\N<Pure Dark>Hmm...♡ I'm interested in love theft too...♡ How about I\ndefeat Onee-san here and take that boyfriend of yours for\nmyself~♡"
                             ]
                         },
                         {
@@ -14213,7 +13894,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0005]なぁっ!?"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0003]\\FFFFF[2020PureDark_0005]\\N<Pure Flame>Wha-!?"
                             ]
                         },
                         {
@@ -14232,15 +13913,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0010]\\FFFFF[2020PureDark_0005]そそそ、そんなことさせませんわっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "絶対に、絶対にさせませんわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0010]\\FFFFF[2020PureDark_0005]\\N<Pure Flame>I-I won't let you do such a thing!! Absolutely, absolutely\nwon't allow it!!"
                             ]
                         },
                         {
@@ -14259,15 +13932,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0013]\\FFFFF[2020PureDark_0005]いまだかつて無いほどに負けられない戦いになりそうですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ピュアフレイム、参りますっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0013]\\FFFFF[2020PureDark_0005]\\N<Pure Flame>It seems like this will be a battle I cannot afford to lose\nmore than ever before... Pure Flame, here I come!!"
                             ]
                         },
                         {
@@ -14500,7 +14165,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0005]\\FFFF[2020PureDark_0003]勝負あり、ですわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0005]\\FFFF[2020PureDark_0003]\\N<Pure Flame>The match is decided!!"
                             ]
                         },
                         {
@@ -14519,15 +14184,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFF]\\F[1012Furea_0005]\\FFFF[2020PureDark_0006]くっ……!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "まさか、こんなに強くなっているなんて……っ!!"
+                                "\\FX[F]\\AA[FFFF]\\F[1012Furea_0005]\\FFFF[2020PureDark_0006]\\N<Pure Dark>Gah...!! To think you've become this strong...!!"
                             ]
                         },
                         {
@@ -14546,15 +14203,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0009]\\FFFF[2020PureDark_0006]命までは取りませんわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "大人しく降参してくださいませっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0009]\\FFFF[2020PureDark_0006]\\N<Pure Flame>I won't take your life. Just surrender quietly, please!!"
                             ]
                         },
                         {
@@ -14573,23 +14222,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFF]\\F[1012Furea_0009]\\FFFF[2020PureDark_0000]くすくす……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "おねーさん、甘いね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "そんなことを言ってると、そのうち足元をすくわれるよ。"
+                                "\\FX[F]\\AA[FFFF]\\F[1012Furea_0009]\\FFFF[2020PureDark_0000]\\N<Pure Dark>Hehe... Onee-san, you're too kind... If you keep saying\nthings like that, someone might take advantage of you."
                             ]
                         },
                         {
@@ -14616,7 +14249,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFF]\\F[1012Furea_0009]\\FFFF[2020PureDark_0001]それに、おねーさん忘れてることがあるよ。"
+                                "\\FX[F]\\AA[FFFF]\\F[1012Furea_0009]\\FFFF[2020PureDark_0001]\\N<Pure Dark>Besides, Onee-san, you're forgetting something."
                             ]
                         },
                         {
@@ -14635,7 +14268,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0005]\\FFFF[2020PureDark_0001]忘れていること……？"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0005]\\FFFF[2020PureDark_0001]\\N<Pure Flame>Forgetting something...?"
                             ]
                         },
                         {
@@ -14667,15 +14300,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFF]\\F[1012Furea_0003]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]ボクは、逃げるのが得意なんだってこと♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ディメンズドア!!"
+                                "\\FX[F]\\AA[FFFF]\\F[1012Furea_0003]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]\\N<Pure Dark>That I'm really good at escaping♡ Dimension Door!!"
                             ]
                         },
                         {
@@ -14694,15 +14319,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[F]\\AA[FF]\\F[1012Furea_0003]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]そういうと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ピュアダークの後ろの空間が歪む。"
+                                "\\FX[F]\\AA[FF]\\F[1012Furea_0003]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]As she says that, the space behind Pure Dark distorts."
                             ]
                         },
                         {
@@ -14721,15 +14338,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]しまったっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "待っ……!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFFF[2020PureDark_0005]\\FFFFF[9940Door_0000]\\N<Pure Flame>Darn it!! Wait...!!"
                             ]
                         },
                         {
@@ -14748,15 +14357,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアダーク>\\FX[F]\\AA[FFFF]\\MMMM[FadeR]\\F[1012Furea_0012]\\FFFF[2020PureDark_0001]\\FFFFF[9940Door_0000]待たないよ～だ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "くすくす、おねーさん、ばいばぁ～い♡"
+                                "\\FX[F]\\AA[FFFF]\\MMMM[FadeR]\\F[1012Furea_0012]\\FFFF[2020PureDark_0001]\\FFFFF[9940Door_0000]\\N<Pure Dark>I won't wait♡ Hehe, Onee-san, bye-bye♡"
                             ]
                         },
                         {
@@ -14783,7 +14384,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[FFF]\\AA[FFF]\\MMM[InR]\\FFF[1012Furea_0013]……っ!!"
+                                "\\FX[FFF]\\AA[FFF]\\MMM[InR]\\FFF[1012Furea_0013]\\N<Pure Flame>...!!"
                             ]
                         },
                         {
@@ -14815,15 +14416,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0013]……はぁ、逃げられてしまいましたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "しかし、良かったのかもしれません。"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0013]\\N<Pure Flame>...sigh, she got away. But maybe it's for the best."
                             ]
                         },
                         {
@@ -14842,7 +14435,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0013]そういうとピュアフレイムはその場に片足をついた。"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0013]As she says that, Pure Flame kneels on one knee."
                             ]
                         },
                         {
@@ -14861,23 +14454,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0016]なんとか、勝てましたが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "もう、余分な力は残っていませんわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "少し休んでから戻りましょう。"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0016]\\N<Pure Flame>Somehow, we won... but I have no extra strength left...\nLet's rest a bit before returning."
                             ]
                         },
                         {
@@ -14902,7 +14479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0016]斯くしてピュアフレイムは一息ついてから帰路へつくのであった。"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0016]Thus, Pure Flame took a moment to catch her breath before\nmaking her way back home."
                             ]
                         },
                         {
@@ -14948,7 +14525,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -14967,7 +14544,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -14986,7 +14563,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -15256,28 +14833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]この先からすごく嫌な感じがしますわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "準備は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "＜二回敗北するとBADENDに進行します＞"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]\\N<Flare>I have a really bad feeling about what lies ahead. Are we\nprepared?...＜If you are defeated twice, you will proceed to\na BAD END＞"
                             ]
                         },
                         {
@@ -15285,8 +14841,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "出来ている",
-                                    "まだ……"
+                                    "I'm ready",
+                                    "Not yet"
                                 ],
                                 1,
                                 0,
@@ -15388,14 +14944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(この先から嫌な感じがする……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなお腹じゃ進めないわ……)"
+                                "(I have a bad feeling about what's ahead... I can't go on\nwith my stomach feeling like this...)"
                             ]
                         },
                         {
@@ -15528,7 +15077,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ビッグテンタクル>\\FX[F]\\AA[FFFF]\\F[1012Furea_0000]\\FFFF[4030BigTentacle]フシュルルルゥ……"
+                                "\\FX[F]\\AA[FFFF]\\F[1012Furea_0000]\\FFFF[4030BigTentacle]\\N<Big Tentacle>Fshurururu..."
                             ]
                         },
                         {
@@ -15547,15 +15096,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0003]\\FFFF[4030BigTentacle]な、なんて大きな触手の化け物……!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "間違いありませんわ、この化け物がここの親玉ですわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0003]\\FFFF[4030BigTentacle]\\N<Pure Flame>What a huge tentacle monster...!! There's no mistake, this\nmonster is the boss of this place!!"
                             ]
                         },
                         {
@@ -15574,23 +15115,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0011]\\FFFF[4030BigTentacle]このまま放っておけば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "触手がもっと増殖して、街の方にまで被害が出てしまいますわっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ここでなんとしても倒しておかないとっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0011]\\FFFF[4030BigTentacle]\\N<Pure Flame>If we leave it be, the tentacles will multiply even more,\nand the damage will reach the town!! We must defeat it here\nand now!!"
                             ]
                         },
                         {
@@ -15609,7 +15134,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ビッグテンタクル>\\FX[F]\\AA[FFFF]\\F[1012Furea_0011]\\FFFF[4030BigTentacle]フシュルルル……!!"
+                                "\\FX[F]\\AA[FFFF]\\F[1012Furea_0011]\\FFFF[4030BigTentacle]\\N<Big Tentacle>Fshurururu...!!"
                             ]
                         },
                         {
@@ -15628,15 +15153,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFFF[4030BigTentacle]っ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "こちらに気づいたようですわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFFF[4030BigTentacle]\\N<Pure Flame>!! It seems to have noticed us!!"
                             ]
                         },
                         {
@@ -15655,23 +15172,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFFF[4030BigTentacle]負けたら何をさせられるかわかりませんっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "絶対に負けるわけにはいきませんわっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ピュアフレイムっ、参りますっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFFF[4030BigTentacle]\\N<Pure Flame>If we lose, who knows what it will do to us. We absolutely\ncannot afford to lose!! Pure Flame, here I go!!"
                             ]
                         },
                         {
@@ -15836,7 +15337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ビッグテンタクル>\\AA[FFFF]\\FFFF[4030BigTentacle]フシュルルル……!!"
+                                "\\AA[FFFF]\\FFFF[4030BigTentacle]\\N<Big Tentacle>Fshurururu...!!"
                             ]
                         },
                         {
@@ -15987,14 +15488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0013]ふぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとか倒せたみたいですわ……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0013]\\N<Pure Flame>Phew... It seems we've managed to defeat them..."
                             ]
                         },
                         {
@@ -16011,14 +15505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0009]BB団の放った魔物がここで繁殖していたようですわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、これで一段落しそうですわね。"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0009]\\N<Pure Flame>The monsters released by the BB gang were breeding here.\nBut, it looks like things will settle down for now."
                             ]
                         },
                         {
@@ -16058,7 +15545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -16075,7 +15562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -16092,7 +15579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -18743,7 +18230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体力が全回復した！"
+                                "Full HP restored!"
                             ]
                         },
                         {
@@ -19071,7 +18558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ショートカットが開通しました。"
+                                "The shortcut has been opened."
                             ]
                         },
                         {
@@ -19139,7 +18626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入口まで戻りますか？"
+                                "Do you want to return to the entrance?"
                             ]
                         },
                         {
@@ -19147,8 +18634,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

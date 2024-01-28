@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "午前フレア部屋",
+    "displayName": "Morning Flare Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2674,7 +2674,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0011]い、いやぁっ!!"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0011]\\N<Flare>No, nooo!!"
                             ]
                         },
                         {
@@ -2691,14 +2691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1010Furea_0011]はぁはぁはぁ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゆ、ゆめ……？"
+                                "\\FX[FFF]\\AA[F]\\FFF[1010Furea_0011]????: *panting*...Is this...a dream...?"
                             ]
                         },
                         {
@@ -2715,14 +2708,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1010Furea_0011]いえ、違いますわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わたくしは確かに、敵に負けてこの身をいじられて……"
+                                "\\FX[FFF]\\AA[F]\\FFF[1010Furea_0011]No, it's not... I was indeed defeated by the enemy and\nthey... did things to me..."
                             ]
                         },
                         {
@@ -2739,14 +2725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1010Furea_0011]次は……ただでは済まない気がする……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とにかく、これ以上負けるわけにはいきませんわ……"
+                                "\\FX[FFF]\\AA[F]\\FFF[1010Furea_0011]Next time... it won't end without consequences... Anyway, I\ncannot afford to lose anymore..."
                             ]
                         },
                         {
@@ -2763,14 +2742,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1010Furea_0011]司令室へ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日も……出撃……しないと……"
+                                "\\FX[FFF]\\AA[F]\\FFF[1010Furea_0011]To the command room... I must... sortie again today..."
                             ]
                         },
                         {
@@ -2789,15 +2761,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "※これ以降、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "戦闘時にホールド攻撃を受けると敵にHなことをされてしまいます。"
+                                "※From now on, if you receive a hold attack during battle,\nthe enemy will do lewd things to you."
                             ]
                         },
                         {
@@ -2833,7 +2797,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -2852,7 +2816,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -2871,7 +2835,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -2940,7 +2904,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0019]また、負けてしまいましたわ……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0019]\\N<Flare>I've lost again..."
                             ]
                         },
                         {
@@ -2957,21 +2921,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0016]でも、気持ちを切り替えていかないと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "わたくしが諦めてしまえば、この街は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この世界は……わたくしの愛する人は……!!"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0016]\\N<Flare>But I must change my mindset... If I give up, this town...\nthis world... my loved ones...!!"
                             ]
                         },
                         {

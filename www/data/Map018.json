@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "市街地",
+    "displayName": "Downtown",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -9799,14 +9799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0000]今日の探索は一旦ここまでにしましょうか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拠点へと……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0000]\\N<Pure Flame>Shall we call it a day for today's exploration... and head\nback to our base..."
                             ]
                         },
                         {
@@ -9814,8 +9807,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "もどる",
-                                    "もどらない"
+                                    "Return",
+                                    "Let's not go back"
                                 ],
                                 1,
                                 0,
@@ -13582,7 +13575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最深部まで移動しますか？"
+                                "Would you like to move to the deepest part?"
                             ]
                         },
                         {
@@ -13590,8 +13583,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

@@ -73,14 +73,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<エリザ>ピュアフレイム、わらわがサポートするのじゃっ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "バトルの基本を教える、すぐ終わるからよく聞くのじゃっ!!"
+                            "\\N<Eliza>Pure Flame, I will support you!! I'll teach you the basics\nof battle, it will be quick so listen well!!"
                         ]
                     },
                     {
@@ -97,21 +90,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<ピュアフレイム>は、はいっ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ですが、もう敵が目の前ですわっ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "早めにお願い致します!!"
+                            "\\N<Pure Flame>Y-Yes!! But the enemy is already in front of us!! Please\nhurry!!"
                         ]
                     },
                     {
@@ -144,14 +123,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<エリザ>まず、ここに行動表が見えるじゃろっ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "この表にある順番で攻撃がはじまるのじゃっ!!"
+                            "\\N<Eliza>First, you can see the action order here!! The attacks will\nstart in the order listed on this chart!!"
                         ]
                     },
                     {
@@ -168,21 +140,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<ピュアフレイム>はい!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "今回の場合でいうと、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "わたくしの攻撃の後に、敵の攻撃が来る、ということですね!!"
+                            "\\N<Pure Flame>Yes!! So in this case, after my attack, it's the enemy's\nturn to attack, right!!"
                         ]
                     },
                     {
@@ -199,21 +157,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<エリザ>うむ、そうじゃっ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "ほれ、来るぞっ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "攻撃してみるのじゃっ!!"
+                            "\\N<Eliza>Exactly!! Here it comes!! Try attacking now!!"
                         ]
                     },
                     {
@@ -261,14 +205,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<エリザ>初めてにしては上出来なのじゃっ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "次に戦いのコツを教えておくのじゃっ!!"
+                            "\\N<Eliza>For your first time, that was excellent!! Next, I'll teach\nyou the tricks of fighting!!"
                         ]
                     },
                     {
@@ -301,7 +238,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<エリザ>敵の頭上にマークが見えるじゃろう？"
+                            "\\N<Eliza>You see the mark above the enemy's head, don't you?"
                         ]
                     },
                     {
@@ -318,14 +255,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<ピュアフレイム>はいっ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "じゃんけんのマークのような物が見えますわっ!!"
+                            "\\N<Pure Flame>Yes!! I see something like a rock-paper-scissors mark!!"
                         ]
                     },
                     {
@@ -342,28 +272,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<エリザ>うむっ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "それは相手のバトルスタイルをわかり易く表現したものじゃっ。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "相手のバトルスタイルに勝てるようにスキルを打てば、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "敵の行動を阻害することが出来るのじゃっ!!"
+                            "\\N<Eliza>Hmm!! That represents the opponent's battle style in an\neasy-to-understand way. If you use a skill that can beat the\nopponent's battle style, you can inhibit the enemy's\nactions!!"
                         ]
                     },
                     {
@@ -380,21 +289,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<ピュアフレイム>はいっ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "わかりましたわ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "じゃんけんに勝てるようなスキルを選んでみますわっ!!"
+                            "\\N<Pure Flame>Yes!! I understand!! I'll try to choose a skill that can win\nat rock-paper-scissors!!"
                         ]
                     },
                     {
@@ -411,21 +306,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<エリザ>スキルに付与されるじゃんけんスタイルは毎回変わる。"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "強い攻撃でゴリ押しだけではなく、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "状況に合わせて適切に対処してゆくのじゃっ!!"
+                            "\\N<Eliza>The rock-paper-scissors style assigned to skills changes\nevery time. It's not just about pushing through with strong\nattacks, but also about dealing appropriately according to\nthe situation!!"
                         ]
                     },
                     {
@@ -473,14 +354,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "\\N<エリザ>待っておれ!!"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "回復してやるのじゃっ!!"
+                            "\\N<Eliza>Wait for me!! I'll heal you!!"
                         ]
                     },
                     {
@@ -875,21 +749,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "ホールド攻撃について"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "赤い敵など一部のモンスタ－はホールド攻撃という"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "エッチ攻撃を仕掛けてきます。"
+                            "About the Hold Attack: Some monsters, like the red enemies,\nwill launch a lewd attack known as the Hold Attack."
                         ]
                     },
                     {
@@ -906,21 +766,7 @@
                         "code": 401,
                         "indent": 1,
                         "parameters": [
-                            "普段のピュアフレイムなら捕まることは有りませんが、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "「とあるイベント」を見てしまうとホールド攻撃で、"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 1,
-                        "parameters": [
-                            "捕まるようになってしまいます。"
+                            "Normally, Pure Flame would not get caught, but after\nwitnessing \"a certain event,\" she becomes susceptible to\ngetting caught by the Hold Attack."
                         ]
                     },
                     {

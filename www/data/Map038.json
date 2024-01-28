@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "地下水路　最深部",
+    "displayName": "Underground Waterway Deepest Part",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2511,15 +2511,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]ふぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "なんとか阻止できましたわ……"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]Phew... somehow, we managed to stop it..."
                             ]
                         },
                         {
@@ -2538,15 +2530,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]それにしても生活用水に毒を紛れさせるなんて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "とんでもないことを考えますわね……"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]But to think of mixing poison into the drinking water...\nwhat a terrible thing to conceive..."
                             ]
                         },
                         {
@@ -2565,23 +2549,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]あのスライムが考えたとは思えませんし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "敵に相当悪どい人が居るみたいですわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "気を抜かないようにしませんと……っ!!"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]I can't imagine that slime came up with this... It seems we\nhave a rather vile person among our enemies... We must stay\nvigilant...!!"
                             ]
                         },
                         {
@@ -2777,14 +2745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]この先からすごく嫌な感じがしますわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "準備は……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]\\N<Flare>I have a really bad feeling about what's ahead. Are we\nprepared..."
                             ]
                         },
                         {
@@ -2792,8 +2753,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "出来ている",
-                                    "まだ……"
+                                    "I'm ready",
+                                    "Not yet"
                                 ],
                                 1,
                                 0,
@@ -2895,14 +2856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(この先から嫌な感じがする……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなお腹じゃ進めないわ……)"
+                                "(I have a bad feeling about what's ahead... I can't go on\nwith my stomach like this...)"
                             ]
                         },
                         {
@@ -3032,15 +2986,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<スライム>\\AA[FFFF]\\MMMM[InL]\\FFFF[4020Slime]ブヨブヨ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "モウスグ……コノ街……我ラノモノ……"
+                                "\\AA[FFFF]\\MMMM[InL]\\FFFF[4020Slime]\\N<Slime>Squish squish... Soon... This town... will be ours..."
                             ]
                         },
                         {
@@ -3072,15 +3018,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[InR]\\FF[1012Furea_0012]\\FFFF[4020Slime]ピュアフレイム、参上!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あなたの悪事、燃やし尽くしますっ!!"
+                                "\\FX[FF]\\AA[FF]\\MM[InR]\\FF[1012Furea_0012]\\FFFF[4020Slime]\\N<Flare>Pure Flame, arriving!! I will burn your evil deeds to\nashes!!"
                             ]
                         },
                         {
@@ -3099,15 +3037,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1012Furea_0005]\\FFFF[4020Slime]この水路で何をしようとしているのかは知りませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "悪事をしようとしているのなら阻止いたしますわっ!!"
+                                "\\FX[FF]\\AA[FF]\\FF[1012Furea_0005]\\FFFF[4020Slime]\\N<Flare>I don't know what you're planning to do with this waterway,\nbut if it's something evil, I will stop you!!"
                             ]
                         },
                         {
@@ -3139,31 +3069,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<スライム>\\FX[FF]\\AA[FFFF]\\MMMM[no]\\FF[1012Furea_0005]\\FFFF[4020Slime]ブヨブヨ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "我ラ……毒……流ス……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "街……壊滅……人間……我ラノ物……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "我ラノ……苗床……"
+                                "\\FX[FF]\\AA[FFFF]\\MMMM[no]\\FF[1012Furea_0005]\\FFFF[4020Slime]\\N<Slime>Squish squish... We... poison... flow... town...\ndestruction... humans... our possessions... our... breeding\nground..."
                             ]
                         },
                         {
@@ -3182,23 +3088,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[jump]\\FF[1012Furea_0011]\\FFFF[4020Slime]ど、毒を流すって……!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ぜ、絶対に阻止しないと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "とんでもないことになりますわっ!!"
+                                "\\FX[FF]\\AA[FF]\\MM[jump]\\FF[1012Furea_0011]\\FFFF[4020Slime]\\N<Flare>P-poisoning...!? We absolutely must stop this, or it will\nlead to a catastrophe!!"
                             ]
                         },
                         {
@@ -3217,7 +3107,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<スライム>\\FX[FF]\\AA[FFFF]\\MMMM[no]\\FF[1012Furea_0011]\\FFFF[4020Slime]我ラノ……邪魔……スル……？"
+                                "\\FX[FF]\\AA[FFFF]\\MMMM[no]\\FF[1012Furea_0011]\\FFFF[4020Slime]\\N<Slime>Our... obstruction... do...?"
                             ]
                         },
                         {
@@ -3236,15 +3126,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[jump]\\FF[1012Furea_0011]\\FFFF[4020Slime]あ、当たり前でしょうっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "そんな邪悪な計画、断固として阻止いたしますわっ!!"
+                                "\\FX[FF]\\AA[FF]\\MM[jump]\\FF[1012Furea_0011]\\FFFF[4020Slime]\\N<Flare>O-of course!! Such an evil plan, I will resolutely stop it!!"
                             ]
                         },
                         {
@@ -3263,15 +3145,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<スライム>\\FX[FF]\\AA[FFFF]\\MMMM[no]\\FF[1012Furea_0011]\\FFFF[4020Slime]ブヨブヨ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ボクタチ……悪イ、スライム……ジャナイヨ……"
+                                "\\FX[FF]\\AA[FFFF]\\MMMM[no]\\FF[1012Furea_0011]\\FFFF[4020Slime]\\N<Slime>Squish squish... We... not bad... slimes..."
                             ]
                         },
                         {
@@ -3301,7 +3175,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[jump]\\FF[1012Furea_0012]\\FFFF[4020Slime]そんなわけないでしょうっ!!"
+                                "\\FX[FF]\\AA[FF]\\MM[jump]\\FF[1012Furea_0012]\\FFFF[4020Slime]\\N<Flare>That's impossible!!"
                             ]
                         },
                         {
@@ -3320,23 +3194,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[jumpjump]\\FF[1012Furea_0018]\\FFFF[4020Slime]わたくしを馬鹿にして……っ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "許しませんわっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ピュアフレイム、参りますっ!!"
+                                "\\FX[FF]\\AA[FF]\\MM[jumpjump]\\FF[1012Furea_0018]\\FFFF[4020Slime]\\N<Flare>To mock me...!! I won't forgive you!! Pure Flame, here I\ncome!!"
                             ]
                         },
                         {
@@ -3510,28 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FX[F]\\AA[FF]\\F[1012Furea_00]\\FFFF[4020Slime]ブルブル……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ツギハ……逃サナイ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "＜二回敗北するとBADENDに進行します＞"
+                                "\\FX[F]\\AA[FF]\\F[1012Furea_00]\\FFFF[4020Slime]Shivering... Next time... I won't let you escape... ＜If you\nare defeated twice, you will proceed to a BAD END＞"
                             ]
                         },
                         {
@@ -3694,14 +3531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0004]ふぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとか阻止できましたわ……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0004]\\N<Flare>Phew... somehow we managed to stop it..."
                             ]
                         },
                         {
@@ -3718,14 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]それにしても生活用水に毒を紛れさせるなんて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とんでもないことを考えますわね……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]\\N<Flare>But to think of mixing poison into the drinking water...\nIt's such a terrible idea..."
                             ]
                         },
                         {
@@ -3742,21 +3565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0009]あのスライムが考えたとは思えませんし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敵に相当悪どい人が居るみたいですわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を抜かないようにしませんと……っ!!"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0009]\\N<Flare>I can't imagine that slime came up with it... It seems we\nhave a rather vile person among our enemies... We must stay\nvigilant...!!"
                             ]
                         },
                         {
@@ -3796,7 +3605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -3813,7 +3622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -3830,7 +3639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -4309,7 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体力が全回復した！"
+                                "Full HP restored!"
                             ]
                         },
                         {
@@ -4407,7 +4216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ショートカットが開通しました。"
+                                "A shortcut has been opened."
                             ]
                         },
                         {
@@ -4475,7 +4284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入口まで戻りますか？"
+                                "Do you want to return to the entrance?"
                             ]
                         },
                         {
@@ -4483,8 +4292,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

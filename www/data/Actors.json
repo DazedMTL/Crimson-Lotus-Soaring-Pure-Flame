@@ -18,10 +18,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "フレア",
+        "name": "Flare",
         "nickname": "メインヒロイン",
         "note": "",
-        "profile": "フレアちゃん"
+        "profile": "Flare-chan"
     },
     {
         "id": 2,
@@ -41,10 +41,10 @@
         "traits": [],
         "initialLevel": 50,
         "maxLevel": 99,
-        "name": "アルティメットピュアフレイム",
+        "name": "Ultimate Pure Flame",
         "nickname": "メインヒロイン",
         "note": "",
-        "profile": "アルティメットピュアフレイム"
+        "profile": "Ultimate Pure Flame"
     },
     {
         "id": 3,
@@ -64,7 +64,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "追加キャラ予備1",
+        "name": "Additional Character Reserve 1",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -87,7 +87,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "追加キャラ予備2",
+        "name": "Additional Character Reserve 2",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -110,7 +110,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "追加キャラ予備3",
+        "name": "Additional Character Reserve 3",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -665,7 +665,7 @@
         "name": "Ecamera_RanshiSperm2",
         "nickname": "Ecamera_RanshiSperm2",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 30,
@@ -688,7 +688,7 @@
         "name": "Ecamera_RanshiSperm3",
         "nickname": "Ecamera_RanshiSperm3",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 31,
@@ -711,7 +711,7 @@
         "name": "Ecamera_RanshiSperm4",
         "nickname": "Ecamera_RanshiSperm4",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 32,
@@ -734,7 +734,7 @@
         "name": "Ecamera_RanshiSperm5",
         "nickname": "Ecamera_RanshiSperm5",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 33,
@@ -757,7 +757,7 @@
         "name": "Ecamera_RanshiSperm6",
         "nickname": "Ecamera_RanshiSperm6",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 34,
@@ -780,7 +780,7 @@
         "name": "Ecamera_RanshiSperm7",
         "nickname": "Ecamera_RanshiSperm7",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 35,
@@ -918,7 +918,7 @@
         "name": "EventEcameraSkin",
         "nickname": "EventEcameraSkin",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 41,
@@ -941,7 +941,7 @@
         "name": "EventVcameraSkin",
         "nickname": "EventVcameraSkin",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 42,
@@ -2318,10 +2318,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "-PL系ここから",
+        "name": "-PL series starts here",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 102,
@@ -2364,10 +2364,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "処女",
+        "name": "Virgin",
         "nickname": "初めての相手",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 104,
@@ -2387,10 +2387,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "安全日",
+        "name": "Safe Day",
         "nickname": "体調",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 105,
@@ -2410,10 +2410,10 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "未受精",
+        "name": "Unfertilized",
         "nickname": "卵子の状態",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 106,
@@ -2436,7 +2436,7 @@
         "name": "---",
         "nickname": "卵子の父親",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     },
     {
         "id": 107,
@@ -4595,9 +4595,9 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "-PL系ここまで",
+        "name": "-PL series ends here",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "Flare-chan"
     }
 ]

@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "森　最深部",
+    "displayName": "Forest Depths",
     "encounterList": [],
     "encounterStep": 30,
     "height": 33,
@@ -6417,15 +6417,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]ふぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "なんとかなったようですわね……"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]Phew... It seems we've somehow managed..."
                             ]
                         },
                         {
@@ -6444,23 +6436,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]これで謎の失踪事件も止まるでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あとはジャスティスナイツの救助班の方に任せましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "では、これにて帰還いたしますわっ♪"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]With this, the mysterious disappearances should stop. We'll\nleave the rest to the Justice Knights' rescue team. Now,\nlet's return home♪"
                             ]
                         },
                         {
@@ -7020,14 +6996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]この先からすごく嫌な感じがしますわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "準備は……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]\\N<Flare>I have a really bad feeling about what lies ahead. Are we\nprepared..."
                             ]
                         },
                         {
@@ -7035,8 +7004,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "出来ている",
-                                    "まだ……"
+                                    "I'm ready",
+                                    "Not yet"
                                 ],
                                 1,
                                 0,
@@ -7138,14 +7107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(この先から嫌な感じがする……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなお腹じゃ進めないわ……)"
+                                "(I have a bad feeling about what's ahead... I can't go on\nwith my stomach like this...)"
                             ]
                         },
                         {
@@ -7292,15 +7254,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\M[InR]\\F[1012Furea_0012]ピュアフレイム、参上!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あなたの悪事、燃やし尽くしますっ!!"
+                                "\\FX[F]\\AA[F]\\M[InR]\\F[1012Furea_0012]\\N<Flare>Pure Flame, arriving!! I will burn your evil deeds to\nashes!!"
                             ]
                         },
                         {
@@ -7319,15 +7273,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ゴブリン>\\FX[F]\\AA[FFFF]\\MMMM[InL]\\F[1012Furea_0012]\\FFFF[4010goblin]ギギギ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ニンゲン、メス!!"
+                                "\\FX[F]\\AA[FFFF]\\MMMM[InL]\\F[1012Furea_0012]\\FFFF[4010goblin]\\N<Goblin>Hehehe... Human, female!!"
                             ]
                         },
                         {
@@ -7357,14 +7303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ゴブリン>\\FX[F]\\AA[FFFF]\\MMMM[jump]\\F[1012Furea_0012]\\FFFF[4010goblin]自分カラ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オレラノ子供、産ミニ来タ!!"
+                                "\\FX[F]\\AA[FFFF]\\MMMM[jump]\\F[1012Furea_0012]\\FFFF[4010goblin]\\N<Goblin>From yourself, you will bear our children!!"
                             ]
                         },
                         {
@@ -7383,15 +7322,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1012Furea_0011]\\FFFF[4010goblin]こ、子供を産むって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "な、何を言ってるの!?"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0011]\\FFFF[4010goblin]\\N<Flare>B-bear children... What are you talking about!?"
                             ]
                         },
                         {
@@ -7410,15 +7341,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ゴブリン>\\FX[F]\\AA[FFFF]\\MMMM[jump]\\F[1012Furea_0011]\\FFFF[4010goblin]ギギギ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ニンゲンノ、メス、モット、アツメル……"
+                                "\\FX[F]\\AA[FFFF]\\MMMM[jump]\\F[1012Furea_0011]\\FFFF[4010goblin]\\N<Goblin>Hehehe... More human females, gather..."
                             ]
                         },
                         {
@@ -7437,15 +7360,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ゴブリン>\\FX[F]\\AA[FFFF]\\MMMM[jump]\\F[1012Furea_0011]\\FFFF[4010goblin]ニンゲン、孕マセテ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "オレラ、モット、増エル!!"
+                                "\\FX[F]\\AA[FFFF]\\MMMM[jump]\\F[1012Furea_0011]\\FFFF[4010goblin]\\N<Goblin>Impregnate humans, we will increase more!!"
                             ]
                         },
                         {
@@ -7464,23 +7379,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\M[no]\\F[1012Furea_0011]\\FFFF[4010goblin]集めるって……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "じゃぁ、やっぱり、近隣の行方不明の原因は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あなた達だったのですねっ!!"
+                                "\\FX[F]\\AA[F]\\M[no]\\F[1012Furea_0011]\\FFFF[4010goblin]\\N<Flare>Gather... So, you were indeed the cause of the nearby\ndisappearances!!"
                             ]
                         },
                         {
@@ -7499,15 +7398,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1012Furea_0018]\\FFFF[4010goblin]そ、それに、その言い方だと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "誘拐された人々はきっと今も……っ!?"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0018]\\FFFF[4010goblin]\\N<Flare>And, by that way of speaking, the people who were kidnapped\nare surely still...!?"
                             ]
                         },
                         {
@@ -7526,23 +7417,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ゴブリン>\\FX[F]\\AA[FFFF]\\MMMM[jump]\\F[1012Furea_0018]\\FFFF[4010goblin]ゲッゲッゲ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "オ前モソウナル。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "俺タチノ、赤ン坊、スグ、産マセテヤル!!"
+                                "\\FX[F]\\AA[FFFF]\\MMMM[jump]\\F[1012Furea_0018]\\FFFF[4010goblin]\\N<Goblin>Gehgehgeh. You will become such. Our baby, soon, you will\nbear!!"
                             ]
                         },
                         {
@@ -7561,15 +7436,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1012Furea_0017]\\FFFF[4010goblin]そ、そんなこと、絶対にさせませんわっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ピュアフレイム、負けられませんっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0017]\\FFFF[4010goblin]\\N<Flare>S-such a thing, I will absolutely not allow it!! Pure Flame,\nyou cannot lose!!"
                             ]
                         },
                         {
@@ -7743,28 +7610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FX[F]\\AA[FF]\\F[1012Furea_0018]\\FFFF[4010goblin]ゲッゲッゲ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メスガ、モドッテキタ!!犯セェ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "＜二回敗北するとBADENDに進行します＞"
+                                "\\FX[F]\\AA[FF]\\F[1012Furea_0018]\\FFFF[4010goblin]Heh heh heh!! The female has returned!! Violate her!! ＜If\nyou are defeated twice, you will proceed to a BAD END＞"
                             ]
                         },
                         {
@@ -7917,15 +7763,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]ふぅ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "なんとかなったようですわね……"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]Phew... It seems we've managed somehow..."
                             ]
                         },
                         {
@@ -7944,23 +7782,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]これで謎の失踪事件も止まるでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あとはジャスティスナイツの救助班の方に任せましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "では、これにて帰還いたしますわっ♪"
+                                "\\FX[FFF]\\AA[F]\\FFF[1012Furea_0000]This should stop the mysterious disappearances. We'll leave\nthe rest to the Justice Knights' rescue team. Now, let's\nreturn home♪"
                             ]
                         },
                         {
@@ -8000,7 +7822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -8017,7 +7839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -8034,7 +7856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -9479,7 +9301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体力が全回復した！"
+                                "Full HP restored!"
                             ]
                         },
                         {
@@ -9807,7 +9629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ショートカットが開通しました。"
+                                "A shortcut has been opened."
                             ]
                         },
                         {
@@ -9875,7 +9697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入口まで戻りますか？"
+                                "Do you want to return to the entrance?"
                             ]
                         },
                         {
@@ -9883,8 +9705,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

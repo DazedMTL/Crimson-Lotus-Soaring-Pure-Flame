@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "登山道3",
+    "displayName": "Mountain Path 3",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -5564,7 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体力が全回復した！"
+                                "Full HP restored!"
                             ]
                         },
                         {
@@ -5976,7 +5976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ショートカットが開通しました。"
+                                "A shortcut has been opened."
                             ]
                         },
                         {
@@ -6044,7 +6044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入口まで戻りますか？"
+                                "Do you want to return to the entrance?"
                             ]
                         },
                         {
@@ -6052,8 +6052,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

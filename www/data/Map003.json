@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "司令室部屋",
+    "displayName": "Command Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2544,7 +2544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0000]どうしましょうか。"
+                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0000]What should we do?"
                             ]
                         },
                         {
@@ -2552,9 +2552,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "司令官と話す",
-                                    "エリザと話す",
-                                    "部屋へ戻る"
+                                    "Talk to the commander",
+                                    "Talk to Eliza",
+                                    "Return to the room"
                                 ],
                                 2,
                                 0,
@@ -2584,14 +2584,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<総司令>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1090Ogi_0000]フレア君、キミには期待しているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だが、無理はし過ぎ無いようにしてくれたまえ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1090Ogi_0000]\\N<Supreme Commander>Flare, I have high hopes for you. But please, don't overdo\nit."
                             ]
                         },
                         {
@@ -2608,14 +2601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0000]はい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "期待に応えられるように頑張りますわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0000]\\N<Flare>Yes, I'll do my best to meet your expectations!!"
                             ]
                         },
                         {
@@ -2632,7 +2618,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<総司令>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0001]うむ、良い返事だ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0001]\\N<Supreme Commander>Hmm, good response."
                             ]
                         },
                         {
@@ -2683,14 +2669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1020Eriza_0009]お、来おったな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんか聞きたいことでもあるかのぅ？"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1020Eriza_0009]\\N<Eliza>Oh, you've arrived? Is there something you wish to ask?"
                             ]
                         },
                         {
@@ -2698,10 +2677,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ラヴィについて",
-                                    "クリスタルについて",
-                                    "戦いとは？",
-                                    "特に無い"
+                                    "About Lavi",
+                                    "About the crystal?",
+                                    "What is a battle?",
+                                    "Nothing in particular"
                                 ],
                                 3,
                                 0,
@@ -2731,14 +2710,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0007]ラヴィとはなにか、か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "う～む、難しいことを聞くのぅ……"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0007]\\N<Eliza>What is \"Love\"... Hmm, that's a difficult question..."
                             ]
                         },
                         {
@@ -2755,28 +2727,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0000]最近我が組織が発見したばかりのエネルギーで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "愛する行為をする際に発生し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "感情をエネルギー化したものではないかと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "推察されておるのじゃが……"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0000]\\N<Eliza>It's a form of energy that our organization has only\nrecently discovered. It seems to be generated during acts of\nlove, transforming emotions into energy..."
                             ]
                         },
                         {
@@ -2793,14 +2744,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]……まぁ、ぶっちゃけ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "わらわ達もなんなのかイマイチわかっておらんのじゃ（笑）"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]\\N<Eliza>...Well, to be frank, even we don't fully understand what it\nis (laughs)."
                             ]
                         },
                         {
@@ -2817,14 +2761,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0007]\\FFFFF[1020Eriza_0003]え、えぇ～……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だ、大丈夫なのでしょうか、それは……"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0007]\\FFFFF[1020Eriza_0003]\\N<Flare>Eh, eeh... Is, is that okay...?"
                             ]
                         },
                         {
@@ -2841,28 +2778,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0007]\\FFFFF[1020Eriza_0006]まぁ、大丈夫じゃろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "本当に体に危険なものじゃったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "セックスと繁殖で繁栄してきた人類は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "とっくのとうに滅んでおるじゃろうしな。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0007]\\FFFFF[1020Eriza_0006]\\N<Eliza>Well, it should be fine. If it were truly dangerous to the\nbody, humanity, which has thrived through sex and\nreproduction, would have been extinct long ago."
                             ]
                         },
                         {
@@ -2879,7 +2795,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0007]\\FFFFF[1020Eriza_0006]な、なるほどですわ……"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0007]\\FFFFF[1020Eriza_0006]\\N<Flare>I, I see..."
                             ]
                         },
                         {
@@ -2896,21 +2812,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0007]\\FFFFF[1020Eriza_0008]性行為時の感情の高ぶりが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "エネルギーの源となっておるのではないかと言われておる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あまり無茶な集め方、使い方さえしなければ大丈夫じゃろう。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0007]\\FFFFF[1020Eriza_0008]\\N<Eliza>It is said that the surge of emotions during sexual activity\ncould be the source of this energy. As long as we don't\ncollect or use it recklessly, it should be fine."
                             ]
                         },
                         {
@@ -2947,14 +2849,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]クリスタルは我が組織が開発した変身アイテムなのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そのクリスタルを使って変身するものをピュアエレメンツというのじゃ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]\\N<Eliza>The crystal is a transformation item developed by our\norganization. Those who transform using this crystal are\ncalled Pure Elements."
                             ]
                         },
                         {
@@ -2971,28 +2866,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]愛のエネルギー「ラヴィ」で変身をすることで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "体を一時的に強化、活性化させることができるのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "また、変身時、変身解除時に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "体をキレイにしてくれる効果もあるのじゃ♪"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]\\N<Eliza>By transforming with the energy of love, \"Love\", one can\ntemporarily strengthen and activate their body.\nAdditionally, the transformation and detransformation\nprocess also has the effect of cleansing the body."
                             ]
                         },
                         {
@@ -3009,14 +2883,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]それ故、本来普通の人間では太刀打ちできないような、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "怪人と戦うことができるようになっておるのじゃ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]\\N<Eliza>Therefore, it enables ordinary humans to fight against\nmonsters, which they normally wouldn't stand a chance\nagainst."
                             ]
                         },
                         {
@@ -3033,21 +2900,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]そうなのですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そういえば、あの変身した時のポーズや決めセリフは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どなたが決めたんですか？"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]\\N<Flare>I see! By the way, who decided on the poses and catchphrases\nwhen transforming?"
                             ]
                         },
                         {
@@ -3064,7 +2917,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0001]えっ？"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0001]\\N<Eliza>Huh?"
                             ]
                         },
                         {
@@ -3081,21 +2934,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0004]（ど、どなたが決めたも何も、台本なぞどこにも無いのじゃが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "言うなれば、ノリノリでフレアが名乗っただけの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "口上なのじゃが……）"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0004]\\N<Eliza>(Who decided? There's no script for this... It's just\nsomething Flare came up with on the fly...)"
                             ]
                         },
                         {
@@ -3112,7 +2951,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0004]……？"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0004]\\N<Flare>...?"
                             ]
                         },
                         {
@@ -3129,21 +2968,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0004]（コヤツ、変身ヒロインになりたい潜在願望でもあるのじゃろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今それを否定してしまって、やる気を削ぐのも得策ではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "て、適当に話を合わせておくのじゃ……）"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0004]\\N<Eliza>(This kid must have a latent desire to become a\ntransformation heroine. Denying it now and dampening her\nspirits isn't wise. Let's just go along with it...)"
                             ]
                         },
                         {
@@ -3160,21 +2985,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0011]え、えーと、じゃな、あれは……じゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "えーっと、変身すると、自動で口走るようになっておる……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "のかもしれない、のかもしれないのじゃ……？"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0011]\\N<Eliza>Uh, well, that is... um. Perhaps, when you transform, you\nautomatically say those things... maybe?"
                             ]
                         },
                         {
@@ -3191,21 +3002,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0011]（ちなみに変身後の衣装デザイン等も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "本人の潜在意識によるものなのじゃが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ま、まぁ、よいじゃろう……）"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0011]\\N<Eliza>(By the way, the design of the transformation outfit is also\nbased on the individual's subconscious... Well, it's\nfine...)"
                             ]
                         },
                         {
@@ -3242,14 +3039,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0000]わたくし達の戦いについて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "再度状況を教えていただきたいのですが……"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0000]\\N<Flare>I would like to be briefed again about our battle\nsituation..."
                             ]
                         },
                         {
@@ -3266,14 +3056,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0008]うむ、そうじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "軽くおさらいをしておくと……"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0008]\\N<Eliza>Hmm, right. Let's do a quick review..."
                             ]
                         },
                         {
@@ -3290,14 +3073,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0000]我々の平和を脅かす組織「ブラックブリザード団」。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "通称「BB団」がわらわ達の敵なのじゃ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0000]\\N<Eliza>Our enemy is an organization threatening our peace, known as\n\"Black Blizzard\". Commonly referred to as \"BB Group\"."
                             ]
                         },
                         {
@@ -3314,14 +3090,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]その悪の組織「BB団」に対抗する組織として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "わらわ達ジャスティスナイツ、通称「JK」がおるわけじゃなっ♪"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0003]\\N<Eliza>As an organization opposing the evil \"BB Group\", we are the\nJustice Knights, commonly known as \"JK\"."
                             ]
                         },
                         {
@@ -3338,21 +3107,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0008]BB団の戦力である怪人達は一般人の力ではどうにも出来ん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あやつらに対応できる力を持つ者……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それがお主、「ピュアフレイム」というわけなのじゃ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0008]\\N<Eliza>The monsters from BB Group are beyond the capabilities of\nordinary people. Those who can counter them... That's where\nyou, \"Pure Flame\", come in."
                             ]
                         },
                         {
@@ -3369,14 +3124,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0008]怪人を止めるすべがなく、連戦連敗じゃったが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お主の登場でようやく貴重な１勝を得た、というわけじゃな♪"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0008]\\N<Eliza>We were losing battle after battle with no way to stop the\nmonsters... But with your arrival, we finally achieved a\nprecious victory."
                             ]
                         },
                         {
@@ -3393,28 +3141,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0006]なお、ピュアフレイムに変身するためには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ラヴィという愛の力が必要。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お主は彼氏としっぽりヤって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "エネルギーを溜め込んでおくようにのぅ♪"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0000]\\FFFFF[1020Eriza_0006]\\N<Eliza>Moreover, to transform into Pure Flame, you need the power\nof love, \"Love\". You'll need to get cozy with your boyfriend\nand stock up on energy♪"
                             ]
                         },
                         {
@@ -3431,21 +3158,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0010]\\FFFFF[1020Eriza_0006]え、えっと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あ、あの……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "は、はい……///"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0010]\\FFFFF[1020Eriza_0006]\\N<Flare>Uh, um... Ah, yes...///"
                             ]
                         },
                         {

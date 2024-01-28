@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "司令室部屋",
+    "displayName": "Command Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2544,7 +2544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0000]どうしましょうか。"
+                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0000]What should we do?"
                             ]
                         },
                         {
@@ -2552,9 +2552,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "司令官と話す",
-                                    "エリザと話す",
-                                    "部屋へ戻る"
+                                    "Talk to the commander",
+                                    "Talk to Eliza",
+                                    "Return to the room"
                                 ],
                                 2,
                                 0,
@@ -2586,7 +2586,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0000]お疲れ様ですわ、総司令さん。"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0000]\\N<Flare>Good work, Supreme Commander."
                             ]
                         },
                         {
@@ -2605,7 +2605,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<総司令>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0001]あぁ、お疲れ様。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0001]\\N<Supreme Commander>Ah, good work."
                             ]
                         },
                         {
@@ -2624,7 +2624,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<総司令>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0001]君の活躍のお陰でBB団との闘争に光が見えてきたよ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0001]\\N<Supreme Commander>Thanks to your efforts, we're starting to see the light in\nour struggle against the BB gang."
                             ]
                         },
                         {
@@ -2643,15 +2643,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<総司令>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0000]戦況的に敵のBB団も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "いよいよ本気でかかってくるだろう。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0000]\\N<Supreme Commander>Given the situation, the enemy's BB gang will probably start\nto get serious from now on."
                             ]
                         },
                         {
@@ -2670,15 +2662,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<総司令>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0000]これからの戦いも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "くれぐれも気を抜かないようにお願いするよ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0000]\\N<Supreme Commander>Please, don't let your guard down in the battles to come."
                             ]
                         },
                         {
@@ -2697,15 +2681,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0000]はいっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "頑張らせていただきますわっ♪"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFFF[1090Ogi_0000]\\N<Flare>Yes!! I'll do my best♪"
                             ]
                         },
                         {
@@ -2758,15 +2734,7 @@
                             "indent": 1,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\FX[FFF]\\AA[F]\\FFF[1020Eriza_0000]よく来たな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "少しゆっくりしていくが良いのじゃ！"
+                                "\\FX[FFF]\\AA[F]\\FFF[1020Eriza_0000]You've come at a good time. Feel free to relax a bit!"
                             ]
                         },
                         {
@@ -2774,10 +2742,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ジャスティスナイツについて",
-                                    "ギドウについて",
-                                    "ケンジについて",
-                                    "特に無い"
+                                    "About the Justice Knights",
+                                    "About Guido",
+                                    "About Kenji",
+                                    "Nothing in particular"
                                 ],
                                 3,
                                 0,
@@ -2809,15 +2777,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1020Eriza_0009]お主の華々しい戦績のお陰で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ジャスティスナイツの風通しが良くなったのじゃ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1020Eriza_0009]\\N<Eliza>Thanks to your splendid achievements, the atmosphere among\nthe Justice Knights has improved."
                             ]
                         },
                         {
@@ -2836,23 +2796,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1020Eriza_0003]ギドウの担当だった開発チームもわらわの下に入って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "戦闘用のアイテムの開発、実践への供給がスムーズになったのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "開発チームの予算も管理できるようになったしのぅ♪"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1020Eriza_0003]\\N<Eliza>The development team, which was under Guido's charge, has\ncome under my supervision, making the development and supply\nof combat items to the field smoother. I can also manage the\ndevelopment team's budget now♪"
                             ]
                         },
                         {
@@ -2871,15 +2815,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFFF[1020Eriza_0003]そうなのですね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "なら、これからの戦いは楽になりそうですわね♪"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFFF[1020Eriza_0003]\\N<Flare>Is that so♪ Then, the battles ahead might become easier♪"
                             ]
                         },
                         {
@@ -2898,23 +2834,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1020Eriza_0008]うむ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ショッピングモールの開発室を覗いてみると良いのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "開発できる物が増えておるはずなのじゃ♪"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFFF[1020Eriza_0008]\\N<Eliza>Indeed♪ You should check out the development room in the\nshopping mall. There should be more items available for\ndevelopment♪"
                             ]
                         },
                         {
@@ -2933,15 +2853,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0014]\\FFFFF[1020Eriza_0008]わかりましたわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "向かってみます♪"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0014]\\FFFFF[1020Eriza_0008]\\N<Flare>Understood♪ I'll head there♪"
                             ]
                         },
                         {
@@ -2960,23 +2872,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0014]\\FFFFF[1020Eriza_0007]（……にしても開発チームの予算がくっそ多くてビビったのじゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "これだけの予算でこの程度の成果とは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ギドウのやつ、資金をちょろまかしておったとしか考えられるのじゃ……）"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0014]\\FFFFF[1020Eriza_0007]\\N<Eliza>(...But the development team's budget was shockingly huge...\nWith this much budget for such results, it can only be\nassumed that Guido was embezzling funds...)"
                             ]
                         },
                         {
@@ -3015,15 +2911,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0000]あの、先日の襲撃の際、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "行方不明になったギドウさんについてなのですが……"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0000]\\N<Flare>Um, about Guido, who went missing during the recent\nattack..."
                             ]
                         },
                         {
@@ -3042,15 +2930,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0007]うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あやつ、あまりにもきれいにおらんようになったのじゃ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0007]\\N<Eliza>Hmm. He disappeared too cleanly."
                             ]
                         },
                         {
@@ -3069,7 +2949,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0007]「キレイに」……？"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0007]\\N<Flare>\"Too cleanly\"...?"
                             ]
                         },
                         {
@@ -3088,23 +2968,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0010]うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あやつの部屋などを調べてみたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あやつが争ったり抵抗をしたような痕跡もなく、きれいな状態だったのじゃ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0010]\\N<Eliza>Yes. When we examined his room and such, there were no signs\nof struggle or resistance, everything was in a clean state."
                             ]
                         },
                         {
@@ -3123,23 +2987,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0010]なるほど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "でしたら、部屋ではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "廊下や別の場所で攫われたのでは……？"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0010]\\N<Flare>I see... Then, maybe he was abducted not in his room, but in\na hallway or some other place...?"
                             ]
                         },
                         {
@@ -3158,15 +3006,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0010]うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "そうかもしれんし、そうではないかもしれん。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0010]\\N<Eliza>Hmm. That might be the case, or it might not."
                             ]
                         },
                         {
@@ -3185,15 +3025,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0010]……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "と言いますと……？"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0010]\\N<Flare>...? What do you mean...?"
                             ]
                         },
                         {
@@ -3212,15 +3044,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0004]あまりにも痕跡が無いことから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "「攫われた」ではなく「自ら進んで逃亡した」とも見えんでもないのじゃ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0004]\\N<Eliza>The lack of any traces makes it seem like he wasn't\n'abducted' but 'left willingly.'"
                             ]
                         },
                         {
@@ -3239,23 +3063,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\M[jump]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0004]えぇ!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ですが、開発チームのリーダーですよ!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "自らの責任も果たさず、一人だけ逃亡なんて、そんなこと……!!"
+                                "\\FX[F]\\AA[F]\\M[jump]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0004]\\N<Flare>What!? But he was the leader of the development team! To\nabandon his responsibilities and flee alone, how could...!!"
                             ]
                         },
                         {
@@ -3274,15 +3082,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0003]まぁ、そこら編も含め現在調査中なのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "結果がわかったらまたお主にも教えてやるのじゃ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0003]\\N<Eliza>Well, including that part, we're currently investigating.\nI'll let you know once we have the results."
                             ]
                         },
                         {
@@ -3321,15 +3121,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0000]あの、ケンジ様についてなのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "最近は作戦会議などには参加されていないようですが……？"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0000]\\N<Flare>Um, about Kenji-sama, it seems he hasn't been participating\nin strategy meetings lately...?"
                             ]
                         },
                         {
@@ -3348,23 +3140,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0005]うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "アヤツに渡すジャスティスナイツの情報を制限するように変えたのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "つまり……"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0005]\\N<Eliza>Hmm. We've restricted the information about the Justice\nKnights that we pass to him. In other words..."
                             ]
                         },
                         {
@@ -3391,7 +3167,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0016]アヤツは知りすぎてしまった……"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0016]\\N<Eliza>He knows too much..."
                             ]
                         },
                         {
@@ -3423,7 +3199,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\MMMMM[jump]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0017]消さねばならぬ!!"
+                                "\\FX[F]\\AA[FFFFF]\\MMMMM[jump]\\F[1010Furea_0005]\\FFFFF[1020Eriza_0017]\\N<Eliza>We must erase him!!"
                             ]
                         },
                         {
@@ -3442,23 +3218,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\M[jump]\\F[1010Furea_0011]\\FFFFF[1020Eriza_0017]えぇ!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "エ、エリザさん!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "だだだ、だめですわっ、そんなことっ!!"
+                                "\\FX[F]\\AA[F]\\M[jump]\\F[1010Furea_0011]\\FFFFF[1020Eriza_0017]\\N<Flare>What!? E-Eliza-san!? No, no, no, that's not right!!"
                             ]
                         },
                         {
@@ -3490,15 +3250,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\MMMMM[no]\\F[1010Furea_0011]\\FFFFF[1020Eriza_0009]あっはっは!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "冗談、冗談なのじゃ(笑)"
+                                "\\FX[F]\\AA[FFFFF]\\MMMMM[no]\\F[1010Furea_0011]\\FFFFF[1020Eriza_0009]\\N<Eliza>Ahahaha!! Just kidding, just kidding (laughs)"
                             ]
                         },
                         {
@@ -3517,15 +3269,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\M[jump]\\F[1010Furea_0001]\\FFFFF[1020Eriza_0009]もうっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "悪い冗談はやめてくださいませっ！"
+                                "\\FX[F]\\AA[F]\\M[jump]\\F[1010Furea_0001]\\FFFFF[1020Eriza_0009]\\N<Flare>Enough! Please stop with the bad jokes!"
                             ]
                         },
                         {
@@ -3544,7 +3288,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0001]\\FFFFF[1020Eriza_0009]すまんすまん。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0001]\\FFFFF[1020Eriza_0009]\\N<Eliza>Sorry, sorry."
                             ]
                         },
                         {
@@ -3563,23 +3307,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0001]\\FFFFF[1020Eriza_0003]先日の襲撃の件もあるからのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "必要以上の情報を知ると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "かえってアヤツの身が危ないのではないかという話になってのぅ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0001]\\FFFFF[1020Eriza_0003]\\N<Eliza>With the recent attack and all, knowing too much information\ncould actually put him in danger, that's what we've been\ndiscussing."
                             ]
                         },
                         {
@@ -3598,7 +3326,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0001]\\FFFFF[1020Eriza_0003]アヤツを守るという意味でもアヤツに与える情報は制限しておるのじゃ。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0001]\\FFFFF[1020Eriza_0003]\\N<Eliza>In a way, we're restricting the information we give him to\nprotect him."
                             ]
                         },
                         {
@@ -3617,15 +3345,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0003]なるほど……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ですが、そんな必要、あるのでしょうか……？"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0003]\\N<Flare>I see...? But is that really necessary...?"
                             ]
                         },
                         {
@@ -3644,23 +3364,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0000]そうじゃのう……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "例えば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "先日の襲撃で、アヤツが攫われたとするじゃろ？"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0000]\\N<Eliza>It is... For instance, let's say he was abducted during the\nrecent attack."
                             ]
                         },
                         {
@@ -3679,15 +3383,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0004]アヤツが何かしらの重要機密を知っておれば、相手は悪の組織じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "たとえ拷問をしてでも口を割らせるじゃろう。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0004]\\N<Eliza>If he knew some sort of crucial secret, the enemy being an\nevil organization would likely force him to spill it, even\nthrough torture."
                             ]
                         },
                         {
@@ -3706,23 +3402,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0003]ただ、本当に知らぬのであれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "場合によっては「価値なし」と判断され解放される可能性もある……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "というところじゃな。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0003]\\N<Eliza>However, if he truly knows nothing, then depending on the\nsituation, they might deem him 'worthless' and decide to\nrelease him... That's the idea."
                             ]
                         },
                         {
@@ -3741,7 +3421,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0009]まぁ必要以上の機密情報は知らぬほうが良い、という話じゃな。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0003]\\FFFFF[1020Eriza_0009]\\N<Eliza>So, it's better not to know too much confidential\ninformation."
                             ]
                         },
                         {

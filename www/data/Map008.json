@@ -16,7 +16,7 @@
         "volume": 80
     },
     "disableDashing": false,
-    "displayName": "廃坑　B2F",
+    "displayName": "Abandoned Mine B2F",
     "encounterList": [],
     "encounterStep": 45,
     "height": 26,
@@ -5479,14 +5479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]この先からすごく嫌な感じがしますわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "準備は……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1012Furea_0005]\\N<Flare>I have a really bad feeling about what lies ahead. Are we\nprepared..."
                             ]
                         },
                         {
@@ -5494,8 +5487,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "出来ている",
-                                    "まだ……"
+                                    "I'm ready",
+                                    "Not yet"
                                 ],
                                 1,
                                 0,
@@ -5597,14 +5590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(この先から嫌な感じがする……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなお腹じゃ進めないわ……)"
+                                "(I have a bad feeling about what's ahead... I can't go on\nwith my stomach like this...)"
                             ]
                         },
                         {
@@ -5725,21 +5711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[FFF]\\AA[FFF]\\FFF[4001zakozu]\\FFFFF[4002zakozu]……であるからして!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我らブラックブリザード団の栄光のため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人類に恐怖と絶望を与えるため、次の目的は日向市とする!!"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>For the glory of our Black Blizzard group, to instill fear\nand despair in humanity, our next target shall be Hinata\nCity!!"
                             ]
                         },
                         {
@@ -5756,7 +5728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズ軍団>\\FX[FFF]\\AA[FFFFF]\\MMMMM[jumpjump]\\FFF[4001zakozu]\\FFFFF[4002zakozu]キィーーー!!"
+                                "\\FX[FFF]\\AA[FFFFF]\\MMMMM[jumpjump]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Legion>Kyiii---!!"
                             ]
                         },
                         {
@@ -5780,7 +5752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<？？？>\\FX[F]\\FX[FFF]\\AA[F]\\F[1012Furea_Kage]\\FFF[4001zakozu]\\FFFFF[4002zakozu]そうはさせませんわっ!!"
+                                "\\FX[F]\\FX[FFF]\\AA[F]\\F[1012Furea_Kage]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<???>I won't let you do that!!"
                             ]
                         },
                         {
@@ -5797,14 +5769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_Kage]\\FFF[4001zakozu]\\FFFFF[4002zakozu]だ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰だ!?"
+                                "\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_Kage]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>Who's there!?"
                             ]
                         },
                         {
@@ -5833,14 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]ピュアフレイム、参上!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの悪事、燃やし尽くしますっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<Pure Flame>Pure Flame, arriving!! I will burn your evil deeds to\nashes!!"
                             ]
                         },
                         {
@@ -5857,14 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]ピュ、ピュアフレイムだとぉ!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだ貴様はっ!!"
+                                "\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>Pu, Pure Flame!? What are you!!"
                             ]
                         },
                         {
@@ -5881,14 +5832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]あなた方の悪事を阻止するため……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた方を倒しに来ましたわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<Pure Flame>To stop your evil deeds... I have come to defeat you!!"
                             ]
                         },
                         {
@@ -5905,7 +5849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\MMM[no]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]くっ……"
+                                "\\FX[F]\\AA[FFF]\\MMM[no]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>Grr..."
                             ]
                         },
                         {
@@ -5922,7 +5866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0005]\\FFF[4001zakozu]\\FFFFF[4002zakozu]……？"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0005]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<Pure Flame>...?"
                             ]
                         },
                         {
@@ -5951,7 +5895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_0005]\\FFF[4001zakozu]\\FFFFF[4002zakozu]はーっはっはっは!!"
+                                "\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_0005]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>Ha-ha-ha-ha!!"
                             ]
                         },
                         {
@@ -5968,14 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_0005]\\FFF[4001zakozu]\\FFFFF[4002zakozu]何を言っているんだ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただのコスプレした女が!!"
+                                "\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_0005]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>What are you talking about!! Just a girl in cosplay!!"
                             ]
                         },
                         {
@@ -5992,14 +5929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]コ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コスプレではありませんわっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<Pure Flame>It's not cosplay!!"
                             ]
                         },
                         {
@@ -6016,21 +5946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]くっくっく、まぁなんでもいいぜぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのコスプレ女、なかなか美人じゃねぇか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飛んで火に入る夏の虫とはこの事だぜ。"
+                                "\\FX[F]\\AA[FFF]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>Heh heh heh, well, whatever. That cosplay girl, she's quite\nthe beauty. Like a moth to the flame."
                             ]
                         },
                         {
@@ -6047,21 +5963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]おい、そいつを捕まえろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新しい肉便器が自分から来やがったぜ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "孕むまで全員で輪姦していいぞっ!!"
+                                "\\FX[F]\\AA[FFF]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>Hey, capture her! A new sex slave has come to us!! Gangbang\nher until she's pregnant!!"
                             ]
                         },
                         {
@@ -6078,7 +5980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズ軍団>\\FX[F]\\AA[FFFFF]\\MMMMM[jump]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]キィー!!"
+                                "\\FX[F]\\AA[FFFFF]\\MMMMM[jump]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Legion>Kyii-!!"
                             ]
                         },
                         {
@@ -6095,14 +5997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0013]\\FFF[4001zakozu]\\FFFFF[4002zakozu]っ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて野蛮なっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0013]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<Pure Flame>!! How barbaric!!"
                             ]
                         },
                         {
@@ -6119,21 +6014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズ>\\FX[F]\\AA[FF]\\MM[InL]\\F[1012Furea_0013]\\FF[4000zakozu]\\FFF[4001zakozu]\\FFFFF[4002zakozu]へっへっへ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちに来こいよぉ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イイコトしようぜぇ……"
+                                "\\FX[F]\\AA[FF]\\MM[InL]\\F[1012Furea_0013]\\FF[4000zakozu]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores>Heh heh heh... come over here... let's have some fun..."
                             ]
                         },
                         {
@@ -6150,7 +6031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\M[jump]\\F[1012Furea_0012]\\FF[4000zakozu]\\FFF[4001zakozu]\\FFFFF[4002zakozu]そうはさせませんわっ!!"
+                                "\\FX[F]\\AA[F]\\M[jump]\\F[1012Furea_0012]\\FF[4000zakozu]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<Pure Flame>I won't let you do that!!"
                             ]
                         },
                         {
@@ -6167,7 +6048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FF[4000zakozu]\\FFF[4001zakozu]\\FFFFF[4002zakozu]ピュアフレイムがその手を振り払う"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FF[4000zakozu]\\FFF[4001zakozu]\\FFFFF[4002zakozu]Pure Flame shakes off their hand"
                             ]
                         },
                         {
@@ -6196,7 +6077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズ>\\FX[F]\\AA[FF]\\MM[FadeR]\\F[1012Furea_0012]\\FF[4000zakozu]\\FFF[4001zakozu]\\FFFFF[4002zakozu]ぐあっ!!"
+                                "\\FX[F]\\AA[FF]\\MM[FadeR]\\F[1012Furea_0012]\\FF[4000zakozu]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores>Guah!!"
                             ]
                         },
                         {
@@ -6213,21 +6094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]っ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ザコーズが、一般人に負けるだとぉ!?"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "き、貴様、ただのコスプレ女では無いなっ!!"
+                                "\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>!! The Cores, defeated by a civilian!? You, you're not just\nsome cosplay girl!!"
                             ]
                         },
                         {
@@ -6244,7 +6111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\M[jump]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]で・す・か・ら・っ!!"
+                                "\\FX[F]\\AA[F]\\M[jump]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<Pure Flame>That's. What. I. Said. !!"
                             ]
                         },
                         {
@@ -6261,14 +6128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]さっきからそう言ってるではないですかっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと話を聞いてくださいませっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<Pure Flame>Haven't I been saying that all along!! Please listen to what\nI'm saying!!"
                             ]
                         },
                         {
@@ -6285,21 +6145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]っ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃぁ、ドクターマッド様の言ってた我々に楯突く勢力って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前のことかっ!!"
+                                "\\FX[F]\\AA[FFF]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>!! So, you're the force that Dr. Mad mentioned, opposing\nus!!"
                             ]
                         },
                         {
@@ -6316,21 +6162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\MMM[no]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]へ、へへ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんなヤバい軍団かと思ってたが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなお嬢ちゃんが相手とはなぁ……!!"
+                                "\\FX[F]\\AA[FFF]\\MMM[no]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>Heh, heh... I thought we were up against some formidable\narmy... but it's just a young lady...!!"
                             ]
                         },
                         {
@@ -6347,21 +6179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]ツキが回ってきたぜ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おまえらっ、こいつを倒せば一気に昇進だっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一生、遊んで、女を犯して暮らせるぜぇ!!"
+                                "\\FX[F]\\AA[FFF]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>Luck is on our side!! Guys, if we defeat her, we'll be\npromoted in no time!! We can live our lives playing and\nraping women!!"
                             ]
                         },
                         {
@@ -6378,7 +6196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]やっちまいなっ!!"
+                                "\\FX[F]\\AA[FFF]\\MMM[jump]\\F[1012Furea_0017]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<The Cores Leader>Do it!!"
                             ]
                         },
                         {
@@ -6395,14 +6213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ピュアフレイム>\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]そう簡単にはいきませんわ……!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ピュアフレイム、参りますっ!!"
+                                "\\FX[F]\\AA[F]\\F[1012Furea_0012]\\FFF[4001zakozu]\\FFFFF[4002zakozu]\\N<Pure Flame>It won't be that easy...!! Pure Flame, here I come!!"
                             ]
                         },
                         {
@@ -6576,14 +6387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\FX[F]\\AA[FF]\\F[1012Furea_00]\\FFFF[4001zakozu]\\FFFFF[4002zakozu]クックック、また来たか!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度来たって無駄だって教えてやるぜぇ!!"
+                                "\\FX[F]\\AA[FF]\\F[1012Furea_00]\\FFFF[4001zakozu]\\FFFFF[4002zakozu]Hehehe, you've come again!! I'll teach you that no matter\nhow many times you come, it's useless!!"
                             ]
                         },
                         {
@@ -6725,21 +6529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ザコーズリーダー>\\FX[FF]\\AA[FFFF]\\FF[1012Furea_0000]\\FFFF[4001zakozu]こ、こんな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなコスプレ女に負ける……とは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐはっ!!"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1012Furea_0000]\\FFFF[4001zakozu]\\N<The Cores Leader>To lose to... to such a cosplay girl... how... gah!!"
                             ]
                         },
                         {
@@ -6772,21 +6562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1012Furea_0000]……ふぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ザコーズ達もある程度か蹴散らしましたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはもう大丈夫そうですわね。"
+                                "\\FX[FF]\\AA[FF]\\FF[1012Furea_0000]\\N<Flare>...Phew. We've scattered The Cores to some extent, so it\nseems we're okay here now."
                             ]
                         },
                         {
@@ -6803,7 +6579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1012Furea_0004]では帰還いたしましょう。"
+                                "\\FX[FF]\\AA[FF]\\FF[1012Furea_0004]\\N<Flare>Let's return then."
                             ]
                         },
                         {
@@ -6843,7 +6619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…"
+                                "..."
                             ]
                         },
                         {
@@ -6860,7 +6636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -6877,7 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………"
+                                "..."
                             ]
                         },
                         {
@@ -10716,7 +10492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "体力が全回復した！"
+                                "Full HP restored!"
                             ]
                         },
                         {
@@ -10814,7 +10590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ショートカットが開通しました。"
+                                "A shortcut has been opened."
                             ]
                         },
                         {
@@ -10882,7 +10658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入口まで戻りますか？"
+                                "Do you want to return to the entrance?"
                             ]
                         },
                         {
@@ -10890,8 +10666,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

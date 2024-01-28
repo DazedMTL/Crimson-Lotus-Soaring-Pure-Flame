@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "司令室部屋(午前)",
+    "displayName": "Command Room (Morning)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2544,7 +2544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFF]\\F[1010Furea_0000]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]来たな、フレアよ。"
+                                "\\FX[F]\\AA[FFFF]\\F[1010Furea_0000]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]\\N<Eliza>You've arrived, Flare."
                             ]
                         },
                         {
@@ -2561,14 +2561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]おはようございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "総司令官、エリザさん。"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]\\N<Flare>Good morning, Supreme Commander Eliza."
                             ]
                         },
                         {
@@ -2585,7 +2578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<総司令>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]おはよう、フレアくん。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]\\N<Supreme Commander>Good morning, Flare-kun."
                             ]
                         },
                         {
@@ -2602,14 +2595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<総司令>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]さて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ではいよいよ君には作戦行動に加わってもらう。"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]\\N<Supreme Commander>Now, it's finally time for you to join the operation."
                             ]
                         },
                         {
@@ -2626,14 +2612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0003]\\FFFFF[1090Ogi_0000]……と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ってもお主の単騎行動じゃがな。"
+                                "\\FX[F]\\AA[FFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0003]\\FFFFF[1090Ogi_0000]\\N<Eliza>...That said, it will be a solo mission for you."
                             ]
                         },
                         {
@@ -2650,14 +2629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]お主には現在怪人の目撃情報がある場所に向かってもらうのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現在目撃情報があるのは3地点じゃな。"
+                                "\\FX[F]\\AA[FFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]\\N<Eliza>You are to head to the locations where there have been\nsightings of mysterious beings. Currently, there are\nsightings at three locations."
                             ]
                         },
                         {
@@ -2674,14 +2646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0005]\\FFFFF[1090Ogi_0000]被害状況や、怪人の目撃情報など、総合的に見て、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どのくらいの難易度かも軽く記載してあるのじゃ。"
+                                "\\FX[F]\\AA[FFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0005]\\FFFFF[1090Ogi_0000]\\N<Eliza>The damage situation and sightings of the mysterious beings\nare briefly noted, including an estimate of the difficulty\nlevel."
                             ]
                         },
                         {
@@ -2698,14 +2663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0007]\\FFFFF[1090Ogi_0000]当たり前じゃが、難易度の低い方から行くのじゃぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "難易度が高ければ高いほどお主の身に危険が降りかかるからのぅ。"
+                                "\\FX[F]\\AA[FFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0007]\\FFFFF[1090Ogi_0000]\\N<Eliza>Of course, you should start with the lowest difficulty. The\nhigher the difficulty, the greater the danger to you."
                             ]
                         },
                         {
@@ -2722,28 +2680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<エリザ>\\FX[F]\\AA[FFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]それと、時間はいくらでもあるのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度の攻略ではなく一度戻って体勢を立て直す、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "装備を整える、アイテムを補充するなど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "十分に気をつけて行くのじゃ。"
+                                "\\FX[F]\\AA[FFFF]\\F[1010Furea_0004]\\FFFF[1020Eriza_0000]\\FFFFF[1090Ogi_0000]\\N<Eliza>Also, there's plenty of time. It's not about conquering in\none go but returning once to regroup, prepare your\nequipment, replenish items, etc. Be very careful."
                             ]
                         },
                         {
@@ -2760,14 +2697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFF[1020Eriza_0007]\\FFFFF[1090Ogi_0000]はいっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "がんばりますわっ♪"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0004]\\FFFF[1020Eriza_0007]\\FFFFF[1090Ogi_0000]\\N<Flare>Yes!! I'll do my best♪"
                             ]
                         },
                         {
@@ -2784,14 +2714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※このゲームでは敗北してもゲームオーバーになりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、敗北すると大変なことになってしまうかも……!?"
+                                "※In this game, defeat does not lead to game over. However,\ndefeat might lead to something terrible...!?"
                             ]
                         },
                         {
@@ -2903,14 +2826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFF]\\FFFF[1020Eriza_0009]良く来たなっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、行き先を選ぶのじゃっ!!"
+                                "\\AA[FFFF]\\FFFF[1020Eriza_0009]\\N<Eliza>Well done for coming!! Now, choose your destination!!"
                             ]
                         },
                         {
@@ -2918,9 +2834,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "廃坑",
-                                    "森林",
-                                    "水路"
+                                    "Abandoned Mine",
+                                    "Forest",
+                                    "Aqueduct"
                                 ],
                                 -1,
                                 0,
@@ -2975,28 +2891,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0000]【廃坑】危険度：1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "最近廃坑でBB団戦闘員「ザコーズ」の目撃が相次いでおる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なにかを企んでおるのかもしれぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "様子を見てきてほしいのじゃっ!!"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0000]\\N<Eliza>【Abandoned Mine】Danger Level: 1 Recently, sightings of BB\nGang combatants \"The Cores\" have been frequent in the\nabandoned mine. They might be plotting something. I'd like\nyou to check it out!!"
                             ]
                         },
                         {
@@ -3004,8 +2899,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Think it over"
                                 ],
                                 1,
                                 0,
@@ -3080,21 +2975,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0008]【廃坑】危険度：1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ザコーズたちが集まって追った場所じゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もうここは解決済みなのじゃ♪"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0008]\\N<Eliza>【Abandoned Mine】Danger Level: 1 This is where The Cores\ngathered and were pursued. But this place has already been\nresolved♪"
                             ]
                         },
                         {
@@ -3102,8 +2983,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,
@@ -3216,28 +3097,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0000]【森林】危険度：2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "BB団の操る魔物「ゴブリン」が出現しておると報告があった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "近隣住人の行方不明の報告もあり、なにか企んでおりそうじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴブリンどもを蹴散らしてきてほしいのじゃっ!!"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0000]\\N<Eliza>【Forest】Danger Level: 2 There have been reports of \"Goblins\"\ncontrolled by the BB Gang appearing. There are also reports\nof missing local residents, they might be plotting\nsomething. I want you to scatter those goblin brutes!!"
                             ]
                         },
                         {
@@ -3245,8 +3105,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Think it over"
                                 ],
                                 1,
                                 0,
@@ -3321,21 +3181,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0008]【森林】危険度：2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴブリンどもが悪事を企んでおったのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "でも、もう解決済みなのじゃっ♪"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0008]\\N<Eliza>【Forest】Danger Level: 2 Those goblin brutes were plotting\nevil deeds. But, this has already been resolved♪"
                             ]
                         },
                         {
@@ -3343,8 +3189,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,
@@ -3457,28 +3303,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0000]【水路】危険度：3"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "水路にBB団の放った魔物が入り込んでおるようじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ナニかを企んでおるに違いない!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "問題を起こされる前に敵をぶっ潰してきてほしいのじゃっ!!"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0000]\\N<Eliza>【Waterway】Danger Level: 3 It seems that monsters released by\nthe BB Gang have infiltrated the waterway. They must be\nplotting something!! I want you to crush the enemy before\nthey cause any trouble!!"
                             ]
                         },
                         {
@@ -3486,8 +3311,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Think it over"
                                 ],
                                 1,
                                 0,
@@ -3562,21 +3387,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0008]【水路】危険度：3"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "生活用水に毒を混ぜようとはとんでもないことを企んでおったのじゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "……が、もうここも解決済みじゃな♪"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0008]\\N<Eliza>【Waterway】Danger Level: 3 Planning to mix poison into the\ndrinking water, what an outrageous plot... but, this place\nhas also been resolved♪"
                             ]
                         },
                         {
@@ -3584,8 +3395,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,

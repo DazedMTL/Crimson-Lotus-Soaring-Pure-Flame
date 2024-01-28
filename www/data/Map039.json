@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ギドウ部屋",
+    "displayName": "Guido's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2536,14 +2536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0020]わたくし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ラヴィを……補給していただかないと……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0020]\\N<Flare>I... need to be replenished with love..."
                             ]
                         },
                         {
@@ -2570,14 +2563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0016]いつまで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなことを続けないといけないの……!?"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0016]\\N<Flare>How long... must this continue...!?"
                             ]
                         },
                         {
@@ -2604,7 +2590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0016]……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0016]\\N<Flare>..."
                             ]
                         },
                         {
@@ -2612,9 +2598,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ラヴィの補給",
-                                    "ギドウと話す",
-                                    "自分の部屋に戻る"
+                                    "Ravi's Supply",
+                                    "Talk to Guido",
+                                    "Return to my room"
                                 ],
                                 2,
                                 0,
@@ -2635,9 +2621,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ギドウとHをする",
-                                    "if(s[253]&&v[62]>0)一般人とHをする",
-                                    "if(s[256]&&v[62]>1)浮浪者とHをする"
+                                    "Have sex with Guido",
+                                    "if(s[253]&&v[62]>0)Have sex with a civilian",
+                                    "if(s[256]&&v[62]>1)Have sex with the vagrant"
                                 ],
                                 -2,
                                 0,
@@ -2658,9 +2644,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ギドウとピュアフレイム Lv1",
-                                    "if(s[252])ギドウとピュアフレイム Lv2",
-                                    "if(s[253]&&s[74])ギドウとピュアフレイム LvMax"
+                                    "Guido and Pure Flame Lv1",
+                                    "if(s[252])Guido and Pure Flame Lv2",
+                                    "if(s[253]&&s[74])Guido and Pure Flame LvMax"
                                 ],
                                 -2,
                                 0,
@@ -2744,14 +2730,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "BadEndになりゲームオーバーとなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "よろしいですか？"
+                                "Will you proceed to a Bad End and Game Over? Is that okay?"
                             ]
                         },
                         {
@@ -2759,8 +2738,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -2,
                                 1,
@@ -2865,9 +2844,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "一般人とピュアフレイム Lv1",
-                                    "if(s[255])一般人とピュアフレイム Lv2",
-                                    "if(s[256]&&s[74])一般人とピュアフレイム LvMax"
+                                    "Commoner and Pure Flame Lv1",
+                                    "if(s[255])Commoner and Pure Flame Lv2",
+                                    "if(s[256]&&s[74])Civilian and Pure Flame LvMax"
                                 ],
                                 -2,
                                 0,
@@ -2951,14 +2930,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "BadEndになりゲームオーバーとなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "よろしいですか？"
+                                "Will you proceed to a Bad End and Game Over? Is that okay?"
                             ]
                         },
                         {
@@ -2966,8 +2938,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -2,
                                 1,
@@ -3072,9 +3044,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "浮浪者とピュアフレイム Lv1",
-                                    "if(s[258])浮浪者とピュアフレイム Lv2",
-                                    "if(s[259]&&s[74])浮浪者とピュアフレイム LvMax"
+                                    "Vagrant and Pure Flame Lv1",
+                                    "if(s[258])Vagrant and Pure Flame Lv2",
+                                    "if(s[259]&&s[74])Vagrant and Pure Flame LvMax"
                                 ],
                                 -2,
                                 0,
@@ -3158,14 +3130,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "BadEndになりゲームオーバーとなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "よろしいですか？"
+                                "Will you proceed to a Bad End and Game Over? Is that okay?"
                             ]
                         },
                         {
@@ -3173,8 +3138,8 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -2,
                                 1,
@@ -3324,15 +3289,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0000]ギドウさん、その、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "以前飲ませてもらった薬ですが……"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0000]\\N<Flare>Guido-san, about that medicine you gave me before..."
                             ]
                         },
                         {
@@ -3351,15 +3308,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0000]ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "どうしたよ、フレアちゃん？(笑)"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0000]\\N<Guido>Hm? What's up, Flare-chan? (laughs)"
                             ]
                         },
                         {
@@ -3378,15 +3327,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0000]その……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "あの薬なのですが、その……"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0000]\\N<Flare>That... about that medicine..."
                             ]
                         },
                         {
@@ -3405,23 +3346,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0000]の、飲むと、乱れ過ぎてしまって……っ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "快楽を求めて、何も分からなくなってしまうので……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "副作用のことを飲むのを控えたいのですがっ!!"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0000]\\N<Flare>When I drink it, I become too disordered...!! I seek\npleasure and lose all sense... I want to refrain from\ndrinking it because of the side effects!!"
                             ]
                         },
                         {
@@ -3440,15 +3365,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0001]へぇ～……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "じゃぁ飲まなくてもいいぜ？"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0001]\\N<Guido>Heh... then you don't have to drink it."
                             ]
                         },
                         {
@@ -3467,15 +3384,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0003]\\FFFF[1080Gidou_0001]えっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ほ、本当ですか!?"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0003]\\FFFF[1080Gidou_0001]\\N<Flare>Eh!! R-really!?"
                             ]
                         },
                         {
@@ -3494,15 +3403,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0003]\\FFFF[1080Gidou_0002]あぁ、ホントだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ただ、ラヴィの効率が下がるけどな。"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0003]\\FFFF[1080Gidou_0002]\\N<Guido>Yeah, really. But, the efficiency of love will decrease."
                             ]
                         },
                         {
@@ -3521,7 +3422,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0018]\\FFFF[1080Gidou_0002]っ!!"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0018]\\FFFF[1080Gidou_0002]\\N<Flare>!!"
                             ]
                         },
                         {
@@ -3540,23 +3441,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0018]\\FFFF[1080Gidou_0003]減った分は数こなしてラヴィを稼がねぇとなぁ？(笑)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "それに、副作用で、素のラヴィ吸収量が下がってるはずだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "同じだけのラヴィを補給するなら何倍、何十倍とこなさねぇとかもなぁ……？(笑)"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0018]\\FFFF[1080Gidou_0003]\\N<Guido>The decreased part means we have to make up for it by doing\nmore to earn love, huh? (laughs) Plus, the side effects\nprobably reduce the natural absorption of love, so to\nreplenish the same amount of love, you might have to do many\ntimes more... (laughs)"
                             ]
                         },
                         {
@@ -3575,15 +3460,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0011]\\FFFF[1080Gidou_0003]っ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "そ、そんな副作用、聞いていませんわっ!!"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0011]\\FFFF[1080Gidou_0003]\\N<Flare>!! I... I wasn't informed of such side effects!!"
                             ]
                         },
                         {
@@ -3602,7 +3479,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0011]\\FFFF[1080Gidou_0001]あぁ、説明してねぇからな(笑)"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0011]\\FFFF[1080Gidou_0001]\\N<Guido>Ah, didn't explain that to you, huh? (laughs)"
                             ]
                         },
                         {
@@ -3621,23 +3498,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0011]\\FFFF[1080Gidou_0002]数こなしてれば彼氏を助けに行くのも遅れるなぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "遅れれば遅れるほど生存率は下がっていくだろうなぁ？(笑)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "それでもいいなら薬、やめてもいいけど……どうする？(笑)"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0011]\\FFFF[1080Gidou_0002]\\N<Guido>If you keep doing more, going to save your boyfriend will be\ndelayed, huh? The more it's delayed, the lower his survival\nrate will go, right? (laughs) If that's okay with you, you\ncan stop the medicine... What will you do? (laughs)"
                             ]
                         },
                         {
@@ -3656,7 +3517,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0002]……っ!!"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0002]\\N<Flare>...!!"
                             ]
                         },
                         {
@@ -3675,15 +3536,7 @@
                             "indent": 2,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0002]……わ、わかりましたわ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "今まで通り……薬を……使わせてくださいませ……"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0002]\\N<Flare>...I understand... As before... please let me use... the\nmedicine..."
                             ]
                         },
                         {
@@ -3723,7 +3576,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0002]はぁ～……♡はぁ～……♡はぁ～……♡"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0002]\\N<Flare>Haah~...♡ Haah~...♡ Haah~...♡"
                             ]
                         },
                         {
@@ -3742,15 +3595,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0002]おいおい、フレアちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "どうしたよ(笑)"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0002]\\N<Guido>Hey hey, Flare-chan? What's wrong? (laughs)"
                             ]
                         },
                         {
@@ -3769,15 +3614,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0002]い、いえ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "な、なんでも……ありませんわ……♡"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0002]\\N<Flare>N-no... it's... nothing...♡"
                             ]
                         },
                         {
@@ -3796,15 +3633,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0002]くっくっく……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "とても何でもないようには見えねぇけどなぁ(笑)"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0016]\\FFFF[1080Gidou_0002]\\N<Guido>Kukuku... doesn't seem like it's nothing at all (laughs)"
                             ]
                         },
                         {
@@ -3823,15 +3652,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0002]そういえば、この薬って、どこで手に入れたのですか……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "開発室ではここまで高性能なものは作れないと思うのですが……"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0002]\\N<Flare>By the way, where did you get this medicine...? I don't\nthink the development room can make something this potent..."
                             ]
                         },
                         {
@@ -3850,15 +3671,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0003]あぁ、いいのいいの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "そーゆーのは気にしないで（笑）"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0003]\\N<Guido>Ah, it's fine, it's fine. Don't worry about that (laughs)"
                             ]
                         },
                         {
@@ -3877,7 +3690,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0000]そんなことより、キモチ良いことしようぜぇ♡"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0015]\\FFFF[1080Gidou_0000]\\N<Guido>Instead of that, let's do something that feels good♡"
                             ]
                         },
                         {
@@ -3896,7 +3709,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0000]は、はい……♡"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0000]\\N<Flare>Y-yes...♡"
                             ]
                         },
                         {
@@ -3915,15 +3728,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0020]\\FFFF[1080Gidou_0000](なんだか、だんだん、わたくし、作り替えていられるようで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "これ以上はいけないってわかってるのに……わかってるのに……)"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0020]\\FFFF[1080Gidou_0000]\\N<Flare>(Somehow, gradually, I feel like I'm being remade... I know\nI shouldn't go any further... I know, but...)"
                             ]
                         },
                         {
@@ -3952,15 +3757,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0000]はぁはぁはぁ……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ギ、ギドウさま……は、はやく……はやくぅ♡"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0000]\\N<Flare>Haah haah haah...♡ G-Guido-sama... q-quickly... quickly♡"
                             ]
                         },
                         {
@@ -3979,15 +3776,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0003]くっくっく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "いい顔になったなぁ、フレアちゃんよぉ？(笑)"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0003]\\N<Guido>Kukuku. You've got a nice look on your face, Flare-chan,\nhuh? (laughs)"
                             ]
                         },
                         {
@@ -4006,15 +3795,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0003]わたくしに、ラヴィを……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "今日も、フレアに、ご寵愛を、お恵みください……♡"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0003]\\N<Flare>Please give me... love...♡ Today too, please bestow your\nfavor upon Flare...♡"
                             ]
                         },
                         {
@@ -4033,15 +3814,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0002]くっくっく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ほんと、オレ好みに染まってきたなぁ。"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0002]\\N<Guido>Kukuku. Really, you've become just to my liking."
                             ]
                         },
                         {
@@ -4060,15 +3833,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0000]さすが、BB団製の対ピュアフレイム用媚薬だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ずっと飲ませてきた甲斐があるってもんだぜ。"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0000]\\N<Guido>As expected of the BB Gang's Pure Flame-specific\naphrodisiac. It was worth making you drink it all this time."
                             ]
                         },
                         {
@@ -4087,23 +3852,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0000]……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ギ、ギドウ様……♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "はやく……わたくしに。おちんちんをくださいませ……♡"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0000]\\N<Flare>...? G-Guido-sama...♡ quickly... please give me your\ncock...♡"
                             ]
                         },
                         {
@@ -4122,15 +3871,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0001]くっくっく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "もう、聞いちゃいねぇか(笑)"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0001]\\N<Guido>Kukuku. Not listening anymore, huh? (laughs)"
                             ]
                         },
                         {
@@ -4149,7 +3890,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ギドウ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0002]良いぜ、相手をしてやるよ。"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0021]\\FFFF[1080Gidou_0002]\\N<Guido>Alright, I'll take care of you."
                             ]
                         },
                         {

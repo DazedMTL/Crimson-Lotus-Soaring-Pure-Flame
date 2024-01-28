@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": true,
-        "name": "フレア部屋",
+        "name": "Flare's Room",
         "order": 10,
         "parentId": 20,
         "scrollX": 1092,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "expanded": true,
-        "name": "司令室部屋",
+        "name": "Command Room",
         "order": 11,
         "parentId": 20,
         "scrollX": 1225.5,
@@ -39,7 +39,7 @@
     {
         "id": 5,
         "expanded": true,
-        "name": "ダンジョン(27,15)",
+        "name": "Dungeon (27,15)",
         "order": 14,
         "parentId": 0,
         "scrollX": 1638,
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "expanded": true,
-        "name": "廃坑　入口",
+        "name": "Abandoned Mine Entrance",
         "order": 15,
         "parentId": 5,
         "scrollX": 1092,
@@ -57,7 +57,7 @@
     {
         "id": 7,
         "expanded": true,
-        "name": "廃坑　1F",
+        "name": "Abandoned Mine 1F",
         "order": 16,
         "parentId": 6,
         "scrollX": 1225.5,
@@ -66,7 +66,7 @@
     {
         "id": 8,
         "expanded": false,
-        "name": "廃坑　B2F",
+        "name": "Abandoned Mine B2F",
         "order": 18,
         "parentId": 6,
         "scrollX": 1081.3333333333333,
@@ -75,7 +75,7 @@
     {
         "id": 9,
         "expanded": true,
-        "name": "廃坑　B1",
+        "name": "Abandoned Mine B1",
         "order": 17,
         "parentId": 6,
         "scrollX": 1234.5,
@@ -84,7 +84,7 @@
     {
         "id": 10,
         "expanded": true,
-        "name": "回想部屋",
+        "name": "Recollection Room",
         "order": 2,
         "parentId": 4,
         "scrollX": 1092,
@@ -93,7 +93,7 @@
     {
         "id": 11,
         "expanded": true,
-        "name": "商店街",
+        "name": "Shopping District",
         "order": 12,
         "parentId": 20,
         "scrollX": 1634,
@@ -102,7 +102,7 @@
     {
         "id": 12,
         "expanded": true,
-        "name": "ケンジ部屋",
+        "name": "Kenji's Room",
         "order": 13,
         "parentId": 20,
         "scrollX": 1092,
@@ -111,7 +111,7 @@
     {
         "id": 13,
         "expanded": true,
-        "name": "前半",
+        "name": "First Half",
         "order": 4,
         "parentId": 0,
         "scrollX": 1092,
@@ -120,7 +120,7 @@
     {
         "id": 14,
         "expanded": true,
-        "name": "午前",
+        "name": "Morning",
         "order": 6,
         "parentId": 13,
         "scrollX": 1092,
@@ -129,7 +129,7 @@
     {
         "id": 15,
         "expanded": true,
-        "name": "司令室部屋(午前)",
+        "name": "Command Room (Morning)",
         "order": 8,
         "parentId": 14,
         "scrollX": 1092,
@@ -138,7 +138,7 @@
     {
         "id": 16,
         "expanded": true,
-        "name": "森　入口",
+        "name": "Forest Entrance",
         "order": 19,
         "parentId": 5,
         "scrollX": 1225.5,
@@ -147,7 +147,7 @@
     {
         "id": 17,
         "expanded": false,
-        "name": "登山道　山頂",
+        "name": "Mountain Trail Summit",
         "order": 33,
         "parentId": 68,
         "scrollX": 1092,
@@ -156,7 +156,7 @@
     {
         "id": 18,
         "expanded": true,
-        "name": "市街地",
+        "name": "Urban Area",
         "order": 34,
         "parentId": 5,
         "scrollX": 1213.5,
@@ -165,7 +165,7 @@
     {
         "id": 19,
         "expanded": true,
-        "name": "BB団本拠地-中枢-",
+        "name": "BB Gang Headquarters - Core -",
         "order": 44,
         "parentId": 29,
         "scrollX": 1213.5,
@@ -174,7 +174,7 @@
     {
         "id": 20,
         "expanded": true,
-        "name": "午後",
+        "name": "Afternoon",
         "order": 9,
         "parentId": 13,
         "scrollX": 1092,
@@ -183,7 +183,7 @@
     {
         "id": 21,
         "expanded": false,
-        "name": "BB団本拠地-最深部-",
+        "name": "BB Gang Headquarters - Deepest Part -",
         "order": 45,
         "parentId": 29,
         "scrollX": 1081.3333333333333,
@@ -192,7 +192,7 @@
     {
         "id": 22,
         "expanded": true,
-        "name": "森　エリア2",
+        "name": "Forest Area 2",
         "order": 21,
         "parentId": 16,
         "scrollX": 1213.5,
@@ -201,7 +201,7 @@
     {
         "id": 23,
         "expanded": false,
-        "name": "森　エリア1",
+        "name": "Forest Area 1",
         "order": 20,
         "parentId": 16,
         "scrollX": 1426.5,
@@ -210,7 +210,7 @@
     {
         "id": 24,
         "expanded": false,
-        "name": "森　最深部",
+        "name": "Forest Deepest Part",
         "order": 22,
         "parentId": 16,
         "scrollX": 1081.3333333333333,
@@ -219,7 +219,7 @@
     {
         "id": 25,
         "expanded": true,
-        "name": "公園",
+        "name": "Park",
         "order": 35,
         "parentId": 18,
         "scrollX": 1378.5,
@@ -228,7 +228,7 @@
     {
         "id": 26,
         "expanded": true,
-        "name": "住宅街",
+        "name": "Residential Area",
         "order": 36,
         "parentId": 18,
         "scrollX": 1378.6666666666667,
@@ -237,7 +237,7 @@
     {
         "id": 27,
         "expanded": true,
-        "name": "商店街",
+        "name": "Shopping District",
         "order": 37,
         "parentId": 18,
         "scrollX": 1092,
@@ -246,7 +246,7 @@
     {
         "id": 28,
         "expanded": true,
-        "name": "司令室部屋(午前)（敗北ルート）",
+        "name": "Command Room (Morning) (Defeat Route)",
         "order": 58,
         "parentId": 59,
         "scrollX": 1225.5,
@@ -255,7 +255,7 @@
     {
         "id": 29,
         "expanded": true,
-        "name": "BB団本拠地1",
+        "name": "BB Gang Headquarters 1",
         "order": 38,
         "parentId": 5,
         "scrollX": 1078.6666666666667,
@@ -264,7 +264,7 @@
     {
         "id": 30,
         "expanded": false,
-        "name": "BB団本拠地2",
+        "name": "BB Gang Headquarters 2",
         "order": 39,
         "parentId": 29,
         "scrollX": 720.8888888888889,
@@ -273,7 +273,7 @@
     {
         "id": 31,
         "expanded": false,
-        "name": "BB団本拠地5",
+        "name": "BB Gang Headquarters 5",
         "order": 42,
         "parentId": 29,
         "scrollX": 1213.5,
@@ -282,7 +282,7 @@
     {
         "id": 32,
         "expanded": true,
-        "name": "水の洞窟　エリア1",
+        "name": "Water Cave Area 1",
         "order": 26,
         "parentId": 5,
         "scrollX": 1213.5,
@@ -291,7 +291,7 @@
     {
         "id": 33,
         "expanded": false,
-        "name": "水の洞窟　エリア2",
+        "name": "Water Cave Area 2",
         "order": 27,
         "parentId": 32,
         "scrollX": 1213.5,
@@ -300,7 +300,7 @@
     {
         "id": 34,
         "expanded": false,
-        "name": "水の洞窟　エリア3",
+        "name": "Water Cave Area 3",
         "order": 28,
         "parentId": 32,
         "scrollX": 1213.5,
@@ -309,7 +309,7 @@
     {
         "id": 35,
         "expanded": false,
-        "name": "水の洞窟　エリア4",
+        "name": "Water Cave Area 4",
         "order": 29,
         "parentId": 32,
         "scrollX": 1126.6666666666667,
@@ -318,7 +318,7 @@
     {
         "id": 36,
         "expanded": true,
-        "name": "地下水路　B1",
+        "name": "Underground Waterway B1",
         "order": 23,
         "parentId": 5,
         "scrollX": 1089.3333333333333,
@@ -327,7 +327,7 @@
     {
         "id": 37,
         "expanded": false,
-        "name": "地下水路　B2",
+        "name": "Underground Waterway B2",
         "order": 24,
         "parentId": 36,
         "scrollX": 2161.5,
@@ -336,7 +336,7 @@
     {
         "id": 38,
         "expanded": false,
-        "name": "地下水路　最深部",
+        "name": "Underground Waterway Deepest Part",
         "order": 25,
         "parentId": 36,
         "scrollX": 1089.3333333333333,
@@ -345,7 +345,7 @@
     {
         "id": 39,
         "expanded": true,
-        "name": "ギドウ部屋（敗北ルート）",
+        "name": "Guido's Room (Defeat Route)",
         "order": 64,
         "parentId": 60,
         "scrollX": 1404,
@@ -354,7 +354,7 @@
     {
         "id": 40,
         "expanded": true,
-        "name": "開発室",
+        "name": "Development Room",
         "order": 3,
         "parentId": 4,
         "scrollX": 1092,
@@ -366,7 +366,7 @@
     {
         "id": 44,
         "expanded": true,
-        "name": "BB団本拠地-中間地点-",
+        "name": "BB Gang Headquarters - Midpoint",
         "order": 41,
         "parentId": 29,
         "scrollX": 1078.6666666666667,
@@ -378,7 +378,7 @@
     {
         "id": 48,
         "expanded": true,
-        "name": "午前フレア部屋(敗北後)",
+        "name": "Morning in Flare's Room (After Defeat)",
         "order": 7,
         "parentId": 14,
         "scrollX": 1092,
@@ -387,7 +387,7 @@
     {
         "id": 49,
         "expanded": true,
-        "name": "後半(勝利)",
+        "name": "Second Half (Victory)",
         "order": 46,
         "parentId": 0,
         "scrollX": 1092,
@@ -396,7 +396,7 @@
     {
         "id": 50,
         "expanded": true,
-        "name": "午前",
+        "name": "Morning",
         "order": 47,
         "parentId": 49,
         "scrollX": 1638,
@@ -405,7 +405,7 @@
     {
         "id": 51,
         "expanded": true,
-        "name": "午前フレア部屋勝利",
+        "name": "Morning in Flare's Room Victory",
         "order": 48,
         "parentId": 50,
         "scrollX": 1092,
@@ -414,7 +414,7 @@
     {
         "id": 52,
         "expanded": true,
-        "name": "司令室部屋(午前)勝利",
+        "name": "Command Room (Morning) Victory",
         "order": 49,
         "parentId": 50,
         "scrollX": 1092,
@@ -423,7 +423,7 @@
     {
         "id": 53,
         "expanded": true,
-        "name": "午後",
+        "name": "Afternoon",
         "order": 50,
         "parentId": 49,
         "scrollX": 1092,
@@ -432,7 +432,7 @@
     {
         "id": 54,
         "expanded": true,
-        "name": "フレア部屋（勝利ルート）",
+        "name": "Flare's Room (Victory Route)",
         "order": 51,
         "parentId": 53,
         "scrollX": 1092,
@@ -441,7 +441,7 @@
     {
         "id": 55,
         "expanded": true,
-        "name": "司令室部屋（勝利ルート）",
+        "name": "Command Room (Victory Route)",
         "order": 52,
         "parentId": 53,
         "scrollX": 1089.3333333333333,
@@ -450,7 +450,7 @@
     {
         "id": 56,
         "expanded": true,
-        "name": "商店街（勝利ルート）",
+        "name": "Shopping District (Victory Route)",
         "order": 53,
         "parentId": 53,
         "scrollX": 1089.3333333333333,
@@ -459,7 +459,7 @@
     {
         "id": 57,
         "expanded": true,
-        "name": "ケンジ部屋（勝利ルート）",
+        "name": "Kenji's Room (Victory Route)",
         "order": 54,
         "parentId": 53,
         "scrollX": 1092,
@@ -468,7 +468,7 @@
     {
         "id": 58,
         "expanded": true,
-        "name": "後半(敗北)",
+        "name": "Second Half (Defeat)",
         "order": 55,
         "parentId": 0,
         "scrollX": 1092,
@@ -477,7 +477,7 @@
     {
         "id": 59,
         "expanded": true,
-        "name": "午前",
+        "name": "Morning",
         "order": 56,
         "parentId": 58,
         "scrollX": 1225.5,
@@ -486,7 +486,7 @@
     {
         "id": 60,
         "expanded": true,
-        "name": "午後",
+        "name": "Afternoon",
         "order": 59,
         "parentId": 58,
         "scrollX": 1092,
@@ -495,7 +495,7 @@
     {
         "id": 61,
         "expanded": true,
-        "name": "午前フレア部屋（敗北ルート）",
+        "name": "Morning in Flare's Room (Defeat Route)",
         "order": 57,
         "parentId": 59,
         "scrollX": 1225.5,
@@ -504,7 +504,7 @@
     {
         "id": 62,
         "expanded": true,
-        "name": "BB団本拠地3",
+        "name": "BB Gang Headquarters 3",
         "order": 40,
         "parentId": 29,
         "scrollX": 1089.3333333333333,
@@ -513,7 +513,7 @@
     {
         "id": 63,
         "expanded": true,
-        "name": "フレア部屋（敗北ルート）",
+        "name": "Flare's Room (Defeat Route)",
         "order": 60,
         "parentId": 60,
         "scrollX": 1092,
@@ -522,7 +522,7 @@
     {
         "id": 64,
         "expanded": true,
-        "name": "司令室部屋（敗北ルート）",
+        "name": "Command Room (Defeat Route)",
         "order": 61,
         "parentId": 60,
         "scrollX": 1092,
@@ -531,7 +531,7 @@
     {
         "id": 65,
         "expanded": true,
-        "name": "商店街（敗北ルート）",
+        "name": "Shopping District (Defeat Route)",
         "order": 62,
         "parentId": 60,
         "scrollX": 1089.3333333333333,
@@ -540,7 +540,7 @@
     {
         "id": 66,
         "expanded": true,
-        "name": "ケンジ部屋（敗北ルート）",
+        "name": "Kenji's Room (Defeat Route)",
         "order": 63,
         "parentId": 60,
         "scrollX": 1089.3333333333333,
@@ -549,7 +549,7 @@
     {
         "id": 67,
         "expanded": false,
-        "name": "BB団本拠地6",
+        "name": "BB Gang Headquarters 6",
         "order": 43,
         "parentId": 29,
         "scrollX": 1213.5,
@@ -558,7 +558,7 @@
     {
         "id": 68,
         "expanded": true,
-        "name": "登山道1",
+        "name": "Mountain Trail 1",
         "order": 30,
         "parentId": 5,
         "scrollX": 1213.5,
@@ -567,7 +567,7 @@
     {
         "id": 69,
         "expanded": true,
-        "name": "登山道2",
+        "name": "Mountain Trail 2",
         "order": 31,
         "parentId": 68,
         "scrollX": 1570.5,
@@ -576,7 +576,7 @@
     {
         "id": 70,
         "expanded": true,
-        "name": "登山道3",
+        "name": "Mountain Trail 3",
         "order": 32,
         "parentId": 68,
         "scrollX": 1225.5,

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "商店街",
+    "displayName": "Shopping District",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2537,7 +2537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0000]どうしましょうか。"
+                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0000]What should we do?"
                             ]
                         },
                         {
@@ -2545,9 +2545,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "雑貨屋へ",
-                                    "ラヴィ開発室へ",
-                                    "部屋へ戻る"
+                                    "To the general store",
+                                    "To the Ravi Development Room",
+                                    "Return to the room"
                                 ],
                                 2,
                                 0,
@@ -2595,7 +2595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0000]\\FFFFF[9020OtokoA]こんにちは。"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0000]\\FFFFF[9020OtokoA]\\N<Flare>Hello."
                             ]
                         },
                         {
@@ -2612,14 +2612,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<村人男A>\\FX[FF]\\AA[FFFFF]\\FF[1010Furea_0000]\\FFFFF[9020OtokoA]いらっしゃい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なんか買ってってくれよ！"
+                                "\\FX[FF]\\AA[FFFFF]\\FF[1010Furea_0000]\\FFFFF[9020OtokoA]\\N<Villager Male A>Welcome. Buy something, will you!"
                             ]
                         },
                         {
@@ -2636,14 +2629,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0005]\\FFFFF[9020OtokoA]（傷薬などは戦闘でも体力回復に使えそうですわね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "戦闘中のアイテムはここで調達しましょう。）"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0005]\\FFFFF[9020OtokoA]\\N<Flare>(Potions and such could be used to recover health even\nduring battle... Let's procure items for combat here.)"
                             ]
                         },
                         {
@@ -2660,21 +2646,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0007]\\FFFFF[9020OtokoA]（……あっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "エリザさん、無料って言ってましたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "生活必需品以外は有料なんですね……）"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0007]\\FFFFF[9020OtokoA]\\N<Flare>(...Ah. Eliza-san mentioned free, but it seems everything\nexcept for necessities costs money...)"
                             ]
                         },
                         {
@@ -2803,14 +2775,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0000]\\FFFFF[9010Hakui]こんにちは……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あの、こちらに開発室があると聞いたんですが……"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0000]\\FFFFF[9010Hakui]\\N<Flare>Hello...? Um, I heard there's a development room around\nhere..."
                             ]
                         },
                         {
@@ -2827,21 +2792,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<研究員>\\FX[FF]\\AA[FFFFF]\\FF[1010Furea_0000]\\FFFFF[9010Hakui]あぁ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "じゃぁアナタがフレアちゃんね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここがラヴィ開発室よ。"
+                                "\\FX[FF]\\AA[FFFFF]\\FF[1010Furea_0000]\\FFFFF[9010Hakui]\\N<Researcher>Ah, so you're Flare-chan. This is the Ravi Development Room."
                             ]
                         },
                         {
@@ -2858,28 +2809,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<研究員>\\FX[FF]\\AA[FFFFF]\\FF[1010Furea_0000]\\FFFFF[9010Hakui]ラヴィを消費して色々な物を作り出せるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まだまだ開発途中のものも多いから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ちょくちょく品物が増えていくと思うわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気が向いたら来てね。"
+                                "\\FX[FF]\\AA[FFFFF]\\FF[1010Furea_0000]\\FFFFF[9010Hakui]\\N<Researcher>You can create various things by consuming Ravi. There are\nstill many things under development, so I think the goods\nwill increase from time to time. Come by if you feel like\nit."
                             ]
                         },
                         {
@@ -2896,7 +2826,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0004]\\FFFFF[9010Hakui]はいっ♪"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0004]\\FFFFF[9010Hakui]\\N<Flare>Yes♪"
                             ]
                         },
                         {

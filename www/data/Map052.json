@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "司令室部屋(午前)",
+    "displayName": "Command Room (Morning)",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2532,14 +2532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFF]\\FFFF[1020Eriza_0009]良く来たなっ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、行き先を選ぶのじゃっ!!"
+                                "\\AA[FFFF]\\FFFF[1020Eriza_0009]\\N<Eliza>Well done for coming!! Now, choose your destination!!"
                             ]
                         },
                         {
@@ -2547,7 +2540,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "if(s[49])ブラックブリザード団本拠地"
+                                    "if(s[49])Black Blizzard Gang Headquarters"
                                 ],
                                 -1,
                                 0,
@@ -2577,28 +2570,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0000]【BB団本拠地】危険度：???"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とうとう最終決戦なのじゃ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "準備をちゃんと整えて、万全の状態で挑み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "巨悪をぶっ飛ばしてこいなのじゃっ!!"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0000]\\N<Eliza>【BB Gang Headquarters】Danger Level: ??? It's finally the\nfinal battle!! Make sure you're fully prepared and in top\ncondition to take on and blow away the great evil!!"
                             ]
                         },
                         {
@@ -2606,8 +2578,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,
@@ -2673,12 +2645,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入江の洞窟",
-                                    "登山道",
-                                    "市街地",
-                                    "廃坑",
-                                    "森林",
-                                    "水路"
+                                    "Inlet Cave",
+                                    "Mountain Trail",
+                                    "Urban Area",
+                                    "Abandoned Mine",
+                                    "Forest",
+                                    "Waterway"
                                 ],
                                 -1,
                                 -1,
@@ -2733,28 +2705,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0000]【入江の洞窟】危険度：4"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここでピュアダークが待つとの通信が敵から入った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "敵幹部との戦いになるのじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気を引き締めてかかるのじゃっ!!"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0000]\\N<Eliza>【Inlet Cave】Danger Level: 4 We've received communication\nfrom the enemy that Pure Dark is waiting here. It's going to\nbe a battle with an enemy executive. Brace yourself and go\nfor it!!"
                             ]
                         },
                         {
@@ -2762,8 +2713,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Sortie",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,
@@ -2838,28 +2789,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0008]【入江の洞窟】危険度：4"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピュアダークを無事撃退したようじゃな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここにおった魔物共も大人しくなっていると報告が入ってきておる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そのうち魔物共も消滅するじゃろう♪"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0008]\\N<Eliza>【Inlet Cave】Danger Level: 4 It seems like Pure Dark has been\nsuccessfully repelled! The monsters here have also become\nquiet, according to reports. They might disappear\neventually♪"
                             ]
                         },
                         {
@@ -2867,8 +2797,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Rethink"
                                 ],
                                 1,
                                 0,
@@ -2981,28 +2911,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0000]【登山道】危険度：5"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ブラックキュートがこのエリアにて待つとの連絡があったのじゃ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おそらく道中魔物がおってお主を待ち構えておるのじゃろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しかし、逃げるわけにもゆかぬ。ぜひお仕置きをしてきてほしいのじゃっ!!"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0000]\\N<Eliza>【Mountain Path】Danger Level: 5 We've got word that Black\nCute is waiting in this area!! There are likely monsters\nalong the way lying in wait for you. However, there's no\nrunning away. Please go and give them a good thrashing!!"
                             ]
                         },
                         {
@@ -3010,8 +2919,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Think it over"
                                 ],
                                 1,
                                 0,
@@ -3086,28 +2995,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0008]【登山道】危険度：5"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ブラックキュートにもお灸をすえられたようじゃな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "凶暴化した動物たちも多少大人しくなったようじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この地区は一旦安心じゃろう♪"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0008]\\N<Eliza>【Mountain Path】Danger Level: 5 It seems like Black Cute has\nbeen taught a lesson♪ The ferocious animals have also become\nsomewhat calmer. This district should be safe for now♪"
                             ]
                         },
                         {
@@ -3115,8 +3003,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Sortie",
+                                    "Think it over"
                                 ],
                                 1,
                                 0,
@@ -3229,28 +3117,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0000]【とある市街地】危険度：6"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ダークソルジャーから果たし状じゃ!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここの街の人は洗脳したとのこと、元に戻してほしければ決闘をしろと言ってきておる!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なんとしても勝利し、街の人を解放してやるのじゃ!!"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0000]\\N<Eliza>【A Certain Urban Area】Danger Level: 6 A challenge from Dark\nSoldier!! He says he's brainwashed the people of this town,\nand if you want them returned to normal, you must duel him!!\nWin at all costs and free the people of the town!!"
                             ]
                         },
                         {
@@ -3258,8 +3125,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,
@@ -3334,28 +3201,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0008]【とある市街地】危険度：6"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ダークソルジャーも消え、洗脳装置も壊され平和になったようじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "……え？洗脳された人々がまだいる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "はっはっは、そんなはず無いのじゃ!!（笑）"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0008]\\N<Eliza>【A Certain Urban Area】Danger Level: 6 Dark Soldier has\nvanished, and the brainwashing device has been destroyed,\npeace seems to have been restored... Eh? There are still\npeople who are brainwashed? Hahahaha, that can't be\npossible!! (laughs)"
                             ]
                         },
                         {
@@ -3363,8 +3209,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Sortie",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,
@@ -3477,28 +3323,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0000]【廃坑】危険度：1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "最近廃坑でBB団戦闘員「ザコーズ」の目撃が相次いでおる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なにかを企んでおるのかもしれぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "様子を見てきてほしいのじゃっ!!"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0000]\\N<Eliza>【Abandoned Mine】Danger Level: 1 Recently, there have been\nnumerous sightings of BB Gang combatants \"The Cores\" in the\nabandoned mine. They might be plotting something. Please go\nand check it out!!"
                             ]
                         },
                         {
@@ -3506,8 +3331,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Think it over"
                                 ],
                                 1,
                                 0,
@@ -3582,21 +3407,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0008]【廃坑】危険度：1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ザコーズたちが集まって追った場所じゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もうここは解決済みなのじゃ♪"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0008]\\N<Eliza>【Abandoned Mine】Danger Level: 1 The place where The Cores\ngathered has been pursued. This place is already resolved♪"
                             ]
                         },
                         {
@@ -3604,8 +3415,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Sortie",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,
@@ -3718,28 +3529,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0000]【森林】危険度：2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "BB団の操る魔物「ゴブリン」が出現しておると報告があった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "近隣住人の行方不明の報告もあり、なにか企んでおりそうじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴブリンどもを蹴散らしてきてほしいのじゃっ!!"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0000]\\N<Eliza>【Forest】Danger Level: 2 There have been reports of \"Goblins\"\ncontrolled by the BB Gang appearing. There are also reports\nof missing local residents, they might be plotting\nsomething. Please go and scatter those goblins!!"
                             ]
                         },
                         {
@@ -3747,8 +3537,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "I'll think it over"
                                 ],
                                 1,
                                 0,
@@ -3823,21 +3613,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0008]【森林】危険度：2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴブリンどもが悪事を企んでおったのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "でも、もう解決済みなのじゃっ♪"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0008]\\N<Eliza>【Forest】Danger Level: 2 The goblins were plotting some evil\ndeeds. But, it's already resolved♪"
                             ]
                         },
                         {
@@ -3845,8 +3621,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,
@@ -3959,28 +3735,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0000]【水路】危険度：3"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "水路にBB団の放った魔物が入り込んでおるようじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ナニかを企んでおるに違いない!!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "問題を起こされる前に敵をぶっ潰してきてほしいのじゃっ!!"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0000]\\N<Eliza>【Waterway】Danger Level: 3 It seems like monsters released by\nthe BB Gang have infiltrated the waterway. They must be\nplotting something!! Before they cause any trouble, please\ngo and crush them!!"
                             ]
                         },
                         {
@@ -3988,8 +3743,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Deploy",
+                                    "Think it over"
                                 ],
                                 1,
                                 0,
@@ -4064,21 +3819,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<エリザ>\\AA[FFFFF]\\FFFFF[1020Eriza_0008]【水路】危険度：3"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "生活用水に毒を混ぜようとはとんでもないことを企んでおったのじゃ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "……が、もうここも解決済みじゃな♪"
+                                "\\AA[FFFFF]\\FFFFF[1020Eriza_0008]\\N<Eliza>【Waterway】Danger Level: 3 Planning to mix poison into the\ndrinking water, what a terrible plot... but, this place is\nalso resolved now♪"
                             ]
                         },
                         {
@@ -4086,8 +3827,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "出撃",
-                                    "考え直す"
+                                    "Sortie",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,

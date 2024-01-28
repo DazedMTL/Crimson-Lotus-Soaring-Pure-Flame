@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "開発室",
+    "displayName": "Development Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2509,7 +2509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想部屋へ戻りますか？"
+                                "Would you like to return to the Memory Room?"
                             ]
                         },
                         {
@@ -2517,8 +2517,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "もどる",
-                                    "もどらない"
+                                    "Return",
+                                    "Do not return"
                                 ],
                                 1,
                                 0,
@@ -2652,14 +2652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おひさしぶりです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうも、NoTearsのサークル主です。"
+                                "Long time no see. This is the circle leader of NoTears."
                             ]
                         },
                         {
@@ -2676,21 +2669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この度は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅蓮飛翔ピュアフレイムを手に取っていただきありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやぁ、久々にRPGツクールいじりました。"
+                                "Thank you for picking up Guren Hishou Pure Flame. Ah, it's\nbeen a while since I tinkered with RPG Maker."
                             ]
                         },
                         {
@@ -2707,21 +2686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現在Unityで「聖騎士アルネ」のゲームを作成していますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちが開発いつ終わるかわからなくなってきたので、その前に一作品。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ということで作り始めたのが今作ピュアフレイムになります。"
+                                "Currently, I'm working on \"Holy Knight Arne\" in Unity, but\nsince I have no idea when that development will end, I\nstarted working on Pure Flame as a project before that."
                             ]
                         },
                         {
@@ -2738,28 +2703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当はエリザとかも戦闘に出したり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦闘中に変身解除されちゃったり……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みたいなことをやろうと思ってたのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それをやると全く終わらなくなるので泣く泣くカットしました。"
+                                "Originally, I wanted to have Eliza and others participate in\nbattles, and have transformations undone during combat...\nbut doing so would never end the project, so I reluctantly\ncut it."
                             ]
                         },
                         {
@@ -2776,14 +2720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれ、エリザのエッチシーン多くない？」っておもったそこのあなた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正解です、本来はエリザちゃん、もうちょっと活躍する予定だったんです。"
+                                "\"Huh, aren't there a lot of Eliza's erotic scenes?\" If you\nthought that, you're correct. Originally, Eliza-chan was\nsupposed to play a more active role."
                             ]
                         },
                         {
@@ -2800,7 +2737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聖騎士アルネ等これからも制作がんばっていきます！"
+                                "I will continue to work hard on producing Holy Knight Arne\nand others!"
                             ]
                         },
                         {
@@ -2817,7 +2754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兎にも角にも、あそんでくれてありがとうございました！"
+                                "Anyway, thank you for playing!"
                             ]
                         },
                         {
@@ -2834,28 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、それと、ハーレムENDの条件を満たしたあと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "各ヒロインに中出しをすると、ヒロインが低確率で××しちゃいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エンディングのイラストがちょろっとだけ変わります！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "××しちゃったかは子宮内描写画面で確認することが出来ます。"
+                                "Oh, and after fulfilling the conditions for the harem END,\nif you ejaculate inside each heroine, there's a low chance\nthe heroine will get pregnant. The ending illustration\nchanges slightly! Whether she got pregnant can be confirmed\non the uterine depiction screen."
                             ]
                         },
                         {
@@ -2932,21 +2848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お買い上げ&プレイ頂きありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャラデザや戦闘シーン等のイラスト、断面図のアニメーションなど担当したカクダイです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今作お楽しみいただけましたでしょうか？"
+                                "Thank you for your purchase and for playing. I'm Kakudai,\nresponsible for character design, battle scene\nillustrations, cross-section animations, and more. Did you\nenjoy this work?"
                             ]
                         },
                         {
@@ -2963,14 +2865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのキャラデザに関してですが、ピュアダークちゃんだけは今回特殊でして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メスガキキャラという指定以外は何もありませんでした。"
+                                "Regarding the character design, Pure Dark-chan was a special\ncase this time, with the only specification being that she's\na bratty girl character, with no other instructions."
                             ]
                         },
                         {
@@ -2987,28 +2882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自由に趣味を詰め込んで良いですよ～というお話をケンジさんからいただき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とてもありがたく思いつつ胸出しゴスロリ風ロリ巨乳片目隠れクスクス笑いメスガキに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "させていただきました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きなもの全部詰め。"
+                                "Kenji-san told me I could freely incorporate my hobbies,\nwhich I was very grateful for, so I made her into a bratty\ngirl character with an exposed chest, goth-loli style, big\nbreasts, one eye hidden, and a snickering laugh. I packed in\neverything I like."
                             ]
                         },
                         {
@@ -3025,14 +2899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな経緯もあって個人的に今作でも特にお気に入りのキャラです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたにも気に入って頂けたなら嬉しい限りです。"
+                                "With that background, she's personally my favorite character\nin this work. I would be delighted if you liked her too."
                             ]
                         },
                         {
@@ -3049,21 +2916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現在製作中のアクションゲームもエロアニメーション等担当として頑張っていますので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "発売された暁にはそちらも遊んでいただけましたら幸いです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくお願いします～"
+                                "I'm currently working hard on an action game, also in charge\nof the erotic animations, so I would be grateful if you\ncould play it once it's released. Thank you very much!"
                             ]
                         },
                         {

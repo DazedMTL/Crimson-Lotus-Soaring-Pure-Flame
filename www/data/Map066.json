@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ケンジ部屋",
+    "displayName": "Kenji's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2527,15 +2527,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0008]ケンジ様……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "わたくしが、もっと早く駆けつけていれば……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0008]\\N<Flare>Lord Kenji... If only I had arrived sooner..."
                             ]
                         },
                         {
@@ -2554,15 +2546,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0016]必ず助け出しますから、もう少し待っててくださいませ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "どんな犠牲を払っても、何をしてでも、助けに行きますわ……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0016]\\N<Flare>I will definitely rescue you, so please wait a little\nlonger... No matter the sacrifice, no matter what it takes,\nI will come to save you..."
                             ]
                         },
                         {
@@ -2570,7 +2554,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "自分の部屋に戻る"
+                                    "Return to my room"
                                 ],
                                 0,
                                 0,

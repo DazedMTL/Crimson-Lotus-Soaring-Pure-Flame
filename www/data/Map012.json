@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ケンジ部屋",
+    "displayName": "Kenji's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2546,7 +2546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\AA[FFFF]\\FFFF[1010Furea_0004]こんばんわですわ、ケンジ様♪"
+                                "\\AA[FFFF]\\FFFF[1010Furea_0004]\\N<Flare>Good evening, Lord Kenji♪"
                             ]
                         },
                         {
@@ -2563,14 +2563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FF]\\FF[1000Kenji_0003]\\FFFF[1010Furea_0004]あっ、フレア。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良く来たね、まぁくつろいでいってよ。"
+                                "\\FX[FF]\\AA[FF]\\FF[1000Kenji_0003]\\FFFF[1010Furea_0004]\\N<Kenji>Ah, Flare. It's good to see you, make yourself comfortable."
                             ]
                         },
                         {
@@ -2587,7 +2580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FFFF]\\FF[1000Kenji_0003]\\FFFF[1010Furea_0000]はい♪"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1000Kenji_0003]\\FFFF[1010Furea_0000]\\N<Flare>Yes♪"
                             ]
                         },
                         {
@@ -2604,21 +2597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ケンジ>\\AA[F]\\M[InL]\\F[1000Kenji_0007]\\FFFF[1010Furea_0000]（フ、フレアが来る前に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんとした部屋に通してもらってよかった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしもあの時、総司令官さんが通りかからなかったら……）"
+                                "\\AA[F]\\M[InL]\\F[1000Kenji_0007]\\FFFF[1010Furea_0000]\\N<Kenji>(I'm glad I had the room tidied up before Flare arrived...\nIf the commander hadn't passed by at that moment...)"
                             ]
                         },
                         {
@@ -2635,14 +2614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<ケンジ>\\AA[F]\\F[1000Kenji_0012]\\FFFF[1010Furea_0000]うん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうかんがえるのやめよう……"
+                                "\\AA[F]\\F[1000Kenji_0012]\\FFFF[1010Furea_0000]\\N<Kenji>Yeah... let's not think about that anymore..."
                             ]
                         },
                         {
@@ -2659,7 +2631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\AA[FFFF]\\F[1000Kenji_0012]\\FFFF[1010Furea_0000]……？"
+                                "\\AA[FFFF]\\F[1000Kenji_0012]\\FFFF[1010Furea_0000]\\N<Flare>...?"
                             ]
                         },
                         {
@@ -2692,7 +2664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……"
+                                "..."
                             ]
                         },
                         {
@@ -2783,7 +2755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0002]えっと、ケンジ様と……"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0002]\\N<Flare>Um, with Kenji-sama and..."
                             ]
                         },
                         {
@@ -2791,9 +2763,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ラヴィの補給",
-                                    "少しお話を……",
-                                    "自分の部屋に戻る"
+                                    "Replenish Lavi",
+                                    "Let's talk a bit",
+                                    "Return to my room"
                                 ],
                                 2,
                                 0,
@@ -2834,7 +2806,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0016]\\FFFFF[1000Kenji_0000]あ、あの……"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0016]\\FFFFF[1000Kenji_0000]\\N<Flare>Ah, um..."
                             ]
                         },
                         {
@@ -2851,14 +2823,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ケンジ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0016]\\FFFFF[1000Kenji_0003]ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうかした？"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0016]\\FFFFF[1000Kenji_0003]\\N<Kenji>Hm? What's wrong?"
                             ]
                         },
                         {
@@ -2875,7 +2840,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0011]\\FFFFF[1000Kenji_0003]……"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0011]\\FFFFF[1000Kenji_0003]\\N<Flare>..."
                             ]
                         },
                         {
@@ -2892,14 +2857,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0008]\\FFFFF[1000Kenji_0003]（敵に敗れ汚れてしまった体で……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんな事お願いできませんわ……）"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0008]\\FFFFF[1000Kenji_0003]\\N<Flare>(Defeated by the enemy and soiled... I can't possibly ask\nfor such a thing...)"
                             ]
                         },
                         {
@@ -2916,14 +2874,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[F]\\AA[F]\\F[1010Furea_0016]\\FFFFF[1000Kenji_0003]い、いえ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何でも……ございませんわ……"
+                                "\\FX[F]\\AA[F]\\F[1010Furea_0016]\\FFFFF[1000Kenji_0003]\\N<Flare>N-no... It's nothing..."
                             ]
                         },
                         {
@@ -2940,7 +2891,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ケンジ>\\FX[F]\\AA[FFFFF]\\F[1010Furea_0016]\\FFFFF[1000Kenji_0004]？"
+                                "\\FX[F]\\AA[FFFFF]\\F[1010Furea_0016]\\FFFFF[1000Kenji_0004]\\N<Kenji>?"
                             ]
                         },
                         {
@@ -2967,14 +2918,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0010]えっと、えっと、その、あの……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "きょきょきょ、今日は……///"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0010]\\N<Flare>Well, well, that, um... to-to-today is...///"
                             ]
                         },
                         {
@@ -2982,9 +2926,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "騎乗位で",
-                                    "お口で",
-                                    "考え直す"
+                                    "Cowgirl position",
+                                    "With my mouth",
+                                    "Rethink this"
                                 ],
                                 2,
                                 0,
@@ -3005,9 +2949,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "フレアと騎乗位で Lv1",
-                                    "if(s[205])フレアと騎乗位で Lv2",
-                                    "if(s[206]&&s[41])フレアと騎乗位で Lv3"
+                                    "With Flare in cowgirl position, Lv1",
+                                    "if(s[205])With Flare, in cowgirl position, to Lv2",
+                                    "if(s[206]&&s[41])Mount Flare in cowgirl position, Lv3"
                                 ],
                                 -2,
                                 0,
@@ -3132,9 +3076,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "フレアお口で Lv1",
-                                    "if(s[202])フレアお口で Lv2",
-                                    "if(s[203]&&s[207])フレアお口で Lv3"
+                                    "Flare, oral level 1",
+                                    "if(s[202])Flare, oral level 2",
+                                    "if(s[203]&&s[207])Flare, oral level 3"
                                 ],
                                 -2,
                                 0,
@@ -3312,14 +3256,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FFFF]\\FF[1000Kenji_0000]\\FFFF[1010Furea_0003]このお部屋は……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "和室でわたくしのお部屋とは雰囲気が異なりますね。"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1000Kenji_0000]\\FFFF[1010Furea_0003]\\N<Flare>This room is...? It's a Japanese-style room, quite different\nfrom mine."
                             ]
                         },
                         {
@@ -3336,21 +3273,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FF]\\FF[1000Kenji_0003]\\FFFF[1010Furea_0003]うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクはこういう和風の部屋が好きだから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ありがたいかなって思うよ♪"
+                                "\\FX[FF]\\AA[FF]\\FF[1000Kenji_0003]\\FFFF[1010Furea_0003]\\N<Kenji>Yeah. I like Japanese-style rooms, so I'm pretty grateful\nfor it.♪"
                             ]
                         },
                         {
@@ -3367,14 +3290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FF]\\FF[1000Kenji_0003]\\FFFF[1010Furea_0003]それに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクの好きな漫画とかゲームも置いてくれてるし♪"
+                                "\\FX[FF]\\AA[FF]\\FF[1000Kenji_0003]\\FFFF[1010Furea_0003]\\N<Kenji>Plus, they've put my favorite manga and games here too.♪"
                             ]
                         },
                         {
@@ -3391,14 +3307,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FFFF]\\FF[1000Kenji_0003]\\FFFF[1010Furea_0004]ふふ、ケンジ様も満足しているようで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "安心いたしましたわ♪"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1000Kenji_0003]\\FFFF[1010Furea_0004]\\N<Flare>Hehe, it seems Kenji-sama is satisfied, which relieves me.♪"
                             ]
                         },
                         {
@@ -3438,15 +3347,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\MMMM[jump]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0003]怪人退治お疲れ様♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "すごいよ、フレアっ♪"
+                                "\\FX[FF]\\AA[FFFF]\\MMMM[jump]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0003]\\N<Kenji>Good job on defeating the monster♪ You're amazing, Flare!♪"
                             ]
                         },
                         {
@@ -3465,15 +3366,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[no]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0003]そ、そんな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "今回はたまたま勝てただけですわ……"
+                                "\\FX[FF]\\AA[FF]\\MM[no]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0003]\\N<Flare>No, no... It was just luck this time..."
                             ]
                         },
                         {
@@ -3492,7 +3385,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0003]そんな謙遜しなくっても……"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0003]\\N<Kenji>You don't have to be so modest..."
                             ]
                         },
                         {
@@ -3511,7 +3404,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0000]フレアが頑張ってるのはボクがよく知ってるからさ♪"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0000]\\N<Kenji>I know very well how hard Flare is working.♪"
                             ]
                         },
                         {
@@ -3530,15 +3423,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[no]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0000]ケ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ケンジ様……"
+                                "\\FX[FF]\\AA[FF]\\MM[no]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0000]\\N<Flare>Ke-Kenji-sama..."
                             ]
                         },
                         {
@@ -3557,15 +3442,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0014]\\FFFF[1000Kenji_0000]それを仰るのでしたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ラヴィを補給してくださるケンジ様のおかげでもありますわ。"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0014]\\FFFF[1000Kenji_0000]\\N<Flare>If you say so, it's also thanks to Kenji-sama who\nreplenishes my Ravi."
                             ]
                         },
                         {
@@ -3584,7 +3461,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0014]\\FFFF[1000Kenji_0002]ボ、ボボ、ボクは何もしてないよ……(汗)"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0014]\\FFFF[1000Kenji_0002]\\N<Kenji>I-I-I haven't done anything...(sweat)"
                             ]
                         },
                         {
@@ -3603,15 +3480,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0002]ふふっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ケンジ様こそ、ご謙遜なさらなくても……♪"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0002]\\N<Flare>Hehe♪ You don't have to be so modest, Kenji-sama...♪"
                             ]
                         },
                         {
@@ -3630,15 +3499,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0000]そ、そういえば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "司令室に帰ってきたとき、みんな褒めてたねっ!!"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0000]\\N<Kenji>Speaking of which, when we returned to the command room,\neveryone was praising you!!"
                             ]
                         },
                         {
@@ -3657,15 +3518,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0000]えぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "皆さん喜んでくれて、とても嬉しかったですわ。"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0000]\\N<Flare>Yes. Everyone was pleased, and it made me very happy."
                             ]
                         },
                         {
@@ -3684,7 +3537,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0004]そういえば、あの、ギドウって人……"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0004]\\N<Kenji>Speaking of which, that Guido guy..."
                             ]
                         },
                         {
@@ -3703,15 +3556,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0007]自分がフレアのタイプって自称してたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "フレアのタイプの人とはかなり違うよねぇ(笑)"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0007]\\N<Kenji>He claimed to be Flare's type, but he's quite different from\nwhat Flare likes, isn't he? (laugh)"
                             ]
                         },
                         {
@@ -3730,15 +3575,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[no]\\FF[1010Furea_0015]\\FFFF[1000Kenji_0007]え……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "えぇ……そうですわね……"
+                                "\\FX[FF]\\AA[FF]\\MM[no]\\FF[1010Furea_0015]\\FFFF[1000Kenji_0007]\\N<Flare>E-eh... Yes, that's true..."
                             ]
                         },
                         {
@@ -3757,7 +3594,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0015]\\FFFF[1000Kenji_0004]……？"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0015]\\FFFF[1000Kenji_0004]\\N<Kenji>...?"
                             ]
                         },
                         {
@@ -3786,15 +3623,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0003]怪人退治お疲れ様っ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "順調みたいだねっ♪"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0003]\\N<Kenji>Good job on defeating the monster♪ It seems to be going\nsmoothly♪"
                             ]
                         },
                         {
@@ -3813,15 +3642,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0003]えぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ケンジ様のおかげで順調ですわっ♪"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0003]\\N<Flare>Yes. It's going smoothly thanks to Kenji-sama♪"
                             ]
                         },
                         {
@@ -3840,15 +3661,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0000]総司令さんも、エリザも褒めてじゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "フレアの戦い方が良いんだよ。"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0000]\\N<Kenji>The supreme commander and Eliza praised you too, right? Your\nfighting style is good."
                             ]
                         },
                         {
@@ -3867,15 +3680,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0000]そ、そんな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "褒めても何も出ませんわ……♪"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0000]\\N<Flare>So-so... Praise won't get you anything...♪"
                             ]
                         },
                         {
@@ -3894,15 +3699,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0012]そ、そういえば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ちょっと聞きたいんだけど……"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0002]\\FFFF[1000Kenji_0012]\\N<Kenji>Speaking of which, I wanted to ask something..."
                             ]
                         },
                         {
@@ -3921,7 +3718,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0014]\\FFFF[1000Kenji_0012]はい、なんでしょう？"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0014]\\FFFF[1000Kenji_0012]\\N<Flare>Yes, what is it?"
                             ]
                         },
                         {
@@ -3940,15 +3737,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0014]\\FFFF[1000Kenji_0007]あの、ギドウさんの言ってた、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "フレアに告白されたって……"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0014]\\FFFF[1000Kenji_0007]\\N<Kenji>About what Guido-san said, about being confessed to by\nFlare..."
                             ]
                         },
                         {
@@ -3967,7 +3756,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[jump]\\FF[1010Furea_0011]\\FFFF[1000Kenji_0007]っ!!"
+                                "\\FX[FF]\\AA[FF]\\MM[jump]\\FF[1010Furea_0011]\\FFFF[1000Kenji_0007]\\N<Flare>!!"
                             ]
                         },
                         {
@@ -3986,15 +3775,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[no]\\FF[1010Furea_0016]\\FFFF[1000Kenji_0007]え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "えぇっと……"
+                                "\\FX[FF]\\AA[FF]\\MM[no]\\FF[1010Furea_0016]\\FFFF[1000Kenji_0007]\\N<Flare>E-ehm..."
                             ]
                         },
                         {
@@ -4013,23 +3794,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\MM[jump]\\FF[1010Furea_0003]\\FFFF[1000Kenji_0007]ほ、ほら、ケンジ様っ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "そんなことより、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "ショッピングモールの方に、アイス屋さんが出来たらしいですわ。"
+                                "\\FX[FF]\\AA[FF]\\MM[jump]\\FF[1010Furea_0003]\\FFFF[1000Kenji_0007]\\N<Flare>L-look, Kenji-sama. More importantly, it seems an ice cream\nshop has opened at the shopping mall."
                             ]
                         },
                         {
@@ -4048,7 +3813,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<フレア>\\FX[FF]\\AA[FF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0007]今度一緒に食べに行きませんか？"
+                                "\\FX[FF]\\AA[FF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0007]\\N<Flare>Shall we go eat there together sometime?"
                             ]
                         },
                         {
@@ -4067,7 +3832,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\MMMM[jump]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0002]え？"
+                                "\\FX[FF]\\AA[FFFF]\\MMMM[jump]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0002]\\N<Kenji>Eh?"
                             ]
                         },
                         {
@@ -4086,15 +3851,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0003]あ、あぁ、そうだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "CodeName": "文章の表示",
-                            "parameters": [
-                                "今度一緒に食べに行こう♪"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0003]\\N<Kenji>Oh, yeah. Let's go eat there together next time.♪"
                             ]
                         },
                         {
@@ -4113,7 +3870,7 @@
                             "indent": 3,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<ケンジ>\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0004]（あんまり触れられたくないみたいだな……？）"
+                                "\\FX[FF]\\AA[FFFF]\\FF[1010Furea_0004]\\FFFF[1000Kenji_0004]\\N<Kenji>(She seems to not want to touch on that topic...?)"
                             ]
                         },
                         {

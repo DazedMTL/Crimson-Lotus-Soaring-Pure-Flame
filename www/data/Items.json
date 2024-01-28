@@ -4,7 +4,7 @@
         "id": 1,
         "animationId": 41,
         "consumable": true,
-        "description": "ＨＰを５００ポイント回復する。",
+        "description": "Recovers 500 HP.",
         "effects": [
             {
                 "code": 11,
@@ -16,7 +16,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 20,
@@ -38,7 +38,7 @@
         "id": 2,
         "animationId": 41,
         "consumable": true,
-        "description": "ＨＰを２０００ポイント回復する。",
+        "description": "Recovers 2000 HP.",
         "effects": [
             {
                 "code": 11,
@@ -50,7 +50,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ハイポーション",
+        "name": "High Potion",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -72,7 +72,7 @@
         "id": 3,
         "animationId": 41,
         "consumable": true,
-        "description": "ＨＰを完全に回復する。",
+        "description": "Completely recovers HP.",
         "effects": [
             {
                 "code": 11,
@@ -84,7 +84,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "フルポーション",
+        "name": "Full Potion",
         "note": "",
         "occasion": 0,
         "price": 150,
@@ -132,7 +132,7 @@
         "id": 5,
         "animationId": 41,
         "consumable": true,
-        "description": "ＭＰを５０ポイント回復する。",
+        "description": "Recovers 50 MP.",
         "effects": [
             {
                 "code": 12,
@@ -144,7 +144,7 @@
         "hitType": 0,
         "iconIndex": 180,
         "itypeId": 1,
-        "name": "エーテル",
+        "name": "Ether",
         "note": "",
         "occasion": 0,
         "price": 50,
@@ -166,7 +166,7 @@
         "id": 6,
         "animationId": 41,
         "consumable": true,
-        "description": "ＭＰを２００ポイント回復する。",
+        "description": "Recovers 200 MP.",
         "effects": [
             {
                 "code": 12,
@@ -178,7 +178,7 @@
         "hitType": 0,
         "iconIndex": 180,
         "itypeId": 1,
-        "name": "ハイエーテル",
+        "name": "High Ether",
         "note": "",
         "occasion": 0,
         "price": 150,
@@ -200,7 +200,7 @@
         "id": 7,
         "animationId": 41,
         "consumable": true,
-        "description": "ＭＰを全回復する。",
+        "description": "Completely recovers MP.",
         "effects": [
             {
                 "code": 12,
@@ -212,7 +212,7 @@
         "hitType": 0,
         "iconIndex": 180,
         "itypeId": 1,
-        "name": "エンドエーテル",
+        "name": "End Ether",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -260,7 +260,7 @@
         "id": 9,
         "animationId": 41,
         "consumable": true,
-        "description": "ＨＰとＭＰを完全に回復する。",
+        "description": "Completely recovers both HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -278,7 +278,7 @@
         "hitType": 0,
         "iconIndex": 180,
         "itypeId": 1,
-        "name": "エリクサー",
+        "name": "Elixir",
         "note": "",
         "occasion": 0,
         "price": 1000,
@@ -307,7 +307,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＭＰを100ポイント回復する",
+        "description": "Recovers 100 MP",
         "effects": [
             {
                 "code": 12,
@@ -319,7 +319,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "マジックウォーター",
+        "name": "Magic Water",
         "note": "",
         "occasion": 0,
         "price": 150,
@@ -340,7 +340,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "毒状態を治療する",
+        "description": "Cures poison status",
         "effects": [
             {
                 "code": 22,
@@ -352,7 +352,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "毒消し",
+        "name": "Antidote",
         "note": "",
         "occasion": 0,
         "price": 15,
@@ -373,7 +373,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘不能以外の状態異常を治療する",
+        "description": "Cures all status abnormalities except for incapacitation",
         "effects": [
             {
                 "code": 22,
@@ -427,7 +427,7 @@
         "hitType": 0,
         "iconIndex": 183,
         "itypeId": 1,
-        "name": "万能草",
+        "name": "Panacea",
         "note": "",
         "occasion": 0,
         "price": 90,
@@ -448,7 +448,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "戦闘不能から復活させる",
+        "description": "Revives from incapacitation",
         "effects": [
             {
                 "code": 22,
@@ -460,7 +460,7 @@
         "hitType": 0,
         "iconIndex": 178,
         "itypeId": 1,
-        "name": "復活剤",
+        "name": "Revival Medicine",
         "note": "",
         "occasion": 0,
         "price": 150,
@@ -481,7 +481,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "戦闘不能から完全復活させる",
+        "description": "Fully revives from incapacitation",
         "effects": [
             {
                 "code": 22,
@@ -493,7 +493,7 @@
         "hitType": 0,
         "iconIndex": 178,
         "itypeId": 1,
-        "name": "リザレクション",
+        "name": "Resurrection",
         "note": "",
         "occasion": 0,
         "price": 400,
@@ -514,7 +514,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを完全回復する",
+        "description": "Completely recovers HP and MP",
         "effects": [
             {
                 "code": 11,
@@ -532,7 +532,7 @@
         "hitType": 0,
         "iconIndex": 179,
         "itypeId": 1,
-        "name": "エリクサー",
+        "name": "Elixir",
         "note": "",
         "occasion": 0,
         "price": 1000,
@@ -553,7 +553,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを完全回復する",
+        "description": "Completely recovers HP and MP",
         "effects": [
             {
                 "code": 11,
@@ -571,7 +571,7 @@
         "hitType": 0,
         "iconIndex": 179,
         "itypeId": 1,
-        "name": "ラストエリクサー",
+        "name": "Last Elixir",
         "note": "",
         "occasion": 0,
         "price": 5000,
@@ -592,7 +592,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＨＰを50ポイント上げる",
+        "description": "Increases Max HP by 50 points",
         "effects": [
             {
                 "code": 42,
@@ -604,7 +604,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ライフアップ",
+        "name": "Life Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -625,7 +625,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＭＰを10ポイント上げる",
+        "description": "Increases Max MP by 10 points",
         "effects": [
             {
                 "code": 42,
@@ -637,7 +637,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "マナアップ",
+        "name": "Mana Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -658,7 +658,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "攻撃力を1ポイント上げる",
+        "description": "Increases Attack by 1 point",
         "effects": [
             {
                 "code": 42,
@@ -670,7 +670,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "パワーアップ",
+        "name": "Power Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -691,7 +691,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "防御力を3ポイント上げる",
+        "description": "Increases Defense by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -703,7 +703,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ガードアップ",
+        "name": "Guard Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -724,7 +724,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法力を3ポイント上げる",
+        "description": "Increases M. Power by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -736,7 +736,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "マジックアップ",
+        "name": "Magic Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -757,7 +757,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法防御を3ポイント上げる",
+        "description": "Increases M. Defense by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -769,7 +769,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "レジストアップ",
+        "name": "Resist Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -790,7 +790,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "敏捷性を3ポイント上げる",
+        "description": "Increases Agility by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -802,7 +802,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "スピードアップ",
+        "name": "Speed Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -823,7 +823,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "運を3ポイント上げる",
+        "description": "Increases Luck by 3 points",
         "effects": [
             {
                 "code": 42,
@@ -835,7 +835,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "ラックアップ",
+        "name": "Luck Up",
         "note": "",
         "occasion": 2,
         "price": 200,
@@ -1251,7 +1251,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "--重要アイテム",
+        "name": "--Key Items",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1272,12 +1272,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "なんか凄く高そうだ……\n下手に売ったりしたら命まで売ることになりかねない。",
+        "description": "This looks incredibly expensive... Carelessly selling it might cost\nyou your life.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 144,
         "itypeId": 2,
-        "name": "エリザのブレスレット",
+        "name": "Eliza's Bracelet",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1298,12 +1298,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "回想シーン解放に必要なカケラ。\n集めて回想シーンを開放しよう！",
+        "description": "A fragment needed to unlock a reminiscence scene. Collect them to\nunlock the scenes!",
         "effects": [],
         "hitType": 0,
         "iconIndex": 169,
         "itypeId": 1,
-        "name": "回想のカケラ",
+        "name": "Fragment of Reminiscence",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -1324,7 +1324,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「攻撃」より強い「攻撃・弐」を覚えられる書。",
+        "description": "A book that teaches \"Attack II,\" which is stronger than \"Attack.\"",
         "effects": [
             {
                 "code": 43,
@@ -1336,7 +1336,7 @@
         "hitType": 0,
         "iconIndex": 187,
         "itypeId": 1,
-        "name": "攻撃・弐の書",
+        "name": "Attack Book II",
         "note": "",
         "occasion": 2,
         "price": 500,
@@ -1357,7 +1357,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「攻撃・弐」より強い「攻撃・参」を覚えられる書。",
+        "description": "A book that teaches \"Attack III,\" which is stronger than \"Attack II.\"",
         "effects": [
             {
                 "code": 43,
@@ -1369,7 +1369,7 @@
         "hitType": 0,
         "iconIndex": 187,
         "itypeId": 1,
-        "name": "攻撃・参の書",
+        "name": "Attack Book III",
         "note": "",
         "occasion": 2,
         "price": 1000,
@@ -1390,7 +1390,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "妊娠確率が100％になる、とてもアヤシイ薬。",
+        "description": "A very suspicious drug that makes pregnancy probability 100%.",
         "effects": [
             {
                 "code": 44,
@@ -1402,7 +1402,7 @@
         "hitType": 0,
         "iconIndex": 178,
         "itypeId": 1,
-        "name": "妊娠薬",
+        "name": "Pregnancy Drug",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1423,12 +1423,12 @@
             "type": 1,
             "variance": 0
         },
-        "description": "使うと体力がなくなってしまう！\n間違っても飲んじゃダメだ！",
+        "description": "Using it will deplete your strength! Don't drink it by mistake!",
         "effects": [],
         "hitType": 0,
         "iconIndex": 177,
         "itypeId": 1,
-        "name": "自爆薬",
+        "name": "Self-Destructive Drug",
         "note": "",
         "occasion": 0,
         "price": 10,
@@ -1449,7 +1449,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "「攻撃」とは異なる属性を出せる戦闘方法",
+        "description": "A combat method that produces a different attribute than \"Attack\"",
         "effects": [
             {
                 "code": 43,
@@ -1461,7 +1461,7 @@
         "hitType": 0,
         "iconIndex": 187,
         "itypeId": 1,
-        "name": "攻撃・壱の書",
+        "name": "Attack Book I",
         "note": "",
         "occasion": 2,
         "price": 100,
@@ -1799,7 +1799,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "--システムアイテム",
+        "name": "--System Items",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1832,7 +1832,7 @@
         "hitType": 0,
         "iconIndex": 102,
         "itypeId": 2,
-        "name": "位置確認くん",
+        "name": "Location Confirmation-kun",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1853,7 +1853,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "一撃必殺の攻撃を覚える",
+        "description": "Learns a one-hit kill attack",
         "effects": [
             {
                 "code": 44,
@@ -1865,7 +1865,7 @@
         "hitType": 0,
         "iconIndex": 102,
         "itypeId": 1,
-        "name": "チートスキルくん",
+        "name": "Cheat Skill-kun",
         "note": "",
         "occasion": 0,
         "price": 0,

@@ -111,7 +111,7 @@
             }
         ],
         "gold": 5,
-        "name": "クモ怪人",
+        "name": "Spider Monster",
         "note": "gcp_unknown_rate:0",
         "params": [
             100,
@@ -180,7 +180,7 @@
             }
         ],
         "gold": 50,
-        "name": "BOSSザコーズリーダー",
+        "name": "BOSS The Cores Leader",
         "note": "gcp_unknown_rate:0",
         "params": [
             400,
@@ -249,7 +249,7 @@
             }
         ],
         "gold": 0,
-        "name": "取り巻きザコーズ",
+        "name": "Lackey The Cores",
         "note": "gcp_unknown_rate:0",
         "params": [
             100,
@@ -313,7 +313,7 @@
             }
         ],
         "gold": 75,
-        "name": "BOSSゴブリンリーダー",
+        "name": "BOSS Goblin Leader",
         "note": "gcp_unknown_rate:20",
         "params": [
             1500,
@@ -382,7 +382,7 @@
             }
         ],
         "gold": 100,
-        "name": "BOSSスライムマザー",
+        "name": "BOSS Slime Mother",
         "note": "gcp_unknown_rate:30",
         "params": [
             3000,
@@ -467,7 +467,7 @@
             }
         ],
         "gold": 500,
-        "name": "BOSSピュアダーク",
+        "name": "BOSS Pure Dark",
         "note": "gcp_unknown_rate:30",
         "params": [
             7000,
@@ -543,7 +543,7 @@
             }
         ],
         "gold": 1000,
-        "name": "BOSSブラックキュート",
+        "name": "BOSS Black Cute",
         "note": "gcp_unknown_rate:30",
         "params": [
             9000,
@@ -624,7 +624,7 @@
             }
         ],
         "gold": 1000,
-        "name": "BOSSダークソルジャー",
+        "name": "BOSS Dark Soldier",
         "note": "gcp_unknown_rate:30",
         "params": [
             10000,
@@ -688,7 +688,7 @@
             }
         ],
         "gold": 500,
-        "name": "BOSSビッグテンタクル",
+        "name": "BOSS Big Tentacle",
         "note": "gcp_unknown_rate:30",
         "params": [
             5000,
@@ -769,7 +769,7 @@
             }
         ],
         "gold": 700,
-        "name": "BOSSヘルハウンド",
+        "name": "BOSS Hellhound",
         "note": "gcp_unknown_rate:30",
         "params": [
             8000,
@@ -855,7 +855,7 @@
             }
         ],
         "gold": 600,
-        "name": "BOSS偽ピュアフレイム",
+        "name": "BOSS Fake Pure Flame",
         "note": "gcp_unknown_rate:30",
         "params": [
             10000,
@@ -976,7 +976,7 @@
             }
         ],
         "gold": 0,
-        "name": "BOSS触手ギドウ",
+        "name": "BOSS Tentacle Guido",
         "note": "gcp_unknown_rate:30",
         "params": [
             13000,
@@ -1069,7 +1069,7 @@
             }
         ],
         "gold": 0,
-        "name": "BOSSブラック総統",
+        "name": "BOSS Black Emperor",
         "note": "gcp_unknown_rate:30",
         "params": [
             20000,
@@ -1150,7 +1150,7 @@
             }
         ],
         "gold": 0,
-        "name": "BOSSブラック総統",
+        "name": "BOSS Black Emperor",
         "note": "gcp_unknown_rate:30",
         "params": [
             40000,
@@ -1297,7 +1297,7 @@
             }
         ],
         "gold": 500,
-        "name": "BOSS?ピュアダーク",
+        "name": "BOSS? Pure Dark",
         "note": "gcp_unknown_rate:30",
         "params": [
             10000,
@@ -1373,7 +1373,7 @@
             }
         ],
         "gold": 1000,
-        "name": "BOSSブラックキュート",
+        "name": "BOSS Black Cute",
         "note": "gcp_unknown_rate:30",
         "params": [
             20000,
@@ -1456,7 +1456,7 @@
             }
         ],
         "gold": 1000,
-        "name": "アルティメットブラックキュート",
+        "name": "Ultimate Black Cute",
         "note": "gcp_unknown_rate:30",
         "params": [
             30000,
@@ -1518,7 +1518,7 @@
             }
         ],
         "gold": 0,
-        "name": "---エリア1-1---------------",
+        "name": "---Area 1-1---------------",
         "note": "",
         "params": [
             100,
@@ -1587,7 +1587,7 @@
             }
         ],
         "gold": 10,
-        "name": "ザコーズ",
+        "name": "The Cores",
         "note": "",
         "params": [
             40,
@@ -1656,7 +1656,7 @@
             }
         ],
         "gold": 15,
-        "name": "ゴブリン",
+        "name": "Goblin",
         "note": "",
         "params": [
             150,
@@ -1730,7 +1730,7 @@
             }
         ],
         "gold": 20,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             300,
@@ -1801,7 +1801,7 @@
             }
         ],
         "gold": 50,
-        "name": "触手",
+        "name": "Tentacle",
         "note": "",
         "params": [
             500,
@@ -1870,7 +1870,7 @@
             }
         ],
         "gold": 70,
-        "name": "狼",
+        "name": "Wolf",
         "note": "",
         "params": [
             800,
@@ -1939,7 +1939,7 @@
             }
         ],
         "gold": 120,
-        "name": "洗脳された一般人",
+        "name": "Brainwashed Civilian",
         "note": "",
         "params": [
             1000,
@@ -2008,7 +2008,7 @@
             }
         ],
         "gold": 120,
-        "name": "ザコーズLvMax",
+        "name": "The Cores LvMax",
         "note": "",
         "params": [
             1200,
@@ -3434,7 +3434,7 @@
             }
         ],
         "gold": 0,
-        "name": "---エロMOB---------------",
+        "name": "---Erotic MOB---------------",
         "note": "",
         "params": [
             100,
@@ -3517,7 +3517,7 @@
             }
         ],
         "gold": 10,
-        "name": "興奮したザコーズ",
+        "name": "Excited The Cores",
         "note": "",
         "params": [
             40,
@@ -3600,7 +3600,7 @@
             }
         ],
         "gold": 15,
-        "name": "興奮したゴブリン",
+        "name": "Excited Goblin",
         "note": "",
         "params": [
             150,
@@ -3688,7 +3688,7 @@
             }
         ],
         "gold": 20,
-        "name": "興奮したスライム",
+        "name": "Excited Slime",
         "note": "",
         "params": [
             300,
@@ -3773,7 +3773,7 @@
             }
         ],
         "gold": 50,
-        "name": "興奮した触手",
+        "name": "Excited Tentacle",
         "note": "",
         "params": [
             500,
@@ -3856,7 +3856,7 @@
             }
         ],
         "gold": 70,
-        "name": "発情した狼",
+        "name": "In Heat Wolf",
         "note": "",
         "params": [
             800,
@@ -3939,7 +3939,7 @@
             }
         ],
         "gold": 120,
-        "name": "欲情洗脳された一般人",
+        "name": "Lustful Brainwashed Civilian",
         "note": "",
         "params": [
             1000,
@@ -6667,7 +6667,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク1---------------",
+        "name": "---Rank 1---------------",
         "note": "",
         "params": [
             100,
@@ -6763,7 +6763,7 @@
             }
         ],
         "gold": 5,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             60,
@@ -6857,7 +6857,7 @@
             }
         ],
         "gold": 10,
-        "name": "こうもり",
+        "name": "Bat",
         "note": "",
         "params": [
             160,
@@ -6951,7 +6951,7 @@
             }
         ],
         "gold": 15,
-        "name": "ホーネット",
+        "name": "Hornet",
         "note": "",
         "params": [
             200,
@@ -7025,7 +7025,7 @@
             }
         ],
         "gold": 25,
-        "name": "お化けグモ",
+        "name": "Ghost Spider",
         "note": "",
         "params": [
             240,
@@ -7087,7 +7087,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク2-----------------",
+        "name": "---Rank 2-----------------",
         "note": "",
         "params": [
             100,
@@ -7175,7 +7175,7 @@
             }
         ],
         "gold": 42,
-        "name": "スネーク",
+        "name": "Snake",
         "note": "",
         "params": [
             320,
@@ -7266,7 +7266,7 @@
             }
         ],
         "gold": 50,
-        "name": "毒サボテン",
+        "name": "Poison Cactus",
         "note": "",
         "params": [
             370,
@@ -7338,7 +7338,7 @@
             }
         ],
         "gold": 70,
-        "name": "モアイ",
+        "name": "Moai",
         "note": "",
         "params": [
             420,
@@ -7407,7 +7407,7 @@
             }
         ],
         "gold": 90,
-        "name": "大ネズミ",
+        "name": "Giant Rat",
         "note": "",
         "params": [
             470,
@@ -7518,7 +7518,7 @@
             }
         ],
         "gold": 105,
-        "name": "陸上イカ",
+        "name": "Land Squid",
         "note": "",
         "params": [
             520,
@@ -7580,7 +7580,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク3--------------",
+        "name": "---Rank 3--------------",
         "note": "",
         "params": [
             100,
@@ -7694,7 +7694,7 @@
             }
         ],
         "gold": 130,
-        "name": "ウィスプ",
+        "name": "Wisp",
         "note": "",
         "params": [
             620,
@@ -7790,7 +7790,7 @@
             }
         ],
         "gold": 150,
-        "name": "インプ",
+        "name": "Imp",
         "note": "",
         "params": [
             670,
@@ -7919,7 +7919,7 @@
             }
         ],
         "gold": 180,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "",
         "params": [
             720,
@@ -8022,7 +8022,7 @@
             }
         ],
         "gold": 200,
-        "name": "ヒトギリ",
+        "name": "Hitogiri",
         "note": "",
         "params": [
             770,
@@ -8084,7 +8084,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク4--------------",
+        "name": "---Rank 4--------------",
         "note": "",
         "params": [
             100,
@@ -8215,7 +8215,7 @@
             }
         ],
         "gold": 220,
-        "name": "ゾンビ",
+        "name": "Zombie",
         "note": "",
         "params": [
             900,
@@ -8294,7 +8294,7 @@
             }
         ],
         "gold": 250,
-        "name": "オーク",
+        "name": "Orc",
         "note": "",
         "params": [
             950,
@@ -8430,7 +8430,7 @@
             }
         ],
         "gold": 280,
-        "name": "デビルパペット",
+        "name": "Devil Puppet",
         "note": "",
         "params": [
             1000,
@@ -8516,7 +8516,7 @@
             }
         ],
         "gold": 320,
-        "name": "ウェアウルフ",
+        "name": "Werewolf",
         "note": "",
         "params": [
             1050,
@@ -8649,7 +8649,7 @@
             }
         ],
         "gold": 500,
-        "name": "ミミック",
+        "name": "Mimic",
         "note": "",
         "params": [
             1200,
@@ -8711,7 +8711,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク5--------------",
+        "name": "---Rank 5--------------",
         "note": "",
         "params": [
             100,
@@ -8857,7 +8857,7 @@
             }
         ],
         "gold": 400,
-        "name": "ゴースト",
+        "name": "Ghost",
         "note": "",
         "params": [
             1200,
@@ -9018,7 +9018,7 @@
             }
         ],
         "gold": 440,
-        "name": "水のスピリット",
+        "name": "Water Spirit",
         "note": "",
         "params": [
             1280,
@@ -9119,7 +9119,7 @@
             }
         ],
         "gold": 480,
-        "name": "サハギン",
+        "name": "Sahuagin",
         "note": "",
         "params": [
             1360,
@@ -9242,7 +9242,7 @@
             }
         ],
         "gold": 520,
-        "name": "ヴァンパイア",
+        "name": "Vampire",
         "note": "",
         "params": [
             1440,
@@ -9331,7 +9331,7 @@
             }
         ],
         "gold": 600,
-        "name": "ケルベロス",
+        "name": "Cerberus",
         "note": "",
         "params": [
             1520,
@@ -9419,7 +9419,7 @@
             }
         ],
         "gold": 600,
-        "name": "ラミア",
+        "name": "Lamia",
         "note": "",
         "params": [
             1600,
@@ -9481,7 +9481,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク6--------------",
+        "name": "---Rank 6--------------",
         "note": "",
         "params": [
             100,
@@ -9574,7 +9574,7 @@
             }
         ],
         "gold": 1100,
-        "name": "ゲイザー",
+        "name": "Geyser",
         "note": "",
         "params": [
             2000,
@@ -9675,7 +9675,7 @@
             }
         ],
         "gold": 900,
-        "name": "コカトリス",
+        "name": "Cockatrice",
         "note": "",
         "params": [
             1700,
@@ -9833,7 +9833,7 @@
             }
         ],
         "gold": 1000,
-        "name": "死神",
+        "name": "Reaper",
         "note": "",
         "params": [
             1780,
@@ -9939,7 +9939,7 @@
             }
         ],
         "gold": 1200,
-        "name": "キマイラ",
+        "name": "Chimera",
         "note": "",
         "params": [
             1860,
@@ -10001,7 +10001,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク7--------------",
+        "name": "---Rank 7--------------",
         "note": "",
         "params": [
             100,
@@ -10099,7 +10099,7 @@
             }
         ],
         "gold": 1400,
-        "name": "アサシン",
+        "name": "Assassin",
         "note": "",
         "params": [
             1960,
@@ -10206,7 +10206,7 @@
             }
         ],
         "gold": 1600,
-        "name": "ガーゴイル",
+        "name": "Gargoyle",
         "note": "",
         "params": [
             2040,
@@ -10374,7 +10374,7 @@
             }
         ],
         "gold": 1800,
-        "name": "風のスピリット",
+        "name": "Wind Spirit",
         "note": "",
         "params": [
             2120,
@@ -10436,7 +10436,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク8--------------",
+        "name": "---Rank 8--------------",
         "note": "",
         "params": [
             100,
@@ -10522,7 +10522,7 @@
             }
         ],
         "gold": 2400,
-        "name": "ミノタウロス",
+        "name": "Minotaur",
         "note": "",
         "params": [
             2320,
@@ -10664,7 +10664,7 @@
             }
         ],
         "gold": 3200,
-        "name": "サキュバス",
+        "name": "Succubus",
         "note": "",
         "params": [
             2400,
@@ -10837,7 +10837,7 @@
             }
         ],
         "gold": 4000,
-        "name": "土のスピリット",
+        "name": "Earth Spirit",
         "note": "",
         "params": [
             2480,
@@ -10948,7 +10948,7 @@
             }
         ],
         "gold": 4800,
-        "name": "ドラゴン",
+        "name": "Dragon",
         "note": "",
         "params": [
             2560,
@@ -11010,7 +11010,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク9--------------",
+        "name": "---Rank 9--------------",
         "note": "",
         "params": [
             100,
@@ -11183,7 +11183,7 @@
             }
         ],
         "gold": 5600,
-        "name": "炎のスピリット",
+        "name": "Fire Spirit",
         "note": "",
         "params": [
             4000,
@@ -11274,7 +11274,7 @@
             }
         ],
         "gold": 6400,
-        "name": "オーガ",
+        "name": "Ogre",
         "note": "",
         "params": [
             4500,
@@ -11424,7 +11424,7 @@
             }
         ],
         "gold": 8000,
-        "name": "鉄巨人",
+        "name": "Iron Giant",
         "note": "",
         "params": [
             5000,
@@ -11542,7 +11542,7 @@
             }
         ],
         "gold": 10000,
-        "name": "ガルーダ",
+        "name": "Garuda",
         "note": "",
         "params": [
             5500,
@@ -11604,7 +11604,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク10--------------",
+        "name": "---Rank 10--------------",
         "note": "",
         "params": [
             100,
@@ -11744,7 +11744,7 @@
             }
         ],
         "gold": 11999,
-        "name": "デーモン",
+        "name": "Demon",
         "note": "",
         "params": [
             8000,
@@ -11862,7 +11862,7 @@
             }
         ],
         "gold": 14000,
-        "name": "ベヒーモス",
+        "name": "Behemoth",
         "note": "",
         "params": [
             10000,
@@ -11924,7 +11924,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク11--------------",
+        "name": "---Rank 11--------------",
         "note": "",
         "params": [
             100,
@@ -12097,7 +12097,7 @@
             }
         ],
         "gold": 20000,
-        "name": "暗黒魔道士",
+        "name": "Dark Mage",
         "note": "",
         "params": [
             20000,
@@ -12247,7 +12247,7 @@
             }
         ],
         "gold": 24000,
-        "name": "暗黒騎士",
+        "name": "Dark Knight",
         "note": "",
         "params": [
             25000,
@@ -12309,7 +12309,7 @@
             }
         ],
         "gold": 0,
-        "name": "---ランク12--------------",
+        "name": "---Rank 12--------------",
         "note": "",
         "params": [
             100,
@@ -12487,7 +12487,7 @@
             }
         ],
         "gold": 30000,
-        "name": "魔王",
+        "name": "Demon Lord",
         "note": "",
         "params": [
             30000,
@@ -12658,7 +12658,7 @@
             }
         ],
         "gold": 50000,
-        "name": "真・魔王",
+        "name": "True Demon Lord",
         "note": "",
         "params": [
             40000,
@@ -12890,7 +12890,7 @@
         "exp": 0,
         "traits": [],
         "gold": 0,
-        "name": "PLデバッグ（消して良い）",
+        "name": "PL Debug (Can be deleted)",
         "note": "",
         "params": [
             10,

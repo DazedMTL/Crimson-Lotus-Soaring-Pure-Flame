@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "----装備--------------------",
+        "name": "----Equipment--------------------",
         "note": "",
         "params": [
             0,
@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 6,
-        "description": "ピュアフレイムの使う剣。\n",
+        "description": "The sword used by Pure Flame.",
         "etypeId": 1,
         "traits": [
             {
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ピュアソード",
+        "name": "Pure Sword",
         "note": "",
         "price": 20,
         "wtypeId": 2,
@@ -76,7 +76,7 @@
     {
         "id": 3,
         "animationId": 6,
-        "description": "ピュアフレイムの使う剣。\n",
+        "description": "The sword used by Pure Flame.",
         "etypeId": 1,
         "traits": [
             {
@@ -91,7 +91,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ピュアソード+",
+        "name": "Pure Sword+",
         "note": "",
         "price": 100,
         "wtypeId": 2,
@@ -116,7 +116,7 @@
     {
         "id": 4,
         "animationId": 6,
-        "description": "ピュアフレイムの使う剣。\n",
+        "description": "The sword used by Pure Flame.",
         "etypeId": 1,
         "traits": [
             {
@@ -131,7 +131,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ピュアソード++",
+        "name": "Pure Sword++",
         "note": "",
         "price": 1000,
         "wtypeId": 2,

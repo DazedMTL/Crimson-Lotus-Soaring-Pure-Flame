@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フレア部屋",
+    "displayName": "Flare Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2627,14 +2627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0004]なんだか拠点の内部も活気づいてきたようですわ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々と変わったところがあるかもしれません、回ってみましょう♪"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0004]\\N<Flare>It seems the inside of our base has become more lively♪\nThere might be some changes around, let's take a look♪"
                             ]
                         },
                         {
@@ -2651,21 +2644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0000]今まで休むことはあまりしませんでしたが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たまには休息も必要かもしれませんわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一段落したらたまにはお休みもしてみましょう。"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0000]\\N<Flare>I haven't taken many breaks until now... but perhaps it's\nnecessary to rest occasionally. Once things settle down,\nlet's take some time off."
                             ]
                         },
                         {
@@ -2780,14 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0004]うふふ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は何をいたしましょうか♡"
+                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0004]Ufufu♪ What shall we do today?♡"
                             ]
                         },
                         {
@@ -2795,12 +2767,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "司令室へ",
-                                    "ショッピングモールへ",
-                                    "ケンジの部屋へ",
-                                    "今日は休む",
-                                    "回想部屋へ",
-                                    "メニュー"
+                                    "To the command room",
+                                    "To the shopping mall",
+                                    "To Kenji's room",
+                                    "Let's rest today",
+                                    "To the Memory Room",
+                                    "Menu"
                                 ],
                                 -1,
                                 0,
@@ -2905,7 +2877,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0004]たまにはお休みも必要ですもの……ね♪"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0004]\\N<Flare>Sometimes, we need to take a break...right?♪"
                             ]
                         },
                         {
@@ -2996,7 +2968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そしてその夜……"
+                                "And then, that night..."
                             ]
                         },
                         {
@@ -3004,10 +2976,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "if(s[207])エリザイベント",
-                                    "if(s[213])ピュアダークイベント",
-                                    "if(s[235]&&s[52])ブラックキュートイベント",
-                                    "特に何もなかった"
+                                    "if(s[207])Eliza Event",
+                                    "if(s[213])Pure Dark Event",
+                                    "if(s[235]&&s[52])Black Cute Event",
+                                    "Nothing in particular happened"
                                 ],
                                 2,
                                 0,
@@ -3028,11 +3000,11 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "エリザと初めての",
-                                    "エリザのお手々で",
-                                    "if(s[211])ピュアエリザベスと",
-                                    "if(s[211])エリザと後ろで ",
-                                    "考え直す"
+                                    "First time with Eliza",
+                                    "With Eliza's hands",
+                                    "if(s[211])With Pure Eliza",
+                                    "if(s[211])With Eliza from behind",
+                                    "Rethink it"
                                 ],
                                 -1,
                                 0,
@@ -3053,10 +3025,10 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "エリザと初めての Lv1",
-                                    "if(s[220])エリザと初めての Lv2",
-                                    "if(s[221])エリザと初めての Lv3",
-                                    "考え直す"
+                                    "First time with Eliza Lv1",
+                                    "if(s[220])First time with Eliza Lv2",
+                                    "if(s[221])First time with Eliza Lv3",
+                                    "Rethink this"
                                 ],
                                 -1,
                                 0,
@@ -3209,10 +3181,10 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "エリザのお手々で Lv1",
-                                    "if(s[223])エリザのお手々で Lv2",
-                                    "if(s[224])エリザのお手々で Lv3",
-                                    "考え直す"
+                                    "Eliza's hand, Lv1",
+                                    "if(s[223])Eliza's hand, Lv2",
+                                    "if(s[224])Eliza's hand, Lv3",
+                                    "Rethink this"
                                 ],
                                 -1,
                                 0,
@@ -3365,10 +3337,10 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "ピュアエリザベスと Lv1",
-                                    "if(s[226])ピュアエリザベスと Lv2",
-                                    "if(s[227])ピュアエリザベスと Lv3",
-                                    "考え直す"
+                                    "Pure Eliza - Lv1",
+                                    "if(s[226])Pure Eliza - Lv2",
+                                    "if(s[227])Pure Eliza and Lv3",
+                                    "Rethink this"
                                 ],
                                 -1,
                                 0,
@@ -3521,10 +3493,10 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "エリザと後ろで Lv1",
-                                    "if(s[229])エリザと後ろで Lv2",
-                                    "if(s[230])エリザと後ろで Lv3",
-                                    "考え直す"
+                                    "Eliza from behind Lv1",
+                                    "if(s[229])Eliza from behind Lv2",
+                                    "if(s[230])Eliza from behind Lv3",
+                                    "Rethink this"
                                 ],
                                 -1,
                                 0,
@@ -3707,10 +3679,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ピュアダークと拠点にて Lv1",
-                                    "if(s[233])ピュアダークと拠点にて Lv2",
-                                    "if(s[234])ピュアダークと拠点にて Lv3",
-                                    "考え直す"
+                                    "At the base with Pure Dark Lv1",
+                                    "if(s[233])At the base with Pure Dark Lv2",
+                                    "if(s[234])At the base with Pure Dark Lv3",
+                                    "Rethink this"
                                 ],
                                 -1,
                                 0,
@@ -3863,10 +3835,10 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "ブラックキュートと拠点にて Lv1",
-                                    "if(s[236])ブラックキュートと拠点にて Lv2",
-                                    "if(s[237])ブラックキュートと拠点にて Lv3",
-                                    "考え直す"
+                                    "At the base with Black Cute Lv1",
+                                    "if(s[236])At the base with Black Cute Lv2",
+                                    "if(s[237])At the base with Black Cute Lv3",
+                                    "Rethink this"
                                 ],
                                 -1,
                                 0,

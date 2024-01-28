@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "フレア部屋",
+    "displayName": "Flare Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2627,7 +2627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0000]さて、今日は何をいたしましょう……"
+                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0000]Now, what shall we do today..."
                             ]
                         },
                         {
@@ -2635,12 +2635,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "司令室へ",
-                                    "ショッピングモールへ",
-                                    "ケンジの部屋へ",
-                                    "今日は休む",
-                                    "回想部屋へ",
-                                    "メニュー"
+                                    "To the command room",
+                                    "Go to the shopping mall",
+                                    "To Kenji's room",
+                                    "Rest for today",
+                                    "Go to the Memory Room",
+                                    "Menu"
                                 ],
                                 -1,
                                 0,
@@ -2756,21 +2756,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0015]本当に寝てしまって良いのでしょうか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ら、ラヴィの補給をしませんと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "明日以降の戦いが辛いと思うのですが……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0015]\\N<Flare>Is it really okay to just go to sleep... If we don't\nreplenish our Lavi, I think the battles from tomorrow\nonwards will be tough..."
                             ]
                         },
                         {
@@ -2778,8 +2764,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "それでも休む",
-                                    "考え直す"
+                                    "Still, I'll rest",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,
@@ -2849,7 +2835,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N<フレア>\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0008]もう寝てしまいましょう……"
+                                "\\FX[FFF]\\AA[FFF]\\FFF[1010Furea_0008]\\N<Flare>Let's just go to sleep..."
                             ]
                         },
                         {

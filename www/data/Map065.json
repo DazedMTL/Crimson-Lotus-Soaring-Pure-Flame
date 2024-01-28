@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "商店街",
+    "displayName": "Shopping District",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2525,7 +2525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0016]どうしましょうか。"
+                                "\\AA[FF]\\FX[FF]\\FF[1010Furea_0016]What should we do?"
                             ]
                         },
                         {
@@ -2533,10 +2533,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "雑貨屋へ",
-                                    "ラヴィ開発室へ",
-                                    "if(s[253]&&!s[74])謎の店へ",
-                                    "部屋へ戻る"
+                                    "To the general store",
+                                    "To the Ravi Development Room",
+                                    "if(s[253]&&!s[74])To the mysterious shop",
+                                    "Return to the room"
                                 ],
                                 2,
                                 0,

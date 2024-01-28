@@ -127,7 +127,7 @@
                 "skillId": 20
             }
         ],
-        "name": "フレア",
+        "name": "Flare",
         "note": "<経験値テーブル:1>",
         "params": [
             [
@@ -1050,7 +1050,7 @@
                 "skillId": 25
             }
         ],
-        "name": "Aフレア",
+        "name": "A Flare",
         "note": "<経験値テーブル:1>",
         "params": [
             [
