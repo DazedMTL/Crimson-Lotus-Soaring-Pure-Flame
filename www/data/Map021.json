@@ -6439,7 +6439,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\I[31]\\N<Flare>Lord Kenji...!! Yes... Yes!! We won't let them take our\nfuture away!!"
+                                "\\I[31]\\N<Flare>Kenji-sama...!! Yes... Yes!! We won't let them take our\nfuture away!!"
                             ]
                         },
                         {
@@ -6485,7 +6485,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\I[31]\\N<Flare>I can feel it... A very warm power overflowing within\nme...!! From Black Cute-san, Pure Dark-san, Eliza-san, Lord\nKenji... I can feel a very warm power from everyone...!!"
+                                "\\I[31]\\N<Flare>I can feel it... A very warm power overflowing within\nme...!! From Black Cute-san, Pure Dark-san, Eliza-san, \nKenji-sama... I can feel a very warm power from everyone...!!"
                             ]
                         },
                         {
@@ -7205,7 +7205,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\N<Flare>Ufufu, Lord Kenji, you're quite popular. I'm so envious."
+                                "\\N<Flare>Ufufu, Kenji-sama, you're quite popular. I'm so envious."
                             ]
                         },
                         {
@@ -10906,7 +10906,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\I[31]\\N<Flare>Lord Kenji... Eliza-san...!! Yes... Yes!! We will surely\nwin!! We won't let it end here!!"
+                                "\\I[31]\\N<Flare>Kenji-sama... Eliza-san...!! Yes... Yes!! We will surely\nwin!! We won't let it end here!!"
                             ]
                         },
                         {
@@ -12209,7 +12209,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\I[31]\\N<Flare>Lord Kenji...!! Yes... Yes!! We won't let them take our\nfuture away!!"
+                                "\\I[31]\\N<Flare>Kenji-sama...!! Yes... Yes!! We won't let them take our\nfuture away!!"
                             ]
                         },
                         {
@@ -12255,7 +12255,7 @@
                             "indent": 0,
                             "CodeName": "文章の表示",
                             "parameters": [
-                                "\\I[31]\\N<Flare>I can feel it... a very warm power overflowing within my\nbody...!! From Black Cute-san, Pure Dark-san, Eliza-san,\nLord Kenji... a very warm power is being transmitted from\neveryone...!!"
+                                "\\I[31]\\N<Flare>I can feel it... a very warm power overflowing within my\nbody...!! From Black Cute-san, Pure Dark-san, Eliza-san,\nKenji-sama... a very warm power is being transmitted from\neveryone...!!"
                             ]
                         },
                         {
